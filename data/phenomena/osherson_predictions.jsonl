@@ -1,0 +1,22 @@
+{"idx": 1, "premise": ["robin"], "conclusion": "bird", "property": "have a higher potassium concentration in their blood than humans", "strength": 72.0, "phenomena_name": "premise typicality"}
+{"idx": 2, "premise": ["penguin"], "conclusion": "bird", "property": "have a higher potassium concentration in their blood than humans", "strength": 7.0, "phenomena_name": "premise typicality"}
+{"idx": 3, "premise": ["hippopotamus", "hamster"], "conclusion": "mammal", "property": "have a higher sodium concentration in their blood than humans", "strength": 59.0, "phenomena_name": "premise diversity (general)"}
+{"idx": 4, "premise": ["hippopotamus", "rhinoceros"], "conclusion": "mammal", "property": "have a higher sodium concentration in their blood than humans", "strength": 21.0, "phenomena_name": "premise diversity (general)"}
+{"idx": 5, "premise": ["blue jay", "falcon"], "conclusion": "bird", "property": "require vitamin k for the liver to function", "strength": 75.0, "phenomena_name": "conclusion specificity"}
+{"idx": 6, "premise": ["blue jay", "falcon"], "conclusion": "animal", "property": "require vitamin k for the liver to function", "strength": 5.0, "phenomena_name": "conclusion specificity"}
+{"idx": 7, "premise": ["hawk", "sparrow", "eagle"], "conclusion": "bird", "property": "have sesamoid bones", "strength": 75.0, "phenomena_name": "premise monotonicity (general)"}
+{"idx": 8, "premise": ["sparrow", "eagle"], "conclusion": "bird", "property": "have sesamoid bones", "strength": 5.0, "phenomena_name": "premise monotonicity (general)"}
+{"idx": 9, "premise": ["robin", "blue jay"], "conclusion": "sparrow", "property": "use serotonin as a neurotransmitter", "strength": 76.0, "phenomena_name": "premise conclusion similarity"}
+{"idx": 10, "premise": ["robin", "blue jay"], "conclusion": "goose", "property": "use serotonin as a neurotransmitter", "strength": 4.0, "phenomena_name": "premise conclusion similarity"}
+{"idx": 11, "premise": ["lion", "giraffe"], "conclusion": "rabbit", "property": "use norepinephrine as a neurotransmitter", "strength": 52.0, "phenomena_name": "premise diversity (specific)"}
+{"idx": 12, "premise": ["lion", "tiger"], "conclusion": "rabbit", "property": "use norepinephrine as a neurotransmitter", "strength": 28.0, "phenomena_name": "premise diversity (specific)"}
+{"idx": 13, "premise": ["fox", "pig", "wolf"], "conclusion": "gorilla", "property": "use vitamin k to produce clotting agents in their blood", "strength": 66.0, "phenomena_name": "premise monotonicity (specific)"}
+{"idx": 14, "premise": ["pig", "wolf"], "conclusion": "gorilla", "property": "use vitamin k to produce clotting agents in their blood", "strength": 14.0, "phenomena_name": "premise monotonicity (specific)"}
+{"idx": 15, "premise": ["mouse"], "conclusion": "bat", "property": "have a lower body temperature at infancy than at maturity", "strength": 40.0, "phenomena_name": "premise-conclusion asymmetry"}
+{"idx": 16, "premise": ["bat"], "conclusion": "mouse", "property": "have a lower body temperature at infancy than at maturity", "strength": 20.0, "phenomena_name": "premise-conclusion asymmetry"}
+{"idx": 17, "premise": ["crow", "peacock"], "conclusion": "bird", "property": "secrete uric acid crystals", "strength": 68.0, "phenomena_name": "nonmonotonicity (general)"}
+{"idx": 18, "premise": ["crow", "peacock", "rabbit"], "conclusion": "bird", "property": "secrete uric acid crystals", "strength": 12.0, "phenomena_name": "nonmonotonicity (general)"}
+{"idx": 19, "premise": ["fly"], "conclusion": "bee", "property": "require trace amounts of magnesium for reproduction", "strength": 51.0, "phenomena_name": "nonmonotonicity (specific)"}
+{"idx": 20, "premise": ["fly", "orangutan"], "conclusion": "bee", "property": "require trace amounts of magnesium for reproduction", "strength": 29.0, "phenomena_name": "nonmonotonicity (specific)"}
+{"idx": 21, "premise": ["robin"], "conclusion": "bird", "property": "have an ulnary artery", "strength": 52.0, "phenomena_name": "inclusion fallacy"}
+{"idx": 22, "premise": ["robin"], "conclusion": "ostrich", "property": "have an ulnary artery", "strength": 28.0, "phenomena_name": "inclusion fallacy"}

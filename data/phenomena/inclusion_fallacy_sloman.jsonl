@@ -1,0 +1,72 @@
+{"idx": 1, "premise": ["plant"], "conclusion": "flower", "property": "contain bryophytes", "strength": 0.92, "group": "high"}
+{"idx": 2, "premise": ["plant"], "conclusion": "moss", "property": "contain bryophytes", "strength": 0.83, "group": "low"}
+{"idx": 3, "premise": ["metal"], "conclusion": "iron", "property": "is pentavalent", "strength": 0.92, "group": "high"}
+{"idx": 4, "premise": ["metal"], "conclusion": "platinum", "property": "is pentavalent", "strength": 0.83, "group": "low"}
+{"idx": 5, "premise": ["body of water"], "conclusion": "lake", "property": "have a high number of seiches", "strength": 0.92, "group": "high"}
+{"idx": 6, "premise": ["body of water"], "conclusion": "reservoir", "property": "have a high number of seiches", "strength": 0.83, "group": "low"}
+{"idx": 7, "premise": ["carpentry tool"], "conclusion": "hammer", "property": "are subject to a special tariff", "strength": 0.92, "group": "high"}
+{"idx": 8, "premise": ["carpentry tool"], "conclusion": "awl", "property": "are subject to a special tariff", "strength": 0.84, "group": "low"}
+{"idx": 9, "premise": ["electronic"], "conclusion": "audio equipment", "property": "come with dual code serial numbers", "strength": 0.92, "group": "high"}
+{"idx": 10, "premise": ["electronic"], "conclusion": "kitchen appliance", "property": "come with dual code serial numbers", "strength": 0.84, "group": "low"}
+{"idx": 11, "premise": ["musical instrument"], "conclusion": "flute", "property": "can be designed with a diapason", "strength": 0.92, "group": "high"}
+{"idx": 12, "premise": ["musical instrument"], "conclusion": "cymbal", "property": "can be designed with a diapason", "strength": 0.84, "group": "low"}
+{"idx": 13, "premise": ["white collar worker"], "conclusion": "bank manager", "property": "are more prone to cholelithiasis", "strength": 0.92, "group": "high"}
+{"idx": 14, "premise": ["white collar worker"], "conclusion": "air traffic controller", "property": "are more prone to cholelithiasis", "strength": 0.85, "group": "low"}
+{"idx": 15, "premise": ["entertainer"], "conclusion": "nightclub singer", "property": "tend to live in smsa areas", "strength": 0.85, "group": "high"}
+{"idx": 16, "premise": ["entertainer"], "conclusion": "mime", "property": "tend to live in smsa areas", "strength": 0.85, "group": "low"}
+{"idx": 17, "premise": ["blue collar worker"], "conclusion": "construction worker", "property": "have a dc", "strength": 0.85, "group": "high"}
+{"idx": 18, "premise": ["blue collar worker"], "conclusion": "bicycle mechanic", "property": "have a dc", "strength": 0.85, "group": "low"}
+{"idx": 19, "premise": ["apple"], "conclusion": "mcintosh", "property": "are of the dioecious genus", "strength": 0.87, "group": "high"}
+{"idx": 20, "premise": ["fruit"], "conclusion": "mcintosh", "property": "are of the dioecious genus", "strength": 0.84, "group": "low"}
+{"idx": 21, "premise": ["flower"], "conclusion": "rose", "property": "are susceptible to thrips", "strength": 0.87, "group": "high"}
+{"idx": 22, "premise": ["plant"], "conclusion": "rose", "property": "are susceptible to thrips", "strength": 0.84, "group": "low"}
+{"idx": 23, "premise": ["body of salt water"], "conclusion": "gulf", "property": "are monomictic", "strength": 0.87, "group": "high"}
+{"idx": 24, "premise": ["body of water"], "conclusion": "gulf", "property": "are monomictic", "strength": 0.84, "group": "low"}
+{"idx": 25, "premise": ["brass instrument"], "conclusion": "french horn", "property": "have expansion valves", "strength": 0.94, "group": "high"}
+{"idx": 26, "premise": ["wind instrument"], "conclusion": "french horn", "property": "have expansion valves", "strength": 0.81, "group": "low"}
+{"idx": 27, "premise": ["audio equipment"], "conclusion": "stereo", "property": "has parts made of germanium", "strength": 0.94, "group": "high"}
+{"idx": 28, "premise": ["electronic equipment"], "conclusion": "stereo", "property": "has parts made of germanium", "strength": 0.81, "group": "low"}
+{"idx": 29, "premise": ["cutting instrument"], "conclusion": "knife", "property": "are widely exported", "strength": 0.94, "group": "high"}
+{"idx": 30, "premise": ["tool"], "conclusion": "knife", "property": "are widely exported", "strength": 0.81, "group": "low"}
+{"idx": 31, "premise": ["hard laborer"], "conclusion": "construction worker", "property": "buy snickers bars more often than mars bars", "strength": 0.89, "group": "high"}
+{"idx": 32, "premise": ["worker"], "conclusion": "construction worker", "property": "buy snickers bars more often than mars bars", "strength": 0.78, "group": "low"}
+{"idx": 33, "premise": ["emergency worker"], "conclusion": "fireman", "property": "often have to file isi reports", "strength": 0.89, "group": "high"}
+{"idx": 34, "premise": ["government employee"], "conclusion": "fireman", "property": "often have to file isi reports", "strength": 0.78, "group": "low"}
+{"idx": 35, "premise": ["singer"], "conclusion": "alto", "property": "have good dentiles", "strength": 0.89, "group": "high"}
+{"idx": 36, "premise": ["entertainer"], "conclusion": "alto", "property": "have good dentiles", "strength": 0.78, "group": "low"}
+{"idx": 37, "premise": ["plant"], "conclusion": "flower", "property": "contain bryophytes", "strength": 0.93, "group": "high"}
+{"idx": 38, "premise": ["plant"], "conclusion": "moss", "property": "contain bryophytes", "strength": 0.92, "group": "low"}
+{"idx": 39, "premise": ["metal"], "conclusion": "iron", "property": "is pentavalent", "strength": 0.93, "group": "high"}
+{"idx": 40, "premise": ["metal"], "conclusion": "platinum", "property": "is pentavalent", "strength": 0.92, "group": "low"}
+{"idx": 41, "premise": ["body of water"], "conclusion": "lake", "property": "have a high number of seiches", "strength": 0.93, "group": "high"}
+{"idx": 42, "premise": ["body of water"], "conclusion": "reservoir", "property": "have a high number of seiches", "strength": 0.92, "group": "low"}
+{"idx": 43, "premise": ["carpentry tool"], "conclusion": "hammer", "property": "are subject to a special tariff", "strength": 0.97, "group": "high"}
+{"idx": 44, "premise": ["carpentry tool"], "conclusion": "awl", "property": "are subject to a special tariff", "strength": 0.86, "group": "low"}
+{"idx": 45, "premise": ["electronic equipment"], "conclusion": "audio equipment", "property": "exhibits magnetic picofluctuation", "strength": 0.97, "group": "high"}
+{"idx": 46, "premise": ["electronic equipment"], "conclusion": "kitchen appliance", "property": "exhibits magnetic picofluctuation", "strength": 0.86, "group": "low"}
+{"idx": 47, "premise": ["musical instrument"], "conclusion": "flute", "property": "can be designed with a diapason", "strength": 0.97, "group": "high"}
+{"idx": 48, "premise": ["musical instrument"], "conclusion": "cymbal", "property": "can be designed with a diapason", "strength": 0.86, "group": "low"}
+{"idx": 49, "premise": ["white collar worker"], "conclusion": "bank manager", "property": "can use tax form addendum 10-83", "strength": 0.92, "group": "high"}
+{"idx": 50, "premise": ["white collar worker"], "conclusion": "air traffic controller", "property": "can use tax form addendum 10-83", "strength": 0.74, "group": "low"}
+{"idx": 51, "premise": ["entertainer"], "conclusion": "nightclub singer", "property": "is omphaloskeptic", "strength": 0.92, "group": "high"}
+{"idx": 52, "premise": ["entertainer"], "conclusion": "mime", "property": "is omphaloskeptic", "strength": 0.74, "group": "low"}
+{"idx": 53, "premise": ["blue collar worker"], "conclusion": "construction worker", "property": "have a dc", "strength": 0.92, "group": "high"}
+{"idx": 54, "premise": ["blue collar worker"], "conclusion": "bicycle mechanic", "property": "have a dc", "strength": 0.74, "group": "low"}
+{"idx": 55, "premise": ["apple"], "conclusion": "mcintosh", "property": "are of the dioecious genus", "strength": 0.94, "group": "high"}
+{"idx": 56, "premise": ["fruit"], "conclusion": "mcintosh", "property": "are of the dioecious genus", "strength": 0.9, "group": "low"}
+{"idx": 57, "premise": ["flower"], "conclusion": "rose", "property": "are susceptible to thrips", "strength": 0.94, "group": "high"}
+{"idx": 58, "premise": ["plant"], "conclusion": "rose", "property": "are susceptible to thrips", "strength": 0.9, "group": "low"}
+{"idx": 59, "premise": ["body of salt water"], "conclusion": "gulf", "property": "are monomictic", "strength": 0.94, "group": "high"}
+{"idx": 60, "premise": ["body of water"], "conclusion": "gulf", "property": "are monomictic", "strength": 0.9, "group": "low"}
+{"idx": 61, "premise": ["brass instrument"], "conclusion": "french horn", "property": "have expansion valves", "strength": 0.97, "group": "high"}
+{"idx": 62, "premise": ["wind instrument"], "conclusion": "french horn", "property": "have expansion valves", "strength": 0.86, "group": "low"}
+{"idx": 63, "premise": ["audio equipment"], "conclusion": "stereo", "property": "has parts made of germanium", "strength": 0.97, "group": "high"}
+{"idx": 64, "premise": ["electronic equipment"], "conclusion": "stereo", "property": "has parts made of germanium", "strength": 0.86, "group": "low"}
+{"idx": 65, "premise": ["cutting instrument"], "conclusion": "knife", "property": "are widely exported", "strength": 0.97, "group": "high"}
+{"idx": 66, "premise": ["tool"], "conclusion": "knife", "property": "are widely exported", "strength": 0.86, "group": "low"}
+{"idx": 67, "premise": ["hard laborer"], "conclusion": "construction worker", "property": "is subject to unemployment restrictions", "strength": 0.95, "group": "high"}
+{"idx": 68, "premise": ["worker"], "conclusion": "construction worker", "property": "is subject to unemployment restrictions", "strength": 0.96, "group": "low"}
+{"idx": 69, "premise": ["emergency worker"], "conclusion": "fireman", "property": "often have to file isi reports", "strength": 0.95, "group": "high"}
+{"idx": 70, "premise": ["government employee"], "conclusion": "fireman", "property": "often have to file isi reports", "strength": 0.96, "group": "low"}
+{"idx": 71, "premise": ["singer"], "conclusion": "alto", "property": "has dentiles", "strength": 0.95, "group": "high"}
+{"idx": 72, "premise": ["entertainer"], "conclusion": "alto", "property": "has dentiles", "strength": 0.96, "group": "low"}

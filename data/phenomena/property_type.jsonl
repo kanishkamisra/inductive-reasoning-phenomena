@@ -1,0 +1,784 @@
+{"idx": 1, "premise": ["bear"], "conclusion": "whale", "property": "has a liver with two chambers that act as one", "strength": 33.0, "group": "low"}
+{"idx": 2, "premise": ["bear"], "conclusion": "whale", "property": "has a brain stem that recieves about 70% of the optic nerve from each eye", "strength": 33.0, "group": "low"}
+{"idx": 3, "premise": ["bear"], "conclusion": "whale", "property": "has blood that contains between 2% and 3% potassium", "strength": 33.0, "group": "low"}
+{"idx": 4, "premise": ["bear"], "conclusion": "whale", "property": "has a skeletal structure that contains about 58% calcium", "strength": 33.0, "group": "low"}
+{"idx": 5, "premise": ["bear"], "conclusion": "whale", "property": "has a brain that continues to develop during the first third of its life", "strength": 33.0, "group": "low"}
+{"idx": 6, "premise": ["bear"], "conclusion": "whale", "property": "has a sense of vision that is the first sense to develop", "strength": 33.0, "group": "low"}
+{"idx": 7, "premise": ["bear"], "conclusion": "whale", "property": "has a sense of hearing that is the last sense to develop", "strength": 33.0, "group": "low"}
+{"idx": 8, "premise": ["bear"], "conclusion": "whale", "property": "has some cells in its respiratory system that require carbon dioxide to function", "strength": 33.0, "group": "low"}
+{"idx": 9, "premise": ["bear"], "conclusion": "whale", "property": "has cells in its nervous system that do not require oxygen", "strength": 33.0, "group": "low"}
+{"idx": 10, "premise": ["bear"], "conclusion": "whale", "property": "has a maximum heart rate of 270 beats per min", "strength": 33.0, "group": "low"}
+{"idx": 11, "premise": ["bear"], "conclusion": "whale", "property": "has an outermost layer of skin that is comprised of between 60 and 65% dead cells", "strength": 33.0, "group": "low"}
+{"idx": 12, "premise": ["bear"], "conclusion": "whale", "property": "has a body that contains more salts as it ages", "strength": 33.0, "group": "low"}
+{"idx": 13, "premise": ["bear"], "conclusion": "whale", "property": "has a heart rate that is not affected by nicotine", "strength": 33.0, "group": "low"}
+{"idx": 14, "premise": ["bear"], "conclusion": "whale", "property": "has cartilage between its joints that will grow back if torn", "strength": 33.0, "group": "low"}
+{"idx": 15, "premise": ["bear"], "conclusion": "whale", "property": "usually travels in a back-and-forth or zig-zag trajectory", "strength": 20.0, "group": "low"}
+{"idx": 16, "premise": ["bear"], "conclusion": "whale", "property": "never travels directly in the direction of the sun", "strength": 20.0, "group": "low"}
+{"idx": 17, "premise": ["bear"], "conclusion": "whale", "property": "escapes predators by random movement so its path cannot be predicted", "strength": 20.0, "group": "low"}
+{"idx": 18, "premise": ["bear"], "conclusion": "whale", "property": "travels shorter distances in extreme heat", "strength": 20.0, "group": "low"}
+{"idx": 19, "premise": ["bear"], "conclusion": "whale", "property": "travels at speeds of twice its body length per second after eating", "strength": 20.0, "group": "low"}
+{"idx": 20, "premise": ["bear"], "conclusion": "whale", "property": "travels in an alternating fast-slow-fast-slow pattern", "strength": 20.0, "group": "low"}
+{"idx": 21, "premise": ["bear"], "conclusion": "whale", "property": "won't eat something that it hasn't killed", "strength": 20.0, "group": "low"}
+{"idx": 22, "premise": ["bear"], "conclusion": "whale", "property": "prefers to feed at night", "strength": 20.0, "group": "low"}
+{"idx": 23, "premise": ["bear"], "conclusion": "whale", "property": "will watch its potential food for hours before attacking that food", "strength": 20.0, "group": "low"}
+{"idx": 24, "premise": ["bear"], "conclusion": "whale", "property": "won't feed if it smells any strange odors that it can't identify", "strength": 20.0, "group": "low"}
+{"idx": 25, "premise": ["bear"], "conclusion": "whale", "property": "usually gathers large amounts of food at once", "strength": 20.0, "group": "low"}
+{"idx": 26, "premise": ["bear"], "conclusion": "whale", "property": "usually defends the surrounding area near its last source of food", "strength": 20.0, "group": "low"}
+{"idx": 27, "premise": ["bear"], "conclusion": "whale", "property": "swallows 15% of the food for energy just after gathering it", "strength": 20.0, "group": "low"}
+{"idx": 28, "premise": ["bear"], "conclusion": "whale", "property": "will only gather food for a maximum of 2 hr at any one time", "strength": 20.0, "group": "low"}
+{"idx": 29, "premise": ["tuna"], "conclusion": "whale", "property": "has a liver with two chambers that act as one", "strength": 45.7, "group": "high"}
+{"idx": 30, "premise": ["tuna"], "conclusion": "whale", "property": "has a brain stem that recieves about 70% of the optic nerve from each eye", "strength": 45.7, "group": "high"}
+{"idx": 31, "premise": ["tuna"], "conclusion": "whale", "property": "has blood that contains between 2% and 3% potassium", "strength": 45.7, "group": "high"}
+{"idx": 32, "premise": ["tuna"], "conclusion": "whale", "property": "has a skeletal structure that contains about 58% calcium", "strength": 45.7, "group": "high"}
+{"idx": 33, "premise": ["tuna"], "conclusion": "whale", "property": "has a brain that continues to develop during the first third of its life", "strength": 45.7, "group": "high"}
+{"idx": 34, "premise": ["tuna"], "conclusion": "whale", "property": "has a sense of vision that is the first sense to develop", "strength": 45.7, "group": "high"}
+{"idx": 35, "premise": ["tuna"], "conclusion": "whale", "property": "has a sense of hearing that is the last sense to develop", "strength": 45.7, "group": "high"}
+{"idx": 36, "premise": ["tuna"], "conclusion": "whale", "property": "has some cells in its respiratory system that require carbon dioxide to function", "strength": 45.7, "group": "high"}
+{"idx": 37, "premise": ["tuna"], "conclusion": "whale", "property": "has cells in its nervous system that do not require oxygen", "strength": 45.7, "group": "high"}
+{"idx": 38, "premise": ["tuna"], "conclusion": "whale", "property": "has a maximum heart rate of 270 beats per min", "strength": 45.7, "group": "high"}
+{"idx": 39, "premise": ["tuna"], "conclusion": "whale", "property": "has an outermost layer of skin that is comprised of between 60 and 65% dead cells", "strength": 45.7, "group": "high"}
+{"idx": 40, "premise": ["tuna"], "conclusion": "whale", "property": "has a body that contains more salts as it ages", "strength": 45.7, "group": "high"}
+{"idx": 41, "premise": ["tuna"], "conclusion": "whale", "property": "has a heart rate that is not affected by nicotine", "strength": 45.7, "group": "high"}
+{"idx": 42, "premise": ["tuna"], "conclusion": "whale", "property": "has cartilage between its joints that will grow back if torn", "strength": 45.7, "group": "high"}
+{"idx": 43, "premise": ["tuna"], "conclusion": "whale", "property": "usually travels in a back-and-forth or zig-zag trajectory", "strength": 37.0, "group": "low"}
+{"idx": 44, "premise": ["tuna"], "conclusion": "whale", "property": "never travels directly in the direction of the sun", "strength": 37.0, "group": "low"}
+{"idx": 45, "premise": ["tuna"], "conclusion": "whale", "property": "escapes predators by random movement so its path cannot be predicted", "strength": 37.0, "group": "low"}
+{"idx": 46, "premise": ["tuna"], "conclusion": "whale", "property": "travels shorter distances in extreme heat", "strength": 37.0, "group": "low"}
+{"idx": 47, "premise": ["tuna"], "conclusion": "whale", "property": "travels at speeds of twice its body length per second after eating", "strength": 37.0, "group": "low"}
+{"idx": 48, "premise": ["tuna"], "conclusion": "whale", "property": "travels in an alternating fast-slow-fast-slow pattern", "strength": 37.0, "group": "low"}
+{"idx": 49, "premise": ["tuna"], "conclusion": "whale", "property": "won't eat something that it hasn't killed", "strength": 37.0, "group": "low"}
+{"idx": 50, "premise": ["tuna"], "conclusion": "whale", "property": "prefers to feed at night", "strength": 37.0, "group": "low"}
+{"idx": 51, "premise": ["tuna"], "conclusion": "whale", "property": "will watch its potential food for hours before attacking that food", "strength": 37.0, "group": "low"}
+{"idx": 52, "premise": ["tuna"], "conclusion": "whale", "property": "won't feed if it smells any strange odors that it can't identify", "strength": 37.0, "group": "low"}
+{"idx": 53, "premise": ["tuna"], "conclusion": "whale", "property": "usually gathers large amounts of food at once", "strength": 37.0, "group": "low"}
+{"idx": 54, "premise": ["tuna"], "conclusion": "whale", "property": "usually defends the surrounding area near its last source of food", "strength": 37.0, "group": "low"}
+{"idx": 55, "premise": ["tuna"], "conclusion": "whale", "property": "swallows 15% of the food for energy just after gathering it", "strength": 37.0, "group": "low"}
+{"idx": 56, "premise": ["tuna"], "conclusion": "whale", "property": "will only gather food for a maximum of 2 hr at any one time", "strength": 37.0, "group": "low"}
+{"idx": 57, "premise": ["mouse"], "conclusion": "bat", "property": "has a liver with two chambers that act as one", "strength": 37.9, "group": "low"}
+{"idx": 58, "premise": ["mouse"], "conclusion": "bat", "property": "has a brain stem that recieves about 70% of the optic nerve from each eye", "strength": 37.9, "group": "low"}
+{"idx": 59, "premise": ["mouse"], "conclusion": "bat", "property": "has blood that contains between 2% and 3% potassium", "strength": 37.9, "group": "low"}
+{"idx": 60, "premise": ["mouse"], "conclusion": "bat", "property": "has a skeletal structure that contains about 58% calcium", "strength": 37.9, "group": "low"}
+{"idx": 61, "premise": ["mouse"], "conclusion": "bat", "property": "has a brain that continues to develop during the first third of its life", "strength": 37.9, "group": "low"}
+{"idx": 62, "premise": ["mouse"], "conclusion": "bat", "property": "has a sense of vision that is the first sense to develop", "strength": 37.9, "group": "low"}
+{"idx": 63, "premise": ["mouse"], "conclusion": "bat", "property": "has a sense of hearing that is the last sense to develop", "strength": 37.9, "group": "low"}
+{"idx": 64, "premise": ["mouse"], "conclusion": "bat", "property": "has some cells in its respiratory system that require carbon dioxide to function", "strength": 37.9, "group": "low"}
+{"idx": 65, "premise": ["mouse"], "conclusion": "bat", "property": "has cells in its nervous system that do not require oxygen", "strength": 37.9, "group": "low"}
+{"idx": 66, "premise": ["mouse"], "conclusion": "bat", "property": "has a maximum heart rate of 270 beats per min", "strength": 37.9, "group": "low"}
+{"idx": 67, "premise": ["mouse"], "conclusion": "bat", "property": "has an outermost layer of skin that is comprised of between 60 and 65% dead cells", "strength": 37.9, "group": "low"}
+{"idx": 68, "premise": ["mouse"], "conclusion": "bat", "property": "has a body that contains more salts as it ages", "strength": 37.9, "group": "low"}
+{"idx": 69, "premise": ["mouse"], "conclusion": "bat", "property": "has a heart rate that is not affected by nicotine", "strength": 37.9, "group": "low"}
+{"idx": 70, "premise": ["mouse"], "conclusion": "bat", "property": "has cartilage between its joints that will grow back if torn", "strength": 37.9, "group": "low"}
+{"idx": 71, "premise": ["mouse"], "conclusion": "bat", "property": "usually travels in a back-and-forth or zig-zag trajectory", "strength": 32.6, "group": "low"}
+{"idx": 72, "premise": ["mouse"], "conclusion": "bat", "property": "never travels directly in the direction of the sun", "strength": 32.6, "group": "low"}
+{"idx": 73, "premise": ["mouse"], "conclusion": "bat", "property": "escapes predators by random movement so its path cannot be predicted", "strength": 32.6, "group": "low"}
+{"idx": 74, "premise": ["mouse"], "conclusion": "bat", "property": "travels shorter distances in extreme heat", "strength": 32.6, "group": "low"}
+{"idx": 75, "premise": ["mouse"], "conclusion": "bat", "property": "travels at speeds of twice its body length per second after eating", "strength": 32.6, "group": "low"}
+{"idx": 76, "premise": ["mouse"], "conclusion": "bat", "property": "travels in an alternating fast-slow-fast-slow pattern", "strength": 32.6, "group": "low"}
+{"idx": 77, "premise": ["mouse"], "conclusion": "bat", "property": "won't eat something that it hasn't killed", "strength": 32.6, "group": "low"}
+{"idx": 78, "premise": ["mouse"], "conclusion": "bat", "property": "prefers to feed at night", "strength": 32.6, "group": "low"}
+{"idx": 79, "premise": ["mouse"], "conclusion": "bat", "property": "will watch its potential food for hours before attacking that food", "strength": 32.6, "group": "low"}
+{"idx": 80, "premise": ["mouse"], "conclusion": "bat", "property": "won't feed if it smells any strange odors that it can't identify", "strength": 32.6, "group": "low"}
+{"idx": 81, "premise": ["mouse"], "conclusion": "bat", "property": "usually gathers large amounts of food at once", "strength": 32.6, "group": "low"}
+{"idx": 82, "premise": ["mouse"], "conclusion": "bat", "property": "usually defends the surrounding area near its last source of food", "strength": 32.6, "group": "low"}
+{"idx": 83, "premise": ["mouse"], "conclusion": "bat", "property": "swallows 15% of the food for energy just after gathering it", "strength": 32.6, "group": "low"}
+{"idx": 84, "premise": ["mouse"], "conclusion": "bat", "property": "will only gather food for a maximum of 2 hr at any one time", "strength": 32.6, "group": "low"}
+{"idx": 85, "premise": ["sparrow"], "conclusion": "bat", "property": "has a liver with two chambers that act as one", "strength": 33.7, "group": "low"}
+{"idx": 86, "premise": ["sparrow"], "conclusion": "bat", "property": "has a brain stem that recieves about 70% of the optic nerve from each eye", "strength": 33.7, "group": "low"}
+{"idx": 87, "premise": ["sparrow"], "conclusion": "bat", "property": "has blood that contains between 2% and 3% potassium", "strength": 33.7, "group": "low"}
+{"idx": 88, "premise": ["sparrow"], "conclusion": "bat", "property": "has a skeletal structure that contains about 58% calcium", "strength": 33.7, "group": "low"}
+{"idx": 89, "premise": ["sparrow"], "conclusion": "bat", "property": "has a brain that continues to develop during the first third of its life", "strength": 33.7, "group": "low"}
+{"idx": 90, "premise": ["sparrow"], "conclusion": "bat", "property": "has a sense of vision that is the first sense to develop", "strength": 33.7, "group": "low"}
+{"idx": 91, "premise": ["sparrow"], "conclusion": "bat", "property": "has a sense of hearing that is the last sense to develop", "strength": 33.7, "group": "low"}
+{"idx": 92, "premise": ["sparrow"], "conclusion": "bat", "property": "has some cells in its respiratory system that require carbon dioxide to function", "strength": 33.7, "group": "low"}
+{"idx": 93, "premise": ["sparrow"], "conclusion": "bat", "property": "has cells in its nervous system that do not require oxygen", "strength": 33.7, "group": "low"}
+{"idx": 94, "premise": ["sparrow"], "conclusion": "bat", "property": "has a maximum heart rate of 270 beats per min", "strength": 33.7, "group": "low"}
+{"idx": 95, "premise": ["sparrow"], "conclusion": "bat", "property": "has an outermost layer of skin that is comprised of between 60 and 65% dead cells", "strength": 33.7, "group": "low"}
+{"idx": 96, "premise": ["sparrow"], "conclusion": "bat", "property": "has a body that contains more salts as it ages", "strength": 33.7, "group": "low"}
+{"idx": 97, "premise": ["sparrow"], "conclusion": "bat", "property": "has a heart rate that is not affected by nicotine", "strength": 33.7, "group": "low"}
+{"idx": 98, "premise": ["sparrow"], "conclusion": "bat", "property": "has cartilage between its joints that will grow back if torn", "strength": 33.7, "group": "low"}
+{"idx": 99, "premise": ["sparrow"], "conclusion": "bat", "property": "usually travels in a back-and-forth or zig-zag trajectory", "strength": 44.8, "group": "high"}
+{"idx": 100, "premise": ["sparrow"], "conclusion": "bat", "property": "never travels directly in the direction of the sun", "strength": 44.8, "group": "high"}
+{"idx": 101, "premise": ["sparrow"], "conclusion": "bat", "property": "escapes predators by random movement so its path cannot be predicted", "strength": 44.8, "group": "high"}
+{"idx": 102, "premise": ["sparrow"], "conclusion": "bat", "property": "travels shorter distances in extreme heat", "strength": 44.8, "group": "high"}
+{"idx": 103, "premise": ["sparrow"], "conclusion": "bat", "property": "travels at speeds of twice its body length per second after eating", "strength": 44.8, "group": "high"}
+{"idx": 104, "premise": ["sparrow"], "conclusion": "bat", "property": "travels in an alternating fast-slow-fast-slow pattern", "strength": 44.8, "group": "high"}
+{"idx": 105, "premise": ["sparrow"], "conclusion": "bat", "property": "won't eat something that it hasn't killed", "strength": 44.8, "group": "high"}
+{"idx": 106, "premise": ["sparrow"], "conclusion": "bat", "property": "prefers to feed at night", "strength": 44.8, "group": "high"}
+{"idx": 107, "premise": ["sparrow"], "conclusion": "bat", "property": "will watch its potential food for hours before attacking that food", "strength": 44.8, "group": "high"}
+{"idx": 108, "premise": ["sparrow"], "conclusion": "bat", "property": "won't feed if it smells any strange odors that it can't identify", "strength": 44.8, "group": "high"}
+{"idx": 109, "premise": ["sparrow"], "conclusion": "bat", "property": "usually gathers large amounts of food at once", "strength": 44.8, "group": "high"}
+{"idx": 110, "premise": ["sparrow"], "conclusion": "bat", "property": "usually defends the surrounding area near its last source of food", "strength": 44.8, "group": "high"}
+{"idx": 111, "premise": ["sparrow"], "conclusion": "bat", "property": "swallows 15% of the food for energy just after gathering it", "strength": 44.8, "group": "high"}
+{"idx": 112, "premise": ["sparrow"], "conclusion": "bat", "property": "will only gather food for a maximum of 2 hr at any one time", "strength": 44.8, "group": "high"}
+{"idx": 113, "premise": ["lizard"], "conclusion": "snake", "property": "has a liver with two chambers that act as one", "strength": 68.9, "group": "high"}
+{"idx": 114, "premise": ["lizard"], "conclusion": "snake", "property": "has a brain stem that recieves about 70% of the optic nerve from each eye", "strength": 68.9, "group": "high"}
+{"idx": 115, "premise": ["lizard"], "conclusion": "snake", "property": "has blood that contains between 2% and 3% potassium", "strength": 68.9, "group": "high"}
+{"idx": 116, "premise": ["lizard"], "conclusion": "snake", "property": "has a skeletal structure that contains about 58% calcium", "strength": 68.9, "group": "high"}
+{"idx": 117, "premise": ["lizard"], "conclusion": "snake", "property": "has a brain that continues to develop during the first third of its life", "strength": 68.9, "group": "high"}
+{"idx": 118, "premise": ["lizard"], "conclusion": "snake", "property": "has a sense of vision that is the first sense to develop", "strength": 68.9, "group": "high"}
+{"idx": 119, "premise": ["lizard"], "conclusion": "snake", "property": "has a sense of hearing that is the last sense to develop", "strength": 68.9, "group": "high"}
+{"idx": 120, "premise": ["lizard"], "conclusion": "snake", "property": "has some cells in its respiratory system that require carbon dioxide to function", "strength": 68.9, "group": "high"}
+{"idx": 121, "premise": ["lizard"], "conclusion": "snake", "property": "has cells in its nervous system that do not require oxygen", "strength": 68.9, "group": "high"}
+{"idx": 122, "premise": ["lizard"], "conclusion": "snake", "property": "has a maximum heart rate of 270 beats per min", "strength": 68.9, "group": "high"}
+{"idx": 123, "premise": ["lizard"], "conclusion": "snake", "property": "has an outermost layer of skin that is comprised of between 60 and 65% dead cells", "strength": 68.9, "group": "high"}
+{"idx": 124, "premise": ["lizard"], "conclusion": "snake", "property": "has a body that contains more salts as it ages", "strength": 68.9, "group": "high"}
+{"idx": 125, "premise": ["lizard"], "conclusion": "snake", "property": "has a heart rate that is not affected by nicotine", "strength": 68.9, "group": "high"}
+{"idx": 126, "premise": ["lizard"], "conclusion": "snake", "property": "has cartilage between its joints that will grow back if torn", "strength": 68.9, "group": "high"}
+{"idx": 127, "premise": ["lizard"], "conclusion": "snake", "property": "usually travels in a back-and-forth or zig-zag trajectory", "strength": 69.3, "group": "high"}
+{"idx": 128, "premise": ["lizard"], "conclusion": "snake", "property": "never travels directly in the direction of the sun", "strength": 69.3, "group": "high"}
+{"idx": 129, "premise": ["lizard"], "conclusion": "snake", "property": "escapes predators by random movement so its path cannot be predicted", "strength": 69.3, "group": "high"}
+{"idx": 130, "premise": ["lizard"], "conclusion": "snake", "property": "travels shorter distances in extreme heat", "strength": 69.3, "group": "high"}
+{"idx": 131, "premise": ["lizard"], "conclusion": "snake", "property": "travels at speeds of twice its body length per second after eating", "strength": 69.3, "group": "high"}
+{"idx": 132, "premise": ["lizard"], "conclusion": "snake", "property": "travels in an alternating fast-slow-fast-slow pattern", "strength": 69.3, "group": "high"}
+{"idx": 133, "premise": ["lizard"], "conclusion": "snake", "property": "won't eat something that it hasn't killed", "strength": 69.3, "group": "high"}
+{"idx": 134, "premise": ["lizard"], "conclusion": "snake", "property": "prefers to feed at night", "strength": 69.3, "group": "high"}
+{"idx": 135, "premise": ["lizard"], "conclusion": "snake", "property": "will watch its potential food for hours before attacking that food", "strength": 69.3, "group": "high"}
+{"idx": 136, "premise": ["lizard"], "conclusion": "snake", "property": "won't feed if it smells any strange odors that it can't identify", "strength": 69.3, "group": "high"}
+{"idx": 137, "premise": ["lizard"], "conclusion": "snake", "property": "usually gathers large amounts of food at once", "strength": 69.3, "group": "high"}
+{"idx": 138, "premise": ["lizard"], "conclusion": "snake", "property": "usually defends the surrounding area near its last source of food", "strength": 69.3, "group": "high"}
+{"idx": 139, "premise": ["lizard"], "conclusion": "snake", "property": "swallows 15% of the food for energy just after gathering it", "strength": 69.3, "group": "high"}
+{"idx": 140, "premise": ["lizard"], "conclusion": "snake", "property": "will only gather food for a maximum of 2 hr at any one time", "strength": 69.3, "group": "high"}
+{"idx": 141, "premise": ["worm"], "conclusion": "snake", "property": "has a liver with two chambers that act as one", "strength": 49.4, "group": "high"}
+{"idx": 142, "premise": ["worm"], "conclusion": "snake", "property": "has a brain stem that recieves about 70% of the optic nerve from each eye", "strength": 49.4, "group": "high"}
+{"idx": 143, "premise": ["worm"], "conclusion": "snake", "property": "has blood that contains between 2% and 3% potassium", "strength": 49.4, "group": "high"}
+{"idx": 144, "premise": ["worm"], "conclusion": "snake", "property": "has a skeletal structure that contains about 58% calcium", "strength": 49.4, "group": "high"}
+{"idx": 145, "premise": ["worm"], "conclusion": "snake", "property": "has a brain that continues to develop during the first third of its life", "strength": 49.4, "group": "high"}
+{"idx": 146, "premise": ["worm"], "conclusion": "snake", "property": "has a sense of vision that is the first sense to develop", "strength": 49.4, "group": "high"}
+{"idx": 147, "premise": ["worm"], "conclusion": "snake", "property": "has a sense of hearing that is the last sense to develop", "strength": 49.4, "group": "high"}
+{"idx": 148, "premise": ["worm"], "conclusion": "snake", "property": "has some cells in its respiratory system that require carbon dioxide to function", "strength": 49.4, "group": "high"}
+{"idx": 149, "premise": ["worm"], "conclusion": "snake", "property": "has cells in its nervous system that do not require oxygen", "strength": 49.4, "group": "high"}
+{"idx": 150, "premise": ["worm"], "conclusion": "snake", "property": "has a maximum heart rate of 270 beats per min", "strength": 49.4, "group": "high"}
+{"idx": 151, "premise": ["worm"], "conclusion": "snake", "property": "has an outermost layer of skin that is comprised of between 60 and 65% dead cells", "strength": 49.4, "group": "high"}
+{"idx": 152, "premise": ["worm"], "conclusion": "snake", "property": "has a body that contains more salts as it ages", "strength": 49.4, "group": "high"}
+{"idx": 153, "premise": ["worm"], "conclusion": "snake", "property": "has a heart rate that is not affected by nicotine", "strength": 49.4, "group": "high"}
+{"idx": 154, "premise": ["worm"], "conclusion": "snake", "property": "has cartilage between its joints that will grow back if torn", "strength": 49.4, "group": "high"}
+{"idx": 155, "premise": ["worm"], "conclusion": "snake", "property": "usually travels in a back-and-forth or zig-zag trajectory", "strength": 58.6, "group": "high"}
+{"idx": 156, "premise": ["worm"], "conclusion": "snake", "property": "never travels directly in the direction of the sun", "strength": 58.6, "group": "high"}
+{"idx": 157, "premise": ["worm"], "conclusion": "snake", "property": "escapes predators by random movement so its path cannot be predicted", "strength": 58.6, "group": "high"}
+{"idx": 158, "premise": ["worm"], "conclusion": "snake", "property": "travels shorter distances in extreme heat", "strength": 58.6, "group": "high"}
+{"idx": 159, "premise": ["worm"], "conclusion": "snake", "property": "travels at speeds of twice its body length per second after eating", "strength": 58.6, "group": "high"}
+{"idx": 160, "premise": ["worm"], "conclusion": "snake", "property": "travels in an alternating fast-slow-fast-slow pattern", "strength": 58.6, "group": "high"}
+{"idx": 161, "premise": ["worm"], "conclusion": "snake", "property": "won't eat something that it hasn't killed", "strength": 58.6, "group": "high"}
+{"idx": 162, "premise": ["worm"], "conclusion": "snake", "property": "prefers to feed at night", "strength": 58.6, "group": "high"}
+{"idx": 163, "premise": ["worm"], "conclusion": "snake", "property": "will watch its potential food for hours before attacking that food", "strength": 58.6, "group": "high"}
+{"idx": 164, "premise": ["worm"], "conclusion": "snake", "property": "won't feed if it smells any strange odors that it can't identify", "strength": 58.6, "group": "high"}
+{"idx": 165, "premise": ["worm"], "conclusion": "snake", "property": "usually gathers large amounts of food at once", "strength": 58.6, "group": "high"}
+{"idx": 166, "premise": ["worm"], "conclusion": "snake", "property": "usually defends the surrounding area near its last source of food", "strength": 58.6, "group": "high"}
+{"idx": 167, "premise": ["worm"], "conclusion": "snake", "property": "swallows 15% of the food for energy just after gathering it", "strength": 58.6, "group": "high"}
+{"idx": 168, "premise": ["worm"], "conclusion": "snake", "property": "will only gather food for a maximum of 2 hr at any one time", "strength": 58.6, "group": "high"}
+{"idx": 169, "premise": ["trout"], "conclusion": "shark", "property": "has a liver with two chambers that act as one", "strength": 54.0, "group": "high"}
+{"idx": 170, "premise": ["trout"], "conclusion": "shark", "property": "has a brain stem that recieves about 70% of the optic nerve from each eye", "strength": 54.0, "group": "high"}
+{"idx": 171, "premise": ["trout"], "conclusion": "shark", "property": "has blood that contains between 2% and 3% potassium", "strength": 54.0, "group": "high"}
+{"idx": 172, "premise": ["trout"], "conclusion": "shark", "property": "has a skeletal structure that contains about 58% calcium", "strength": 54.0, "group": "high"}
+{"idx": 173, "premise": ["trout"], "conclusion": "shark", "property": "has a brain that continues to develop during the first third of its life", "strength": 54.0, "group": "high"}
+{"idx": 174, "premise": ["trout"], "conclusion": "shark", "property": "has a sense of vision that is the first sense to develop", "strength": 54.0, "group": "high"}
+{"idx": 175, "premise": ["trout"], "conclusion": "shark", "property": "has a sense of hearing that is the last sense to develop", "strength": 54.0, "group": "high"}
+{"idx": 176, "premise": ["trout"], "conclusion": "shark", "property": "has some cells in its respiratory system that require carbon dioxide to function", "strength": 54.0, "group": "high"}
+{"idx": 177, "premise": ["trout"], "conclusion": "shark", "property": "has cells in its nervous system that do not require oxygen", "strength": 54.0, "group": "high"}
+{"idx": 178, "premise": ["trout"], "conclusion": "shark", "property": "has a maximum heart rate of 270 beats per min", "strength": 54.0, "group": "high"}
+{"idx": 179, "premise": ["trout"], "conclusion": "shark", "property": "has an outermost layer of skin that is comprised of between 60 and 65% dead cells", "strength": 54.0, "group": "high"}
+{"idx": 180, "premise": ["trout"], "conclusion": "shark", "property": "has a body that contains more salts as it ages", "strength": 54.0, "group": "high"}
+{"idx": 181, "premise": ["trout"], "conclusion": "shark", "property": "has a heart rate that is not affected by nicotine", "strength": 54.0, "group": "high"}
+{"idx": 182, "premise": ["trout"], "conclusion": "shark", "property": "has cartilage between its joints that will grow back if torn", "strength": 54.0, "group": "high"}
+{"idx": 183, "premise": ["trout"], "conclusion": "shark", "property": "usually travels in a back-and-forth or zig-zag trajectory", "strength": 43.8, "group": "high"}
+{"idx": 184, "premise": ["trout"], "conclusion": "shark", "property": "never travels directly in the direction of the sun", "strength": 43.8, "group": "high"}
+{"idx": 185, "premise": ["trout"], "conclusion": "shark", "property": "escapes predators by random movement so its path cannot be predicted", "strength": 43.8, "group": "high"}
+{"idx": 186, "premise": ["trout"], "conclusion": "shark", "property": "travels shorter distances in extreme heat", "strength": 43.8, "group": "high"}
+{"idx": 187, "premise": ["trout"], "conclusion": "shark", "property": "travels at speeds of twice its body length per second after eating", "strength": 43.8, "group": "high"}
+{"idx": 188, "premise": ["trout"], "conclusion": "shark", "property": "travels in an alternating fast-slow-fast-slow pattern", "strength": 43.8, "group": "high"}
+{"idx": 189, "premise": ["trout"], "conclusion": "shark", "property": "won't eat something that it hasn't killed", "strength": 43.8, "group": "high"}
+{"idx": 190, "premise": ["trout"], "conclusion": "shark", "property": "prefers to feed at night", "strength": 43.8, "group": "high"}
+{"idx": 191, "premise": ["trout"], "conclusion": "shark", "property": "will watch its potential food for hours before attacking that food", "strength": 43.8, "group": "high"}
+{"idx": 192, "premise": ["trout"], "conclusion": "shark", "property": "won't feed if it smells any strange odors that it can't identify", "strength": 43.8, "group": "high"}
+{"idx": 193, "premise": ["trout"], "conclusion": "shark", "property": "usually gathers large amounts of food at once", "strength": 43.8, "group": "high"}
+{"idx": 194, "premise": ["trout"], "conclusion": "shark", "property": "usually defends the surrounding area near its last source of food", "strength": 43.8, "group": "high"}
+{"idx": 195, "premise": ["trout"], "conclusion": "shark", "property": "swallows 15% of the food for energy just after gathering it", "strength": 43.8, "group": "high"}
+{"idx": 196, "premise": ["trout"], "conclusion": "shark", "property": "will only gather food for a maximum of 2 hr at any one time", "strength": 43.8, "group": "high"}
+{"idx": 197, "premise": ["wolf"], "conclusion": "shark", "property": "has a liver with two chambers that act as one", "strength": 17.9, "group": "low"}
+{"idx": 198, "premise": ["wolf"], "conclusion": "shark", "property": "has a brain stem that recieves about 70% of the optic nerve from each eye", "strength": 17.9, "group": "low"}
+{"idx": 199, "premise": ["wolf"], "conclusion": "shark", "property": "has blood that contains between 2% and 3% potassium", "strength": 17.9, "group": "low"}
+{"idx": 200, "premise": ["wolf"], "conclusion": "shark", "property": "has a skeletal structure that contains about 58% calcium", "strength": 17.9, "group": "low"}
+{"idx": 201, "premise": ["wolf"], "conclusion": "shark", "property": "has a brain that continues to develop during the first third of its life", "strength": 17.9, "group": "low"}
+{"idx": 202, "premise": ["wolf"], "conclusion": "shark", "property": "has a sense of vision that is the first sense to develop", "strength": 17.9, "group": "low"}
+{"idx": 203, "premise": ["wolf"], "conclusion": "shark", "property": "has a sense of hearing that is the last sense to develop", "strength": 17.9, "group": "low"}
+{"idx": 204, "premise": ["wolf"], "conclusion": "shark", "property": "has some cells in its respiratory system that require carbon dioxide to function", "strength": 17.9, "group": "low"}
+{"idx": 205, "premise": ["wolf"], "conclusion": "shark", "property": "has cells in its nervous system that do not require oxygen", "strength": 17.9, "group": "low"}
+{"idx": 206, "premise": ["wolf"], "conclusion": "shark", "property": "has a maximum heart rate of 270 beats per min", "strength": 17.9, "group": "low"}
+{"idx": 207, "premise": ["wolf"], "conclusion": "shark", "property": "has an outermost layer of skin that is comprised of between 60 and 65% dead cells", "strength": 17.9, "group": "low"}
+{"idx": 208, "premise": ["wolf"], "conclusion": "shark", "property": "has a body that contains more salts as it ages", "strength": 17.9, "group": "low"}
+{"idx": 209, "premise": ["wolf"], "conclusion": "shark", "property": "has a heart rate that is not affected by nicotine", "strength": 17.9, "group": "low"}
+{"idx": 210, "premise": ["wolf"], "conclusion": "shark", "property": "has cartilage between its joints that will grow back if torn", "strength": 17.9, "group": "low"}
+{"idx": 211, "premise": ["wolf"], "conclusion": "shark", "property": "usually travels in a back-and-forth or zig-zag trajectory", "strength": 20.0, "group": "low"}
+{"idx": 212, "premise": ["wolf"], "conclusion": "shark", "property": "never travels directly in the direction of the sun", "strength": 20.0, "group": "low"}
+{"idx": 213, "premise": ["wolf"], "conclusion": "shark", "property": "escapes predators by random movement so its path cannot be predicted", "strength": 20.0, "group": "low"}
+{"idx": 214, "premise": ["wolf"], "conclusion": "shark", "property": "travels shorter distances in extreme heat", "strength": 20.0, "group": "low"}
+{"idx": 215, "premise": ["wolf"], "conclusion": "shark", "property": "travels at speeds of twice its body length per second after eating", "strength": 20.0, "group": "low"}
+{"idx": 216, "premise": ["wolf"], "conclusion": "shark", "property": "travels in an alternating fast-slow-fast-slow pattern", "strength": 20.0, "group": "low"}
+{"idx": 217, "premise": ["wolf"], "conclusion": "shark", "property": "won't eat something that it hasn't killed", "strength": 20.0, "group": "low"}
+{"idx": 218, "premise": ["wolf"], "conclusion": "shark", "property": "prefers to feed at night", "strength": 20.0, "group": "low"}
+{"idx": 219, "premise": ["wolf"], "conclusion": "shark", "property": "will watch its potential food for hours before attacking that food", "strength": 20.0, "group": "low"}
+{"idx": 220, "premise": ["wolf"], "conclusion": "shark", "property": "won't feed if it smells any strange odors that it can't identify", "strength": 20.0, "group": "low"}
+{"idx": 221, "premise": ["wolf"], "conclusion": "shark", "property": "usually gathers large amounts of food at once", "strength": 20.0, "group": "low"}
+{"idx": 222, "premise": ["wolf"], "conclusion": "shark", "property": "usually defends the surrounding area near its last source of food", "strength": 20.0, "group": "low"}
+{"idx": 223, "premise": ["wolf"], "conclusion": "shark", "property": "swallows 15% of the food for energy just after gathering it", "strength": 20.0, "group": "low"}
+{"idx": 224, "premise": ["wolf"], "conclusion": "shark", "property": "will only gather food for a maximum of 2 hr at any one time", "strength": 20.0, "group": "low"}
+{"idx": 225, "premise": ["robin"], "conclusion": "hawk", "property": "has a liver with two chambers that act as one", "strength": 68.8, "group": "high"}
+{"idx": 226, "premise": ["robin"], "conclusion": "hawk", "property": "has a brain stem that recieves about 70% of the optic nerve from each eye", "strength": 68.8, "group": "high"}
+{"idx": 227, "premise": ["robin"], "conclusion": "hawk", "property": "has blood that contains between 2% and 3% potassium", "strength": 68.8, "group": "high"}
+{"idx": 228, "premise": ["robin"], "conclusion": "hawk", "property": "has a skeletal structure that contains about 58% calcium", "strength": 68.8, "group": "high"}
+{"idx": 229, "premise": ["robin"], "conclusion": "hawk", "property": "has a brain that continues to develop during the first third of its life", "strength": 68.8, "group": "high"}
+{"idx": 230, "premise": ["robin"], "conclusion": "hawk", "property": "has a sense of vision that is the first sense to develop", "strength": 68.8, "group": "high"}
+{"idx": 231, "premise": ["robin"], "conclusion": "hawk", "property": "has a sense of hearing that is the last sense to develop", "strength": 68.8, "group": "high"}
+{"idx": 232, "premise": ["robin"], "conclusion": "hawk", "property": "has some cells in its respiratory system that require carbon dioxide to function", "strength": 68.8, "group": "high"}
+{"idx": 233, "premise": ["robin"], "conclusion": "hawk", "property": "has cells in its nervous system that do not require oxygen", "strength": 68.8, "group": "high"}
+{"idx": 234, "premise": ["robin"], "conclusion": "hawk", "property": "has a maximum heart rate of 270 beats per min", "strength": 68.8, "group": "high"}
+{"idx": 235, "premise": ["robin"], "conclusion": "hawk", "property": "has an outermost layer of skin that is comprised of between 60 and 65% dead cells", "strength": 68.8, "group": "high"}
+{"idx": 236, "premise": ["robin"], "conclusion": "hawk", "property": "has a body that contains more salts as it ages", "strength": 68.8, "group": "high"}
+{"idx": 237, "premise": ["robin"], "conclusion": "hawk", "property": "has a heart rate that is not affected by nicotine", "strength": 68.8, "group": "high"}
+{"idx": 238, "premise": ["robin"], "conclusion": "hawk", "property": "has cartilage between its joints that will grow back if torn", "strength": 68.8, "group": "high"}
+{"idx": 239, "premise": ["robin"], "conclusion": "hawk", "property": "usually travels in a back-and-forth or zig-zag trajectory", "strength": 52.6, "group": "high"}
+{"idx": 240, "premise": ["robin"], "conclusion": "hawk", "property": "never travels directly in the direction of the sun", "strength": 52.6, "group": "high"}
+{"idx": 241, "premise": ["robin"], "conclusion": "hawk", "property": "escapes predators by random movement so its path cannot be predicted", "strength": 52.6, "group": "high"}
+{"idx": 242, "premise": ["robin"], "conclusion": "hawk", "property": "travels shorter distances in extreme heat", "strength": 52.6, "group": "high"}
+{"idx": 243, "premise": ["robin"], "conclusion": "hawk", "property": "travels at speeds of twice its body length per second after eating", "strength": 52.6, "group": "high"}
+{"idx": 244, "premise": ["robin"], "conclusion": "hawk", "property": "travels in an alternating fast-slow-fast-slow pattern", "strength": 52.6, "group": "high"}
+{"idx": 245, "premise": ["robin"], "conclusion": "hawk", "property": "won't eat something that it hasn't killed", "strength": 52.6, "group": "high"}
+{"idx": 246, "premise": ["robin"], "conclusion": "hawk", "property": "prefers to feed at night", "strength": 52.6, "group": "high"}
+{"idx": 247, "premise": ["robin"], "conclusion": "hawk", "property": "will watch its potential food for hours before attacking that food", "strength": 52.6, "group": "high"}
+{"idx": 248, "premise": ["robin"], "conclusion": "hawk", "property": "won't feed if it smells any strange odors that it can't identify", "strength": 52.6, "group": "high"}
+{"idx": 249, "premise": ["robin"], "conclusion": "hawk", "property": "usually gathers large amounts of food at once", "strength": 52.6, "group": "high"}
+{"idx": 250, "premise": ["robin"], "conclusion": "hawk", "property": "usually defends the surrounding area near its last source of food", "strength": 52.6, "group": "high"}
+{"idx": 251, "premise": ["robin"], "conclusion": "hawk", "property": "swallows 15% of the food for energy just after gathering it", "strength": 52.6, "group": "high"}
+{"idx": 252, "premise": ["robin"], "conclusion": "hawk", "property": "will only gather food for a maximum of 2 hr at any one time", "strength": 52.6, "group": "high"}
+{"idx": 253, "premise": ["tiger "], "conclusion": "hawk", "property": "has a liver with two chambers that act as one", "strength": 31.2, "group": "low"}
+{"idx": 254, "premise": ["tiger "], "conclusion": "hawk", "property": "has a brain stem that recieves about 70% of the optic nerve from each eye", "strength": 31.2, "group": "low"}
+{"idx": 255, "premise": ["tiger "], "conclusion": "hawk", "property": "has blood that contains between 2% and 3% potassium", "strength": 31.2, "group": "low"}
+{"idx": 256, "premise": ["tiger "], "conclusion": "hawk", "property": "has a skeletal structure that contains about 58% calcium", "strength": 31.2, "group": "low"}
+{"idx": 257, "premise": ["tiger "], "conclusion": "hawk", "property": "has a brain that continues to develop during the first third of its life", "strength": 31.2, "group": "low"}
+{"idx": 258, "premise": ["tiger "], "conclusion": "hawk", "property": "has a sense of vision that is the first sense to develop", "strength": 31.2, "group": "low"}
+{"idx": 259, "premise": ["tiger "], "conclusion": "hawk", "property": "has a sense of hearing that is the last sense to develop", "strength": 31.2, "group": "low"}
+{"idx": 260, "premise": ["tiger "], "conclusion": "hawk", "property": "has some cells in its respiratory system that require carbon dioxide to function", "strength": 31.2, "group": "low"}
+{"idx": 261, "premise": ["tiger "], "conclusion": "hawk", "property": "has cells in its nervous system that do not require oxygen", "strength": 31.2, "group": "low"}
+{"idx": 262, "premise": ["tiger "], "conclusion": "hawk", "property": "has a maximum heart rate of 270 beats per min", "strength": 31.2, "group": "low"}
+{"idx": 263, "premise": ["tiger "], "conclusion": "hawk", "property": "has an outermost layer of skin that is comprised of between 60 and 65% dead cells", "strength": 31.2, "group": "low"}
+{"idx": 264, "premise": ["tiger "], "conclusion": "hawk", "property": "has a body that contains more salts as it ages", "strength": 31.2, "group": "low"}
+{"idx": 265, "premise": ["tiger "], "conclusion": "hawk", "property": "has a heart rate that is not affected by nicotine", "strength": 31.2, "group": "low"}
+{"idx": 266, "premise": ["tiger "], "conclusion": "hawk", "property": "has cartilage between its joints that will grow back if torn", "strength": 31.2, "group": "low"}
+{"idx": 267, "premise": ["tiger "], "conclusion": "hawk", "property": "usually travels in a back-and-forth or zig-zag trajectory", "strength": 37.6, "group": "low"}
+{"idx": 268, "premise": ["tiger "], "conclusion": "hawk", "property": "never travels directly in the direction of the sun", "strength": 37.6, "group": "low"}
+{"idx": 269, "premise": ["tiger "], "conclusion": "hawk", "property": "escapes predators by random movement so its path cannot be predicted", "strength": 37.6, "group": "low"}
+{"idx": 270, "premise": ["tiger "], "conclusion": "hawk", "property": "travels shorter distances in extreme heat", "strength": 37.6, "group": "low"}
+{"idx": 271, "premise": ["tiger "], "conclusion": "hawk", "property": "travels at speeds of twice its body length per second after eating", "strength": 37.6, "group": "low"}
+{"idx": 272, "premise": ["tiger "], "conclusion": "hawk", "property": "travels in an alternating fast-slow-fast-slow pattern", "strength": 37.6, "group": "low"}
+{"idx": 273, "premise": ["tiger "], "conclusion": "hawk", "property": "won't eat something that it hasn't killed", "strength": 37.6, "group": "low"}
+{"idx": 274, "premise": ["tiger "], "conclusion": "hawk", "property": "prefers to feed at night", "strength": 37.6, "group": "low"}
+{"idx": 275, "premise": ["tiger "], "conclusion": "hawk", "property": "will watch its potential food for hours before attacking that food", "strength": 37.6, "group": "low"}
+{"idx": 276, "premise": ["tiger "], "conclusion": "hawk", "property": "won't feed if it smells any strange odors that it can't identify", "strength": 37.6, "group": "low"}
+{"idx": 277, "premise": ["tiger "], "conclusion": "hawk", "property": "usually gathers large amounts of food at once", "strength": 37.6, "group": "low"}
+{"idx": 278, "premise": ["tiger "], "conclusion": "hawk", "property": "usually defends the surrounding area near its last source of food", "strength": 37.6, "group": "low"}
+{"idx": 279, "premise": ["tiger "], "conclusion": "hawk", "property": "swallows 15% of the food for energy just after gathering it", "strength": 37.6, "group": "low"}
+{"idx": 280, "premise": ["tiger "], "conclusion": "hawk", "property": "will only gather food for a maximum of 2 hr at any one time", "strength": 37.6, "group": "low"}
+{"idx": 281, "premise": ["grasshopper"], "conclusion": "mosquito", "property": "has a liver with two chambers that act as one", "strength": 36.6, "group": "low"}
+{"idx": 282, "premise": ["grasshopper"], "conclusion": "mosquito", "property": "has a brain stem that recieves about 70% of the optic nerve from each eye", "strength": 36.6, "group": "low"}
+{"idx": 283, "premise": ["grasshopper"], "conclusion": "mosquito", "property": "has blood that contains between 2% and 3% potassium", "strength": 36.6, "group": "low"}
+{"idx": 284, "premise": ["grasshopper"], "conclusion": "mosquito", "property": "has a skeletal structure that contains about 58% calcium", "strength": 36.6, "group": "low"}
+{"idx": 285, "premise": ["grasshopper"], "conclusion": "mosquito", "property": "has a brain that continues to develop during the first third of its life", "strength": 36.6, "group": "low"}
+{"idx": 286, "premise": ["grasshopper"], "conclusion": "mosquito", "property": "has a sense of vision that is the first sense to develop", "strength": 36.6, "group": "low"}
+{"idx": 287, "premise": ["grasshopper"], "conclusion": "mosquito", "property": "has a sense of hearing that is the last sense to develop", "strength": 36.6, "group": "low"}
+{"idx": 288, "premise": ["grasshopper"], "conclusion": "mosquito", "property": "has some cells in its respiratory system that require carbon dioxide to function", "strength": 36.6, "group": "low"}
+{"idx": 289, "premise": ["grasshopper"], "conclusion": "mosquito", "property": "has cells in its nervous system that do not require oxygen", "strength": 36.6, "group": "low"}
+{"idx": 290, "premise": ["grasshopper"], "conclusion": "mosquito", "property": "has a maximum heart rate of 270 beats per min", "strength": 36.6, "group": "low"}
+{"idx": 291, "premise": ["grasshopper"], "conclusion": "mosquito", "property": "has an outermost layer of skin that is comprised of between 60 and 65% dead cells", "strength": 36.6, "group": "low"}
+{"idx": 292, "premise": ["grasshopper"], "conclusion": "mosquito", "property": "has a body that contains more salts as it ages", "strength": 36.6, "group": "low"}
+{"idx": 293, "premise": ["grasshopper"], "conclusion": "mosquito", "property": "has a heart rate that is not affected by nicotine", "strength": 36.6, "group": "low"}
+{"idx": 294, "premise": ["grasshopper"], "conclusion": "mosquito", "property": "has cartilage between its joints that will grow back if torn", "strength": 36.6, "group": "low"}
+{"idx": 295, "premise": ["grasshopper"], "conclusion": "mosquito", "property": "usually travels in a back-and-forth or zig-zag trajectory", "strength": 34.9, "group": "low"}
+{"idx": 296, "premise": ["grasshopper"], "conclusion": "mosquito", "property": "never travels directly in the direction of the sun", "strength": 34.9, "group": "low"}
+{"idx": 297, "premise": ["grasshopper"], "conclusion": "mosquito", "property": "escapes predators by random movement so its path cannot be predicted", "strength": 34.9, "group": "low"}
+{"idx": 298, "premise": ["grasshopper"], "conclusion": "mosquito", "property": "travels shorter distances in extreme heat", "strength": 34.9, "group": "low"}
+{"idx": 299, "premise": ["grasshopper"], "conclusion": "mosquito", "property": "travels at speeds of twice its body length per second after eating", "strength": 34.9, "group": "low"}
+{"idx": 300, "premise": ["grasshopper"], "conclusion": "mosquito", "property": "travels in an alternating fast-slow-fast-slow pattern", "strength": 34.9, "group": "low"}
+{"idx": 301, "premise": ["grasshopper"], "conclusion": "mosquito", "property": "won't eat something that it hasn't killed", "strength": 34.9, "group": "low"}
+{"idx": 302, "premise": ["grasshopper"], "conclusion": "mosquito", "property": "prefers to feed at night", "strength": 34.9, "group": "low"}
+{"idx": 303, "premise": ["grasshopper"], "conclusion": "mosquito", "property": "will watch its potential food for hours before attacking that food", "strength": 34.9, "group": "low"}
+{"idx": 304, "premise": ["grasshopper"], "conclusion": "mosquito", "property": "won't feed if it smells any strange odors that it can't identify", "strength": 34.9, "group": "low"}
+{"idx": 305, "premise": ["grasshopper"], "conclusion": "mosquito", "property": "usually gathers large amounts of food at once", "strength": 34.9, "group": "low"}
+{"idx": 306, "premise": ["grasshopper"], "conclusion": "mosquito", "property": "usually defends the surrounding area near its last source of food", "strength": 34.9, "group": "low"}
+{"idx": 307, "premise": ["grasshopper"], "conclusion": "mosquito", "property": "swallows 15% of the food for energy just after gathering it", "strength": 34.9, "group": "low"}
+{"idx": 308, "premise": ["grasshopper"], "conclusion": "mosquito", "property": "will only gather food for a maximum of 2 hr at any one time", "strength": 34.9, "group": "low"}
+{"idx": 309, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "has a liver with two chambers that act as one", "strength": 24.9, "group": "low"}
+{"idx": 310, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "has a brain stem that recieves about 70% of the optic nerve from each eye", "strength": 24.9, "group": "low"}
+{"idx": 311, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "has blood that contains between 2% and 3% potassium", "strength": 24.9, "group": "low"}
+{"idx": 312, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "has a skeletal structure that contains about 58% calcium", "strength": 24.9, "group": "low"}
+{"idx": 313, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "has a brain that continues to develop during the first third of its life", "strength": 24.9, "group": "low"}
+{"idx": 314, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "has a sense of vision that is the first sense to develop", "strength": 24.9, "group": "low"}
+{"idx": 315, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "has a sense of hearing that is the last sense to develop", "strength": 24.9, "group": "low"}
+{"idx": 316, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "has some cells in its respiratory system that require carbon dioxide to function", "strength": 24.9, "group": "low"}
+{"idx": 317, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "has cells in its nervous system that do not require oxygen", "strength": 24.9, "group": "low"}
+{"idx": 318, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "has a maximum heart rate of 270 beats per min", "strength": 24.9, "group": "low"}
+{"idx": 319, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "has an outermost layer of skin that is comprised of between 60 and 65% dead cells", "strength": 24.9, "group": "low"}
+{"idx": 320, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "has a body that contains more salts as it ages", "strength": 24.9, "group": "low"}
+{"idx": 321, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "has a heart rate that is not affected by nicotine", "strength": 24.9, "group": "low"}
+{"idx": 322, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "has cartilage between its joints that will grow back if torn", "strength": 24.9, "group": "low"}
+{"idx": 323, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "usually travels in a back-and-forth or zig-zag trajectory", "strength": 29.8, "group": "low"}
+{"idx": 324, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "never travels directly in the direction of the sun", "strength": 29.8, "group": "low"}
+{"idx": 325, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "escapes predators by random movement so its path cannot be predicted", "strength": 29.8, "group": "low"}
+{"idx": 326, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "travels shorter distances in extreme heat", "strength": 29.8, "group": "low"}
+{"idx": 327, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "travels at speeds of twice its body length per second after eating", "strength": 29.8, "group": "low"}
+{"idx": 328, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "travels in an alternating fast-slow-fast-slow pattern", "strength": 29.8, "group": "low"}
+{"idx": 329, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "won't eat something that it hasn't killed", "strength": 29.8, "group": "low"}
+{"idx": 330, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "prefers to feed at night", "strength": 29.8, "group": "low"}
+{"idx": 331, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "will watch its potential food for hours before attacking that food", "strength": 29.8, "group": "low"}
+{"idx": 332, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "won't feed if it smells any strange odors that it can't identify", "strength": 29.8, "group": "low"}
+{"idx": 333, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "usually gathers large amounts of food at once", "strength": 29.8, "group": "low"}
+{"idx": 334, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "usually defends the surrounding area near its last source of food", "strength": 29.8, "group": "low"}
+{"idx": 335, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "swallows 15% of the food for energy just after gathering it", "strength": 29.8, "group": "low"}
+{"idx": 336, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "will only gather food for a maximum of 2 hr at any one time", "strength": 29.8, "group": "low"}
+{"idx": 337, "premise": ["ant"], "conclusion": "bee", "property": "has a liver with two chambers that act as one", "strength": 46.7, "group": "high"}
+{"idx": 338, "premise": ["ant"], "conclusion": "bee", "property": "has a brain stem that recieves about 70% of the optic nerve from each eye", "strength": 46.7, "group": "high"}
+{"idx": 339, "premise": ["ant"], "conclusion": "bee", "property": "has blood that contains between 2% and 3% potassium", "strength": 46.7, "group": "high"}
+{"idx": 340, "premise": ["ant"], "conclusion": "bee", "property": "has a skeletal structure that contains about 58% calcium", "strength": 46.7, "group": "high"}
+{"idx": 341, "premise": ["ant"], "conclusion": "bee", "property": "has a brain that continues to develop during the first third of its life", "strength": 46.7, "group": "high"}
+{"idx": 342, "premise": ["ant"], "conclusion": "bee", "property": "has a sense of vision that is the first sense to develop", "strength": 46.7, "group": "high"}
+{"idx": 343, "premise": ["ant"], "conclusion": "bee", "property": "has a sense of hearing that is the last sense to develop", "strength": 46.7, "group": "high"}
+{"idx": 344, "premise": ["ant"], "conclusion": "bee", "property": "has some cells in its respiratory system that require carbon dioxide to function", "strength": 46.7, "group": "high"}
+{"idx": 345, "premise": ["ant"], "conclusion": "bee", "property": "has cells in its nervous system that do not require oxygen", "strength": 46.7, "group": "high"}
+{"idx": 346, "premise": ["ant"], "conclusion": "bee", "property": "has a maximum heart rate of 270 beats per min", "strength": 46.7, "group": "high"}
+{"idx": 347, "premise": ["ant"], "conclusion": "bee", "property": "has an outermost layer of skin that is comprised of between 60 and 65% dead cells", "strength": 46.7, "group": "high"}
+{"idx": 348, "premise": ["ant"], "conclusion": "bee", "property": "has a body that contains more salts as it ages", "strength": 46.7, "group": "high"}
+{"idx": 349, "premise": ["ant"], "conclusion": "bee", "property": "has a heart rate that is not affected by nicotine", "strength": 46.7, "group": "high"}
+{"idx": 350, "premise": ["ant"], "conclusion": "bee", "property": "has cartilage between its joints that will grow back if torn", "strength": 46.7, "group": "high"}
+{"idx": 351, "premise": ["ant"], "conclusion": "bee", "property": "usually travels in a back-and-forth or zig-zag trajectory", "strength": 45.1, "group": "high"}
+{"idx": 352, "premise": ["ant"], "conclusion": "bee", "property": "never travels directly in the direction of the sun", "strength": 45.1, "group": "high"}
+{"idx": 353, "premise": ["ant"], "conclusion": "bee", "property": "escapes predators by random movement so its path cannot be predicted", "strength": 45.1, "group": "high"}
+{"idx": 354, "premise": ["ant"], "conclusion": "bee", "property": "travels shorter distances in extreme heat", "strength": 45.1, "group": "high"}
+{"idx": 355, "premise": ["ant"], "conclusion": "bee", "property": "travels at speeds of twice its body length per second after eating", "strength": 45.1, "group": "high"}
+{"idx": 356, "premise": ["ant"], "conclusion": "bee", "property": "travels in an alternating fast-slow-fast-slow pattern", "strength": 45.1, "group": "high"}
+{"idx": 357, "premise": ["ant"], "conclusion": "bee", "property": "won't eat something that it hasn't killed", "strength": 45.1, "group": "high"}
+{"idx": 358, "premise": ["ant"], "conclusion": "bee", "property": "prefers to feed at night", "strength": 45.1, "group": "high"}
+{"idx": 359, "premise": ["ant"], "conclusion": "bee", "property": "will watch its potential food for hours before attacking that food", "strength": 45.1, "group": "high"}
+{"idx": 360, "premise": ["ant"], "conclusion": "bee", "property": "won't feed if it smells any strange odors that it can't identify", "strength": 45.1, "group": "high"}
+{"idx": 361, "premise": ["ant"], "conclusion": "bee", "property": "usually gathers large amounts of food at once", "strength": 45.1, "group": "high"}
+{"idx": 362, "premise": ["ant"], "conclusion": "bee", "property": "usually defends the surrounding area near its last source of food", "strength": 45.1, "group": "high"}
+{"idx": 363, "premise": ["ant"], "conclusion": "bee", "property": "swallows 15% of the food for energy just after gathering it", "strength": 45.1, "group": "high"}
+{"idx": 364, "premise": ["ant"], "conclusion": "bee", "property": "will only gather food for a maximum of 2 hr at any one time", "strength": 45.1, "group": "high"}
+{"idx": 365, "premise": ["hummingbird"], "conclusion": "bee", "property": "has a liver with two chambers that act as one", "strength": 32.0, "group": "low"}
+{"idx": 366, "premise": ["hummingbird"], "conclusion": "bee", "property": "has a brain stem that recieves about 70% of the optic nerve from each eye", "strength": 32.0, "group": "low"}
+{"idx": 367, "premise": ["hummingbird"], "conclusion": "bee", "property": "has blood that contains between 2% and 3% potassium", "strength": 32.0, "group": "low"}
+{"idx": 368, "premise": ["hummingbird"], "conclusion": "bee", "property": "has a skeletal structure that contains about 58% calcium", "strength": 32.0, "group": "low"}
+{"idx": 369, "premise": ["hummingbird"], "conclusion": "bee", "property": "has a brain that continues to develop during the first third of its life", "strength": 32.0, "group": "low"}
+{"idx": 370, "premise": ["hummingbird"], "conclusion": "bee", "property": "has a sense of vision that is the first sense to develop", "strength": 32.0, "group": "low"}
+{"idx": 371, "premise": ["hummingbird"], "conclusion": "bee", "property": "has a sense of hearing that is the last sense to develop", "strength": 32.0, "group": "low"}
+{"idx": 372, "premise": ["hummingbird"], "conclusion": "bee", "property": "has some cells in its respiratory system that require carbon dioxide to function", "strength": 32.0, "group": "low"}
+{"idx": 373, "premise": ["hummingbird"], "conclusion": "bee", "property": "has cells in its nervous system that do not require oxygen", "strength": 32.0, "group": "low"}
+{"idx": 374, "premise": ["hummingbird"], "conclusion": "bee", "property": "has a maximum heart rate of 270 beats per min", "strength": 32.0, "group": "low"}
+{"idx": 375, "premise": ["hummingbird"], "conclusion": "bee", "property": "has an outermost layer of skin that is comprised of between 60 and 65% dead cells", "strength": 32.0, "group": "low"}
+{"idx": 376, "premise": ["hummingbird"], "conclusion": "bee", "property": "has a body that contains more salts as it ages", "strength": 32.0, "group": "low"}
+{"idx": 377, "premise": ["hummingbird"], "conclusion": "bee", "property": "has a heart rate that is not affected by nicotine", "strength": 32.0, "group": "low"}
+{"idx": 378, "premise": ["hummingbird"], "conclusion": "bee", "property": "has cartilage between its joints that will grow back if torn", "strength": 32.0, "group": "low"}
+{"idx": 379, "premise": ["hummingbird"], "conclusion": "bee", "property": "usually travels in a back-and-forth or zig-zag trajectory", "strength": 43.4, "group": "high"}
+{"idx": 380, "premise": ["hummingbird"], "conclusion": "bee", "property": "never travels directly in the direction of the sun", "strength": 43.4, "group": "high"}
+{"idx": 381, "premise": ["hummingbird"], "conclusion": "bee", "property": "escapes predators by random movement so its path cannot be predicted", "strength": 43.4, "group": "high"}
+{"idx": 382, "premise": ["hummingbird"], "conclusion": "bee", "property": "travels shorter distances in extreme heat", "strength": 43.4, "group": "high"}
+{"idx": 383, "premise": ["hummingbird"], "conclusion": "bee", "property": "travels at speeds of twice its body length per second after eating", "strength": 43.4, "group": "high"}
+{"idx": 384, "premise": ["hummingbird"], "conclusion": "bee", "property": "travels in an alternating fast-slow-fast-slow pattern", "strength": 43.4, "group": "high"}
+{"idx": 385, "premise": ["hummingbird"], "conclusion": "bee", "property": "won't eat something that it hasn't killed", "strength": 43.4, "group": "high"}
+{"idx": 386, "premise": ["hummingbird"], "conclusion": "bee", "property": "prefers to feed at night", "strength": 43.4, "group": "high"}
+{"idx": 387, "premise": ["hummingbird"], "conclusion": "bee", "property": "will watch its potential food for hours before attacking that food", "strength": 43.4, "group": "high"}
+{"idx": 388, "premise": ["hummingbird"], "conclusion": "bee", "property": "won't feed if it smells any strange odors that it can't identify", "strength": 43.4, "group": "high"}
+{"idx": 389, "premise": ["hummingbird"], "conclusion": "bee", "property": "usually gathers large amounts of food at once", "strength": 43.4, "group": "high"}
+{"idx": 390, "premise": ["hummingbird"], "conclusion": "bee", "property": "usually defends the surrounding area near its last source of food", "strength": 43.4, "group": "high"}
+{"idx": 391, "premise": ["hummingbird"], "conclusion": "bee", "property": "swallows 15% of the food for energy just after gathering it", "strength": 43.4, "group": "high"}
+{"idx": 392, "premise": ["hummingbird"], "conclusion": "bee", "property": "will only gather food for a maximum of 2 hr at any one time", "strength": 43.4, "group": "high"}
+{"idx": 393, "premise": ["rabbit"], "conclusion": "whale", "property": "has a liver with two chambers that act as one", "strength": 31.6, "group": "low"}
+{"idx": 394, "premise": ["rabbit"], "conclusion": "whale", "property": "has a brain stem that recieves about 70% of the optic nerve from each eye", "strength": 31.6, "group": "low"}
+{"idx": 395, "premise": ["rabbit"], "conclusion": "whale", "property": "has blood that contains between 2% and 3% potassium", "strength": 31.6, "group": "low"}
+{"idx": 396, "premise": ["rabbit"], "conclusion": "whale", "property": "has a skeletal structure that contains about 58% calcium", "strength": 31.6, "group": "low"}
+{"idx": 397, "premise": ["rabbit"], "conclusion": "whale", "property": "has a brain that continues to develop during the first third of its life", "strength": 31.6, "group": "low"}
+{"idx": 398, "premise": ["rabbit"], "conclusion": "whale", "property": "has a sense of touch that is the first sense to develop", "strength": 31.6, "group": "low"}
+{"idx": 399, "premise": ["rabbit"], "conclusion": "whale", "property": "has a sense of hearing that is the last sense to develop", "strength": 31.6, "group": "low"}
+{"idx": 400, "premise": ["rabbit"], "conclusion": "whale", "property": "has some cells in its respiratory system that require carbon dioxide to function", "strength": 31.6, "group": "low"}
+{"idx": 401, "premise": ["rabbit"], "conclusion": "whale", "property": "has cells in its nervous system that do not require oxygen", "strength": 31.6, "group": "low"}
+{"idx": 402, "premise": ["rabbit"], "conclusion": "whale", "property": "has cells that contain small amounts of zinc", "strength": 31.6, "group": "low"}
+{"idx": 403, "premise": ["rabbit"], "conclusion": "whale", "property": "has an outermost layer of skin that is comprised of between 60 and 65% dead cells", "strength": 31.6, "group": "low"}
+{"idx": 404, "premise": ["rabbit"], "conclusion": "whale", "property": "has a brain that contains more serotonin as it ages", "strength": 31.6, "group": "low"}
+{"idx": 405, "premise": ["rabbit"], "conclusion": "whale", "property": "has a heart rate that is not affected by nicotine", "strength": 31.6, "group": "low"}
+{"idx": 406, "premise": ["rabbit"], "conclusion": "whale", "property": "has cartilage between its joints that will grow back if torn", "strength": 31.6, "group": "low"}
+{"idx": 407, "premise": ["rabbit"], "conclusion": "whale", "property": "usually travels in a back-and-forth or zig-zag trajectory", "strength": 30.9, "group": "low"}
+{"idx": 408, "premise": ["rabbit"], "conclusion": "whale", "property": "frequently travels for hours without stopping", "strength": 30.9, "group": "low"}
+{"idx": 409, "premise": ["rabbit"], "conclusion": "whale", "property": "escapes predators by random movement so its path cannot be predicted", "strength": 30.9, "group": "low"}
+{"idx": 410, "premise": ["rabbit"], "conclusion": "whale", "property": "travels shorter distances in extreme heat", "strength": 30.9, "group": "low"}
+{"idx": 411, "premise": ["rabbit"], "conclusion": "whale", "property": "tends to move in circles during colder weather", "strength": 30.9, "group": "low"}
+{"idx": 412, "premise": ["rabbit"], "conclusion": "whale", "property": "travels in an alternating fast-slow-fast-slow pattern", "strength": 30.9, "group": "low"}
+{"idx": 413, "premise": ["rabbit"], "conclusion": "whale", "property": "won't eat something that it hasn't killed", "strength": 30.9, "group": "low"}
+{"idx": 414, "premise": ["rabbit"], "conclusion": "whale", "property": "prefers to feed at night", "strength": 30.9, "group": "low"}
+{"idx": 415, "premise": ["rabbit"], "conclusion": "whale", "property": "will watch its potential food for hours before attacking that food", "strength": 30.9, "group": "low"}
+{"idx": 416, "premise": ["rabbit"], "conclusion": "whale", "property": "won't feed if it smells any strange odors that it can't identify", "strength": 30.9, "group": "low"}
+{"idx": 417, "premise": ["rabbit"], "conclusion": "whale", "property": "usually gathers large amounts of food at once", "strength": 30.9, "group": "low"}
+{"idx": 418, "premise": ["rabbit"], "conclusion": "whale", "property": "usually defends the surrounding area near its last source of food", "strength": 30.9, "group": "low"}
+{"idx": 419, "premise": ["rabbit"], "conclusion": "whale", "property": "swallows 15% of the food for energy just after gathering it", "strength": 30.9, "group": "low"}
+{"idx": 420, "premise": ["rabbit"], "conclusion": "whale", "property": "will only gather food for a maximum of 2 hr at any one time", "strength": 30.9, "group": "low"}
+{"idx": 421, "premise": ["tuna"], "conclusion": "whale", "property": "has a liver with two chambers that act as one", "strength": 51.2, "group": "high"}
+{"idx": 422, "premise": ["tuna"], "conclusion": "whale", "property": "has a brain stem that recieves about 70% of the optic nerve from each eye", "strength": 51.2, "group": "high"}
+{"idx": 423, "premise": ["tuna"], "conclusion": "whale", "property": "has blood that contains between 2% and 3% potassium", "strength": 51.2, "group": "high"}
+{"idx": 424, "premise": ["tuna"], "conclusion": "whale", "property": "has a skeletal structure that contains about 58% calcium", "strength": 51.2, "group": "high"}
+{"idx": 425, "premise": ["tuna"], "conclusion": "whale", "property": "has a brain that continues to develop during the first third of its life", "strength": 51.2, "group": "high"}
+{"idx": 426, "premise": ["tuna"], "conclusion": "whale", "property": "has a sense of touch that is the first sense to develop", "strength": 51.2, "group": "high"}
+{"idx": 427, "premise": ["tuna"], "conclusion": "whale", "property": "has a sense of hearing that is the last sense to develop", "strength": 51.2, "group": "high"}
+{"idx": 428, "premise": ["tuna"], "conclusion": "whale", "property": "has some cells in its respiratory system that require carbon dioxide to function", "strength": 51.2, "group": "high"}
+{"idx": 429, "premise": ["tuna"], "conclusion": "whale", "property": "has cells in its nervous system that do not require oxygen", "strength": 51.2, "group": "high"}
+{"idx": 430, "premise": ["tuna"], "conclusion": "whale", "property": "has cells that contain small amounts of zinc", "strength": 51.2, "group": "high"}
+{"idx": 431, "premise": ["tuna"], "conclusion": "whale", "property": "has an outermost layer of skin that is comprised of between 60 and 65% dead cells", "strength": 51.2, "group": "high"}
+{"idx": 432, "premise": ["tuna"], "conclusion": "whale", "property": "has a brain that contains more serotonin as it ages", "strength": 51.2, "group": "high"}
+{"idx": 433, "premise": ["tuna"], "conclusion": "whale", "property": "has a heart rate that is not affected by nicotine", "strength": 51.2, "group": "high"}
+{"idx": 434, "premise": ["tuna"], "conclusion": "whale", "property": "has cartilage between its joints that will grow back if torn", "strength": 51.2, "group": "high"}
+{"idx": 435, "premise": ["tuna"], "conclusion": "whale", "property": "usually travels in a back-and-forth or zig-zag trajectory", "strength": 46.5, "group": "high"}
+{"idx": 436, "premise": ["tuna"], "conclusion": "whale", "property": "frequently travels for hours without stopping", "strength": 46.5, "group": "high"}
+{"idx": 437, "premise": ["tuna"], "conclusion": "whale", "property": "escapes predators by random movement so its path cannot be predicted", "strength": 46.5, "group": "high"}
+{"idx": 438, "premise": ["tuna"], "conclusion": "whale", "property": "travels shorter distances in extreme heat", "strength": 46.5, "group": "high"}
+{"idx": 439, "premise": ["tuna"], "conclusion": "whale", "property": "tends to move in circles during colder weather", "strength": 46.5, "group": "high"}
+{"idx": 440, "premise": ["tuna"], "conclusion": "whale", "property": "travels in an alternating fast-slow-fast-slow pattern", "strength": 46.5, "group": "high"}
+{"idx": 441, "premise": ["tuna"], "conclusion": "whale", "property": "won't eat something that it hasn't killed", "strength": 46.5, "group": "high"}
+{"idx": 442, "premise": ["tuna"], "conclusion": "whale", "property": "prefers to feed at night", "strength": 46.5, "group": "high"}
+{"idx": 443, "premise": ["tuna"], "conclusion": "whale", "property": "will watch its potential food for hours before attacking that food", "strength": 46.5, "group": "high"}
+{"idx": 444, "premise": ["tuna"], "conclusion": "whale", "property": "won't feed if it smells any strange odors that it can't identify", "strength": 46.5, "group": "high"}
+{"idx": 445, "premise": ["tuna"], "conclusion": "whale", "property": "usually gathers large amounts of food at once", "strength": 46.5, "group": "high"}
+{"idx": 446, "premise": ["tuna"], "conclusion": "whale", "property": "usually defends the surrounding area near its last source of food", "strength": 46.5, "group": "high"}
+{"idx": 447, "premise": ["tuna"], "conclusion": "whale", "property": "swallows 15% of the food for energy just after gathering it", "strength": 46.5, "group": "high"}
+{"idx": 448, "premise": ["tuna"], "conclusion": "whale", "property": "will only gather food for a maximum of 2 hr at any one time", "strength": 46.5, "group": "high"}
+{"idx": 449, "premise": ["giraffe"], "conclusion": "bat", "property": "has a liver with two chambers that act as one", "strength": 27.4, "group": "low"}
+{"idx": 450, "premise": ["giraffe"], "conclusion": "bat", "property": "has a brain stem that recieves about 70% of the optic nerve from each eye", "strength": 27.4, "group": "low"}
+{"idx": 451, "premise": ["giraffe"], "conclusion": "bat", "property": "has blood that contains between 2% and 3% potassium", "strength": 27.4, "group": "low"}
+{"idx": 452, "premise": ["giraffe"], "conclusion": "bat", "property": "has a skeletal structure that contains about 58% calcium", "strength": 27.4, "group": "low"}
+{"idx": 453, "premise": ["giraffe"], "conclusion": "bat", "property": "has a brain that continues to develop during the first third of its life", "strength": 27.4, "group": "low"}
+{"idx": 454, "premise": ["giraffe"], "conclusion": "bat", "property": "has a sense of touch that is the first sense to develop", "strength": 27.4, "group": "low"}
+{"idx": 455, "premise": ["giraffe"], "conclusion": "bat", "property": "has a sense of hearing that is the last sense to develop", "strength": 27.4, "group": "low"}
+{"idx": 456, "premise": ["giraffe"], "conclusion": "bat", "property": "has some cells in its respiratory system that require carbon dioxide to function", "strength": 27.4, "group": "low"}
+{"idx": 457, "premise": ["giraffe"], "conclusion": "bat", "property": "has cells in its nervous system that do not require oxygen", "strength": 27.4, "group": "low"}
+{"idx": 458, "premise": ["giraffe"], "conclusion": "bat", "property": "has cells that contain small amounts of zinc", "strength": 27.4, "group": "low"}
+{"idx": 459, "premise": ["giraffe"], "conclusion": "bat", "property": "has an outermost layer of skin that is comprised of between 60 and 65% dead cells", "strength": 27.4, "group": "low"}
+{"idx": 460, "premise": ["giraffe"], "conclusion": "bat", "property": "has a brain that contains more serotonin as it ages", "strength": 27.4, "group": "low"}
+{"idx": 461, "premise": ["giraffe"], "conclusion": "bat", "property": "has a heart rate that is not affected by nicotine", "strength": 27.4, "group": "low"}
+{"idx": 462, "premise": ["giraffe"], "conclusion": "bat", "property": "has cartilage between its joints that will grow back if torn", "strength": 27.4, "group": "low"}
+{"idx": 463, "premise": ["giraffe"], "conclusion": "bat", "property": "usually travels in a back-and-forth or zig-zag trajectory", "strength": 22.6, "group": "low"}
+{"idx": 464, "premise": ["giraffe"], "conclusion": "bat", "property": "frequently travels for hours without stopping", "strength": 22.6, "group": "low"}
+{"idx": 465, "premise": ["giraffe"], "conclusion": "bat", "property": "escapes predators by random movement so its path cannot be predicted", "strength": 22.6, "group": "low"}
+{"idx": 466, "premise": ["giraffe"], "conclusion": "bat", "property": "travels shorter distances in extreme heat", "strength": 22.6, "group": "low"}
+{"idx": 467, "premise": ["giraffe"], "conclusion": "bat", "property": "tends to move in circles during colder weather", "strength": 22.6, "group": "low"}
+{"idx": 468, "premise": ["giraffe"], "conclusion": "bat", "property": "travels in an alternating fast-slow-fast-slow pattern", "strength": 22.6, "group": "low"}
+{"idx": 469, "premise": ["giraffe"], "conclusion": "bat", "property": "won't eat something that it hasn't killed", "strength": 22.6, "group": "low"}
+{"idx": 470, "premise": ["giraffe"], "conclusion": "bat", "property": "prefers to feed at night", "strength": 22.6, "group": "low"}
+{"idx": 471, "premise": ["giraffe"], "conclusion": "bat", "property": "will watch its potential food for hours before attacking that food", "strength": 22.6, "group": "low"}
+{"idx": 472, "premise": ["giraffe"], "conclusion": "bat", "property": "won't feed if it smells any strange odors that it can't identify", "strength": 22.6, "group": "low"}
+{"idx": 473, "premise": ["giraffe"], "conclusion": "bat", "property": "usually gathers large amounts of food at once", "strength": 22.6, "group": "low"}
+{"idx": 474, "premise": ["giraffe"], "conclusion": "bat", "property": "usually defends the surrounding area near its last source of food", "strength": 22.6, "group": "low"}
+{"idx": 475, "premise": ["giraffe"], "conclusion": "bat", "property": "swallows 15% of the food for energy just after gathering it", "strength": 22.6, "group": "low"}
+{"idx": 476, "premise": ["giraffe"], "conclusion": "bat", "property": "will only gather food for a maximum of 2 hr at any one time", "strength": 22.6, "group": "low"}
+{"idx": 477, "premise": ["sparrow"], "conclusion": "bat", "property": "has a liver with two chambers that act as one", "strength": 41.8, "group": "low"}
+{"idx": 478, "premise": ["sparrow"], "conclusion": "bat", "property": "has a brain stem that recieves about 70% of the optic nerve from each eye", "strength": 41.8, "group": "low"}
+{"idx": 479, "premise": ["sparrow"], "conclusion": "bat", "property": "has blood that contains between 2% and 3% potassium", "strength": 41.8, "group": "low"}
+{"idx": 480, "premise": ["sparrow"], "conclusion": "bat", "property": "has a skeletal structure that contains about 58% calcium", "strength": 41.8, "group": "low"}
+{"idx": 481, "premise": ["sparrow"], "conclusion": "bat", "property": "has a brain that continues to develop during the first third of its life", "strength": 41.8, "group": "low"}
+{"idx": 482, "premise": ["sparrow"], "conclusion": "bat", "property": "has a sense of touch that is the first sense to develop", "strength": 41.8, "group": "low"}
+{"idx": 483, "premise": ["sparrow"], "conclusion": "bat", "property": "has a sense of hearing that is the last sense to develop", "strength": 41.8, "group": "low"}
+{"idx": 484, "premise": ["sparrow"], "conclusion": "bat", "property": "has some cells in its respiratory system that require carbon dioxide to function", "strength": 41.8, "group": "low"}
+{"idx": 485, "premise": ["sparrow"], "conclusion": "bat", "property": "has cells in its nervous system that do not require oxygen", "strength": 41.8, "group": "low"}
+{"idx": 486, "premise": ["sparrow"], "conclusion": "bat", "property": "has cells that contain small amounts of zinc", "strength": 41.8, "group": "low"}
+{"idx": 487, "premise": ["sparrow"], "conclusion": "bat", "property": "has an outermost layer of skin that is comprised of between 60 and 65% dead cells", "strength": 41.8, "group": "low"}
+{"idx": 488, "premise": ["sparrow"], "conclusion": "bat", "property": "has a brain that contains more serotonin as it ages", "strength": 41.8, "group": "low"}
+{"idx": 489, "premise": ["sparrow"], "conclusion": "bat", "property": "has a heart rate that is not affected by nicotine", "strength": 41.8, "group": "low"}
+{"idx": 490, "premise": ["sparrow"], "conclusion": "bat", "property": "has cartilage between its joints that will grow back if torn", "strength": 41.8, "group": "low"}
+{"idx": 491, "premise": ["sparrow"], "conclusion": "bat", "property": "usually travels in a back-and-forth or zig-zag trajectory", "strength": 55.6, "group": "high"}
+{"idx": 492, "premise": ["sparrow"], "conclusion": "bat", "property": "frequently travels for hours without stopping", "strength": 55.6, "group": "high"}
+{"idx": 493, "premise": ["sparrow"], "conclusion": "bat", "property": "escapes predators by random movement so its path cannot be predicted", "strength": 55.6, "group": "high"}
+{"idx": 494, "premise": ["sparrow"], "conclusion": "bat", "property": "travels shorter distances in extreme heat", "strength": 55.6, "group": "high"}
+{"idx": 495, "premise": ["sparrow"], "conclusion": "bat", "property": "tends to move in circles during colder weather", "strength": 55.6, "group": "high"}
+{"idx": 496, "premise": ["sparrow"], "conclusion": "bat", "property": "travels in an alternating fast-slow-fast-slow pattern", "strength": 55.6, "group": "high"}
+{"idx": 497, "premise": ["sparrow"], "conclusion": "bat", "property": "won't eat something that it hasn't killed", "strength": 55.6, "group": "high"}
+{"idx": 498, "premise": ["sparrow"], "conclusion": "bat", "property": "prefers to feed at night", "strength": 55.6, "group": "high"}
+{"idx": 499, "premise": ["sparrow"], "conclusion": "bat", "property": "will watch its potential food for hours before attacking that food", "strength": 55.6, "group": "high"}
+{"idx": 500, "premise": ["sparrow"], "conclusion": "bat", "property": "won't feed if it smells any strange odors that it can't identify", "strength": 55.6, "group": "high"}
+{"idx": 501, "premise": ["sparrow"], "conclusion": "bat", "property": "usually gathers large amounts of food at once", "strength": 55.6, "group": "high"}
+{"idx": 502, "premise": ["sparrow"], "conclusion": "bat", "property": "usually defends the surrounding area near its last source of food", "strength": 55.6, "group": "high"}
+{"idx": 503, "premise": ["sparrow"], "conclusion": "bat", "property": "swallows 15% of the food for energy just after gathering it", "strength": 55.6, "group": "high"}
+{"idx": 504, "premise": ["sparrow"], "conclusion": "bat", "property": "will only gather food for a maximum of 2 hr at any one time", "strength": 55.6, "group": "high"}
+{"idx": 505, "premise": ["turtle"], "conclusion": "snake", "property": "has a liver with two chambers that act as one", "strength": 46.3, "group": "high"}
+{"idx": 506, "premise": ["turtle"], "conclusion": "snake", "property": "has a brain stem that recieves about 70% of the optic nerve from each eye", "strength": 46.3, "group": "high"}
+{"idx": 507, "premise": ["turtle"], "conclusion": "snake", "property": "has blood that contains between 2% and 3% potassium", "strength": 46.3, "group": "high"}
+{"idx": 508, "premise": ["turtle"], "conclusion": "snake", "property": "has a skeletal structure that contains about 58% calcium", "strength": 46.3, "group": "high"}
+{"idx": 509, "premise": ["turtle"], "conclusion": "snake", "property": "has a brain that continues to develop during the first third of its life", "strength": 46.3, "group": "high"}
+{"idx": 510, "premise": ["turtle"], "conclusion": "snake", "property": "has a sense of touch that is the first sense to develop", "strength": 46.3, "group": "high"}
+{"idx": 511, "premise": ["turtle"], "conclusion": "snake", "property": "has a sense of hearing that is the last sense to develop", "strength": 46.3, "group": "high"}
+{"idx": 512, "premise": ["turtle"], "conclusion": "snake", "property": "has some cells in its respiratory system that require carbon dioxide to function", "strength": 46.3, "group": "high"}
+{"idx": 513, "premise": ["turtle"], "conclusion": "snake", "property": "has cells in its nervous system that do not require oxygen", "strength": 46.3, "group": "high"}
+{"idx": 514, "premise": ["turtle"], "conclusion": "snake", "property": "has cells that contain small amounts of zinc", "strength": 46.3, "group": "high"}
+{"idx": 515, "premise": ["turtle"], "conclusion": "snake", "property": "has an outermost layer of skin that is comprised of between 60 and 65% dead cells", "strength": 46.3, "group": "high"}
+{"idx": 516, "premise": ["turtle"], "conclusion": "snake", "property": "has a brain that contains more serotonin as it ages", "strength": 46.3, "group": "high"}
+{"idx": 517, "premise": ["turtle"], "conclusion": "snake", "property": "has a heart rate that is not affected by nicotine", "strength": 46.3, "group": "high"}
+{"idx": 518, "premise": ["turtle"], "conclusion": "snake", "property": "has cartilage between its joints that will grow back if torn", "strength": 46.3, "group": "high"}
+{"idx": 519, "premise": ["turtle"], "conclusion": "snake", "property": "usually travels in a back-and-forth or zig-zag trajectory", "strength": 46.6, "group": "high"}
+{"idx": 520, "premise": ["turtle"], "conclusion": "snake", "property": "frequently travels for hours without stopping", "strength": 46.6, "group": "high"}
+{"idx": 521, "premise": ["turtle"], "conclusion": "snake", "property": "escapes predators by random movement so its path cannot be predicted", "strength": 46.6, "group": "high"}
+{"idx": 522, "premise": ["turtle"], "conclusion": "snake", "property": "travels shorter distances in extreme heat", "strength": 46.6, "group": "high"}
+{"idx": 523, "premise": ["turtle"], "conclusion": "snake", "property": "tends to move in circles during colder weather", "strength": 46.6, "group": "high"}
+{"idx": 524, "premise": ["turtle"], "conclusion": "snake", "property": "travels in an alternating fast-slow-fast-slow pattern", "strength": 46.6, "group": "high"}
+{"idx": 525, "premise": ["turtle"], "conclusion": "snake", "property": "won't eat something that it hasn't killed", "strength": 46.6, "group": "high"}
+{"idx": 526, "premise": ["turtle"], "conclusion": "snake", "property": "prefers to feed at night", "strength": 46.6, "group": "high"}
+{"idx": 527, "premise": ["turtle"], "conclusion": "snake", "property": "will watch its potential food for hours before attacking that food", "strength": 46.6, "group": "high"}
+{"idx": 528, "premise": ["turtle"], "conclusion": "snake", "property": "won't feed if it smells any strange odors that it can't identify", "strength": 46.6, "group": "high"}
+{"idx": 529, "premise": ["turtle"], "conclusion": "snake", "property": "usually gathers large amounts of food at once", "strength": 46.6, "group": "high"}
+{"idx": 530, "premise": ["turtle"], "conclusion": "snake", "property": "usually defends the surrounding area near its last source of food", "strength": 46.6, "group": "high"}
+{"idx": 531, "premise": ["turtle"], "conclusion": "snake", "property": "swallows 15% of the food for energy just after gathering it", "strength": 46.6, "group": "high"}
+{"idx": 532, "premise": ["turtle"], "conclusion": "snake", "property": "will only gather food for a maximum of 2 hr at any one time", "strength": 46.6, "group": "high"}
+{"idx": 533, "premise": ["worm"], "conclusion": "snake", "property": "has a liver with two chambers that act as one", "strength": 55.6, "group": "high"}
+{"idx": 534, "premise": ["worm"], "conclusion": "snake", "property": "has a brain stem that recieves about 70% of the optic nerve from each eye", "strength": 55.6, "group": "high"}
+{"idx": 535, "premise": ["worm"], "conclusion": "snake", "property": "has blood that contains between 2% and 3% potassium", "strength": 55.6, "group": "high"}
+{"idx": 536, "premise": ["worm"], "conclusion": "snake", "property": "has a skeletal structure that contains about 58% calcium", "strength": 55.6, "group": "high"}
+{"idx": 537, "premise": ["worm"], "conclusion": "snake", "property": "has a brain that continues to develop during the first third of its life", "strength": 55.6, "group": "high"}
+{"idx": 538, "premise": ["worm"], "conclusion": "snake", "property": "has a sense of touch that is the first sense to develop", "strength": 55.6, "group": "high"}
+{"idx": 539, "premise": ["worm"], "conclusion": "snake", "property": "has a sense of hearing that is the last sense to develop", "strength": 55.6, "group": "high"}
+{"idx": 540, "premise": ["worm"], "conclusion": "snake", "property": "has some cells in its respiratory system that require carbon dioxide to function", "strength": 55.6, "group": "high"}
+{"idx": 541, "premise": ["worm"], "conclusion": "snake", "property": "has cells in its nervous system that do not require oxygen", "strength": 55.6, "group": "high"}
+{"idx": 542, "premise": ["worm"], "conclusion": "snake", "property": "has cells that contain small amounts of zinc", "strength": 55.6, "group": "high"}
+{"idx": 543, "premise": ["worm"], "conclusion": "snake", "property": "has an outermost layer of skin that is comprised of between 60 and 65% dead cells", "strength": 55.6, "group": "high"}
+{"idx": 544, "premise": ["worm"], "conclusion": "snake", "property": "has a brain that contains more serotonin as it ages", "strength": 55.6, "group": "high"}
+{"idx": 545, "premise": ["worm"], "conclusion": "snake", "property": "has a heart rate that is not affected by nicotine", "strength": 55.6, "group": "high"}
+{"idx": 546, "premise": ["worm"], "conclusion": "snake", "property": "has cartilage between its joints that will grow back if torn", "strength": 55.6, "group": "high"}
+{"idx": 547, "premise": ["worm"], "conclusion": "snake", "property": "usually travels in a back-and-forth or zig-zag trajectory", "strength": 62.5, "group": "high"}
+{"idx": 548, "premise": ["worm"], "conclusion": "snake", "property": "frequently travels for hours without stopping", "strength": 62.5, "group": "high"}
+{"idx": 549, "premise": ["worm"], "conclusion": "snake", "property": "escapes predators by random movement so its path cannot be predicted", "strength": 62.5, "group": "high"}
+{"idx": 550, "premise": ["worm"], "conclusion": "snake", "property": "travels shorter distances in extreme heat", "strength": 62.5, "group": "high"}
+{"idx": 551, "premise": ["worm"], "conclusion": "snake", "property": "tends to move in circles during colder weather", "strength": 62.5, "group": "high"}
+{"idx": 552, "premise": ["worm"], "conclusion": "snake", "property": "travels in an alternating fast-slow-fast-slow pattern", "strength": 62.5, "group": "high"}
+{"idx": 553, "premise": ["worm"], "conclusion": "snake", "property": "won't eat something that it hasn't killed", "strength": 62.5, "group": "high"}
+{"idx": 554, "premise": ["worm"], "conclusion": "snake", "property": "prefers to feed at night", "strength": 62.5, "group": "high"}
+{"idx": 555, "premise": ["worm"], "conclusion": "snake", "property": "will watch its potential food for hours before attacking that food", "strength": 62.5, "group": "high"}
+{"idx": 556, "premise": ["worm"], "conclusion": "snake", "property": "won't feed if it smells any strange odors that it can't identify", "strength": 62.5, "group": "high"}
+{"idx": 557, "premise": ["worm"], "conclusion": "snake", "property": "usually gathers large amounts of food at once", "strength": 62.5, "group": "high"}
+{"idx": 558, "premise": ["worm"], "conclusion": "snake", "property": "usually defends the surrounding area near its last source of food", "strength": 62.5, "group": "high"}
+{"idx": 559, "premise": ["worm"], "conclusion": "snake", "property": "swallows 15% of the food for energy just after gathering it", "strength": 62.5, "group": "high"}
+{"idx": 560, "premise": ["worm"], "conclusion": "snake", "property": "will only gather food for a maximum of 2 hr at any one time", "strength": 62.5, "group": "high"}
+{"idx": 561, "premise": ["goldfish"], "conclusion": "shark", "property": "has a liver with two chambers that act as one", "strength": 66.2, "group": "high"}
+{"idx": 562, "premise": ["goldfish"], "conclusion": "shark", "property": "has a brain stem that recieves about 70% of the optic nerve from each eye", "strength": 66.2, "group": "high"}
+{"idx": 563, "premise": ["goldfish"], "conclusion": "shark", "property": "has blood that contains between 2% and 3% potassium", "strength": 66.2, "group": "high"}
+{"idx": 564, "premise": ["goldfish"], "conclusion": "shark", "property": "has a skeletal structure that contains about 58% calcium", "strength": 66.2, "group": "high"}
+{"idx": 565, "premise": ["goldfish"], "conclusion": "shark", "property": "has a brain that continues to develop during the first third of its life", "strength": 66.2, "group": "high"}
+{"idx": 566, "premise": ["goldfish"], "conclusion": "shark", "property": "has a sense of touch that is the first sense to develop", "strength": 66.2, "group": "high"}
+{"idx": 567, "premise": ["goldfish"], "conclusion": "shark", "property": "has a sense of hearing that is the last sense to develop", "strength": 66.2, "group": "high"}
+{"idx": 568, "premise": ["goldfish"], "conclusion": "shark", "property": "has some cells in its respiratory system that require carbon dioxide to function", "strength": 66.2, "group": "high"}
+{"idx": 569, "premise": ["goldfish"], "conclusion": "shark", "property": "has cells in its nervous system that do not require oxygen", "strength": 66.2, "group": "high"}
+{"idx": 570, "premise": ["goldfish"], "conclusion": "shark", "property": "has cells that contain small amounts of zinc", "strength": 66.2, "group": "high"}
+{"idx": 571, "premise": ["goldfish"], "conclusion": "shark", "property": "has an outermost layer of skin that is comprised of between 60 and 65% dead cells", "strength": 66.2, "group": "high"}
+{"idx": 572, "premise": ["goldfish"], "conclusion": "shark", "property": "has a brain that contains more serotonin as it ages", "strength": 66.2, "group": "high"}
+{"idx": 573, "premise": ["goldfish"], "conclusion": "shark", "property": "has a heart rate that is not affected by nicotine", "strength": 66.2, "group": "high"}
+{"idx": 574, "premise": ["goldfish"], "conclusion": "shark", "property": "has cartilage between its joints that will grow back if torn", "strength": 66.2, "group": "high"}
+{"idx": 575, "premise": ["goldfish"], "conclusion": "shark", "property": "usually travels in a back-and-forth or zig-zag trajectory", "strength": 48.6, "group": "high"}
+{"idx": 576, "premise": ["goldfish"], "conclusion": "shark", "property": "frequently travels for hours without stopping", "strength": 48.6, "group": "high"}
+{"idx": 577, "premise": ["goldfish"], "conclusion": "shark", "property": "escapes predators by random movement so its path cannot be predicted", "strength": 48.6, "group": "high"}
+{"idx": 578, "premise": ["goldfish"], "conclusion": "shark", "property": "travels shorter distances in extreme heat", "strength": 48.6, "group": "high"}
+{"idx": 579, "premise": ["goldfish"], "conclusion": "shark", "property": "tends to move in circles during colder weather", "strength": 48.6, "group": "high"}
+{"idx": 580, "premise": ["goldfish"], "conclusion": "shark", "property": "travels in an alternating fast-slow-fast-slow pattern", "strength": 48.6, "group": "high"}
+{"idx": 581, "premise": ["goldfish"], "conclusion": "shark", "property": "won't eat something that it hasn't killed", "strength": 48.6, "group": "high"}
+{"idx": 582, "premise": ["goldfish"], "conclusion": "shark", "property": "prefers to feed at night", "strength": 48.6, "group": "high"}
+{"idx": 583, "premise": ["goldfish"], "conclusion": "shark", "property": "will watch its potential food for hours before attacking that food", "strength": 48.6, "group": "high"}
+{"idx": 584, "premise": ["goldfish"], "conclusion": "shark", "property": "won't feed if it smells any strange odors that it can't identify", "strength": 48.6, "group": "high"}
+{"idx": 585, "premise": ["goldfish"], "conclusion": "shark", "property": "usually gathers large amounts of food at once", "strength": 48.6, "group": "high"}
+{"idx": 586, "premise": ["goldfish"], "conclusion": "shark", "property": "usually defends the surrounding area near its last source of food", "strength": 48.6, "group": "high"}
+{"idx": 587, "premise": ["goldfish"], "conclusion": "shark", "property": "swallows 15% of the food for energy just after gathering it", "strength": 48.6, "group": "high"}
+{"idx": 588, "premise": ["goldfish"], "conclusion": "shark", "property": "will only gather food for a maximum of 2 hr at any one time", "strength": 48.6, "group": "high"}
+{"idx": 589, "premise": ["wolf"], "conclusion": "shark", "property": "has a liver with two chambers that act as one", "strength": 23.7, "group": "low"}
+{"idx": 590, "premise": ["wolf"], "conclusion": "shark", "property": "has a brain stem that recieves about 70% of the optic nerve from each eye", "strength": 23.7, "group": "low"}
+{"idx": 591, "premise": ["wolf"], "conclusion": "shark", "property": "has blood that contains between 2% and 3% potassium", "strength": 23.7, "group": "low"}
+{"idx": 592, "premise": ["wolf"], "conclusion": "shark", "property": "has a skeletal structure that contains about 58% calcium", "strength": 23.7, "group": "low"}
+{"idx": 593, "premise": ["wolf"], "conclusion": "shark", "property": "has a brain that continues to develop during the first third of its life", "strength": 23.7, "group": "low"}
+{"idx": 594, "premise": ["wolf"], "conclusion": "shark", "property": "has a sense of touch that is the first sense to develop", "strength": 23.7, "group": "low"}
+{"idx": 595, "premise": ["wolf"], "conclusion": "shark", "property": "has a sense of hearing that is the last sense to develop", "strength": 23.7, "group": "low"}
+{"idx": 596, "premise": ["wolf"], "conclusion": "shark", "property": "has some cells in its respiratory system that require carbon dioxide to function", "strength": 23.7, "group": "low"}
+{"idx": 597, "premise": ["wolf"], "conclusion": "shark", "property": "has cells in its nervous system that do not require oxygen", "strength": 23.7, "group": "low"}
+{"idx": 598, "premise": ["wolf"], "conclusion": "shark", "property": "has cells that contain small amounts of zinc", "strength": 23.7, "group": "low"}
+{"idx": 599, "premise": ["wolf"], "conclusion": "shark", "property": "has an outermost layer of skin that is comprised of between 60 and 65% dead cells", "strength": 23.7, "group": "low"}
+{"idx": 600, "premise": ["wolf"], "conclusion": "shark", "property": "has a brain that contains more serotonin as it ages", "strength": 23.7, "group": "low"}
+{"idx": 601, "premise": ["wolf"], "conclusion": "shark", "property": "has a heart rate that is not affected by nicotine", "strength": 23.7, "group": "low"}
+{"idx": 602, "premise": ["wolf"], "conclusion": "shark", "property": "has cartilage between its joints that will grow back if torn", "strength": 23.7, "group": "low"}
+{"idx": 603, "premise": ["wolf"], "conclusion": "shark", "property": "usually travels in a back-and-forth or zig-zag trajectory", "strength": 52.6, "group": "low"}
+{"idx": 604, "premise": ["wolf"], "conclusion": "shark", "property": "frequently travels for hours without stopping", "strength": 36.0, "group": "low"}
+{"idx": 605, "premise": ["wolf"], "conclusion": "shark", "property": "escapes predators by random movement so its path cannot be predicted", "strength": 36.0, "group": "low"}
+{"idx": 606, "premise": ["wolf"], "conclusion": "shark", "property": "travels shorter distances in extreme heat", "strength": 36.0, "group": "low"}
+{"idx": 607, "premise": ["wolf"], "conclusion": "shark", "property": "tends to move in circles during colder weather", "strength": 36.0, "group": "low"}
+{"idx": 608, "premise": ["wolf"], "conclusion": "shark", "property": "travels in an alternating fast-slow-fast-slow pattern", "strength": 36.0, "group": "low"}
+{"idx": 609, "premise": ["wolf"], "conclusion": "shark", "property": "won't eat something that it hasn't killed", "strength": 36.0, "group": "low"}
+{"idx": 610, "premise": ["wolf"], "conclusion": "shark", "property": "prefers to feed at night", "strength": 36.0, "group": "low"}
+{"idx": 611, "premise": ["wolf"], "conclusion": "shark", "property": "will watch its potential food for hours before attacking that food", "strength": 36.0, "group": "low"}
+{"idx": 612, "premise": ["wolf"], "conclusion": "shark", "property": "won't feed if it smells any strange odors that it can't identify", "strength": 36.0, "group": "low"}
+{"idx": 613, "premise": ["wolf"], "conclusion": "shark", "property": "usually gathers large amounts of food at once", "strength": 36.0, "group": "low"}
+{"idx": 614, "premise": ["wolf"], "conclusion": "shark", "property": "usually defends the surrounding area near its last source of food", "strength": 36.0, "group": "low"}
+{"idx": 615, "premise": ["wolf"], "conclusion": "shark", "property": "swallows 15% of the food for energy just after gathering it", "strength": 36.0, "group": "low"}
+{"idx": 616, "premise": ["wolf"], "conclusion": "shark", "property": "will only gather food for a maximum of 2 hr at any one time", "strength": 36.0, "group": "low"}
+{"idx": 617, "premise": ["chicken"], "conclusion": "hawk", "property": "has a liver with two chambers that act as one", "strength": 57.5, "group": "high"}
+{"idx": 618, "premise": ["chicken"], "conclusion": "hawk", "property": "has a brain stem that recieves about 70% of the optic nerve from each eye", "strength": 57.5, "group": "high"}
+{"idx": 619, "premise": ["chicken"], "conclusion": "hawk", "property": "has blood that contains between 2% and 3% potassium", "strength": 57.5, "group": "high"}
+{"idx": 620, "premise": ["chicken"], "conclusion": "hawk", "property": "has a skeletal structure that contains about 58% calcium", "strength": 57.5, "group": "high"}
+{"idx": 621, "premise": ["chicken"], "conclusion": "hawk", "property": "has a brain that continues to develop during the first third of its life", "strength": 57.5, "group": "high"}
+{"idx": 622, "premise": ["chicken"], "conclusion": "hawk", "property": "has a sense of touch that is the first sense to develop", "strength": 57.5, "group": "high"}
+{"idx": 623, "premise": ["chicken"], "conclusion": "hawk", "property": "has a sense of hearing that is the last sense to develop", "strength": 57.5, "group": "high"}
+{"idx": 624, "premise": ["chicken"], "conclusion": "hawk", "property": "has some cells in its respiratory system that require carbon dioxide to function", "strength": 57.5, "group": "high"}
+{"idx": 625, "premise": ["chicken"], "conclusion": "hawk", "property": "has cells in its nervous system that do not require oxygen", "strength": 57.5, "group": "high"}
+{"idx": 626, "premise": ["chicken"], "conclusion": "hawk", "property": "has cells that contain small amounts of zinc", "strength": 57.5, "group": "high"}
+{"idx": 627, "premise": ["chicken"], "conclusion": "hawk", "property": "has an outermost layer of skin that is comprised of between 60 and 65% dead cells", "strength": 57.5, "group": "high"}
+{"idx": 628, "premise": ["chicken"], "conclusion": "hawk", "property": "has a brain that contains more serotonin as it ages", "strength": 57.5, "group": "high"}
+{"idx": 629, "premise": ["chicken"], "conclusion": "hawk", "property": "has a heart rate that is not affected by nicotine", "strength": 57.5, "group": "high"}
+{"idx": 630, "premise": ["chicken"], "conclusion": "hawk", "property": "has cartilage between its joints that will grow back if torn", "strength": 57.5, "group": "high"}
+{"idx": 631, "premise": ["chicken"], "conclusion": "hawk", "property": "usually travels in a back-and-forth or zig-zag trajectory", "strength": 42.2, "group": "high"}
+{"idx": 632, "premise": ["chicken"], "conclusion": "hawk", "property": "frequently travels for hours without stopping", "strength": 42.2, "group": "high"}
+{"idx": 633, "premise": ["chicken"], "conclusion": "hawk", "property": "escapes predators by random movement so its path cannot be predicted", "strength": 42.2, "group": "high"}
+{"idx": 634, "premise": ["chicken"], "conclusion": "hawk", "property": "travels shorter distances in extreme heat", "strength": 42.2, "group": "high"}
+{"idx": 635, "premise": ["chicken"], "conclusion": "hawk", "property": "tends to move in circles during colder weather", "strength": 42.2, "group": "high"}
+{"idx": 636, "premise": ["chicken"], "conclusion": "hawk", "property": "travels in an alternating fast-slow-fast-slow pattern", "strength": 42.2, "group": "high"}
+{"idx": 637, "premise": ["chicken"], "conclusion": "hawk", "property": "won't eat something that it hasn't killed", "strength": 42.2, "group": "high"}
+{"idx": 638, "premise": ["chicken"], "conclusion": "hawk", "property": "prefers to feed at night", "strength": 42.2, "group": "high"}
+{"idx": 639, "premise": ["chicken"], "conclusion": "hawk", "property": "will watch its potential food for hours before attacking that food", "strength": 42.2, "group": "high"}
+{"idx": 640, "premise": ["chicken"], "conclusion": "hawk", "property": "won't feed if it smells any strange odors that it can't identify", "strength": 42.2, "group": "high"}
+{"idx": 641, "premise": ["chicken"], "conclusion": "hawk", "property": "usually gathers large amounts of food at once", "strength": 42.2, "group": "high"}
+{"idx": 642, "premise": ["chicken"], "conclusion": "hawk", "property": "usually defends the surrounding area near its last source of food", "strength": 42.2, "group": "high"}
+{"idx": 643, "premise": ["chicken"], "conclusion": "hawk", "property": "swallows 15% of the food for energy just after gathering it", "strength": 42.2, "group": "high"}
+{"idx": 644, "premise": ["chicken"], "conclusion": "hawk", "property": "will only gather food for a maximum of 2 hr at any one time", "strength": 42.2, "group": "high"}
+{"idx": 645, "premise": ["tiger "], "conclusion": "hawk", "property": "has a liver with two chambers that act as one", "strength": 40.1, "group": "low"}
+{"idx": 646, "premise": ["tiger "], "conclusion": "hawk", "property": "has a brain stem that recieves about 70% of the optic nerve from each eye", "strength": 40.1, "group": "low"}
+{"idx": 647, "premise": ["tiger "], "conclusion": "hawk", "property": "has blood that contains between 2% and 3% potassium", "strength": 40.1, "group": "low"}
+{"idx": 648, "premise": ["tiger "], "conclusion": "hawk", "property": "has a skeletal structure that contains about 58% calcium", "strength": 40.1, "group": "low"}
+{"idx": 649, "premise": ["tiger "], "conclusion": "hawk", "property": "has a brain that continues to develop during the first third of its life", "strength": 40.1, "group": "low"}
+{"idx": 650, "premise": ["tiger "], "conclusion": "hawk", "property": "has a sense of touch that is the first sense to develop", "strength": 40.1, "group": "low"}
+{"idx": 651, "premise": ["tiger "], "conclusion": "hawk", "property": "has a sense of hearing that is the last sense to develop", "strength": 40.1, "group": "low"}
+{"idx": 652, "premise": ["tiger "], "conclusion": "hawk", "property": "has some cells in its respiratory system that require carbon dioxide to function", "strength": 40.1, "group": "low"}
+{"idx": 653, "premise": ["tiger "], "conclusion": "hawk", "property": "has cells in its nervous system that do not require oxygen", "strength": 40.1, "group": "low"}
+{"idx": 654, "premise": ["tiger "], "conclusion": "hawk", "property": "has cells that contain small amounts of zinc", "strength": 40.1, "group": "low"}
+{"idx": 655, "premise": ["tiger "], "conclusion": "hawk", "property": "has an outermost layer of skin that is comprised of between 60 and 65% dead cells", "strength": 40.1, "group": "low"}
+{"idx": 656, "premise": ["tiger "], "conclusion": "hawk", "property": "has a brain that contains more serotonin as it ages", "strength": 40.1, "group": "low"}
+{"idx": 657, "premise": ["tiger "], "conclusion": "hawk", "property": "has a heart rate that is not affected by nicotine", "strength": 40.1, "group": "low"}
+{"idx": 658, "premise": ["tiger "], "conclusion": "hawk", "property": "has cartilage between its joints that will grow back if torn", "strength": 40.1, "group": "low"}
+{"idx": 659, "premise": ["tiger "], "conclusion": "hawk", "property": "usually travels in a back-and-forth or zig-zag trajectory", "strength": 49.0, "group": "high"}
+{"idx": 660, "premise": ["tiger "], "conclusion": "hawk", "property": "frequently travels for hours without stopping", "strength": 49.0, "group": "high"}
+{"idx": 661, "premise": ["tiger "], "conclusion": "hawk", "property": "escapes predators by random movement so its path cannot be predicted", "strength": 49.0, "group": "high"}
+{"idx": 662, "premise": ["tiger "], "conclusion": "hawk", "property": "travels shorter distances in extreme heat", "strength": 49.0, "group": "high"}
+{"idx": 663, "premise": ["tiger "], "conclusion": "hawk", "property": "tends to move in circles during colder weather", "strength": 49.0, "group": "high"}
+{"idx": 664, "premise": ["tiger "], "conclusion": "hawk", "property": "travels in an alternating fast-slow-fast-slow pattern", "strength": 49.0, "group": "high"}
+{"idx": 665, "premise": ["tiger "], "conclusion": "hawk", "property": "won't eat something that it hasn't killed", "strength": 49.0, "group": "high"}
+{"idx": 666, "premise": ["tiger "], "conclusion": "hawk", "property": "prefers to feed at night", "strength": 49.0, "group": "high"}
+{"idx": 667, "premise": ["tiger "], "conclusion": "hawk", "property": "will watch its potential food for hours before attacking that food", "strength": 49.0, "group": "high"}
+{"idx": 668, "premise": ["tiger "], "conclusion": "hawk", "property": "won't feed if it smells any strange odors that it can't identify", "strength": 49.0, "group": "high"}
+{"idx": 669, "premise": ["tiger "], "conclusion": "hawk", "property": "usually gathers large amounts of food at once", "strength": 49.0, "group": "high"}
+{"idx": 670, "premise": ["tiger "], "conclusion": "hawk", "property": "usually defends the surrounding area near its last source of food", "strength": 49.0, "group": "high"}
+{"idx": 671, "premise": ["tiger "], "conclusion": "hawk", "property": "swallows 15% of the food for energy just after gathering it", "strength": 49.0, "group": "high"}
+{"idx": 672, "premise": ["tiger "], "conclusion": "hawk", "property": "will only gather food for a maximum of 2 hr at any one time", "strength": 49.0, "group": "high"}
+{"idx": 673, "premise": ["ladybug"], "conclusion": "mosquito", "property": "has a liver with two chambers that act as one", "strength": 42.0, "group": "high"}
+{"idx": 674, "premise": ["ladybug"], "conclusion": "mosquito", "property": "has a brain stem that recieves about 70% of the optic nerve from each eye", "strength": 42.0, "group": "high"}
+{"idx": 675, "premise": ["ladybug"], "conclusion": "mosquito", "property": "has blood that contains between 2% and 3% potassium", "strength": 42.0, "group": "high"}
+{"idx": 676, "premise": ["ladybug"], "conclusion": "mosquito", "property": "has a skeletal structure that contains about 58% calcium", "strength": 42.0, "group": "high"}
+{"idx": 677, "premise": ["ladybug"], "conclusion": "mosquito", "property": "has a brain that continues to develop during the first third of its life", "strength": 42.0, "group": "high"}
+{"idx": 678, "premise": ["ladybug"], "conclusion": "mosquito", "property": "has a sense of touch that is the first sense to develop", "strength": 42.0, "group": "high"}
+{"idx": 679, "premise": ["ladybug"], "conclusion": "mosquito", "property": "has a sense of hearing that is the last sense to develop", "strength": 42.0, "group": "high"}
+{"idx": 680, "premise": ["ladybug"], "conclusion": "mosquito", "property": "has some cells in its respiratory system that require carbon dioxide to function", "strength": 42.0, "group": "high"}
+{"idx": 681, "premise": ["ladybug"], "conclusion": "mosquito", "property": "has cells in its nervous system that do not require oxygen", "strength": 42.0, "group": "high"}
+{"idx": 682, "premise": ["ladybug"], "conclusion": "mosquito", "property": "has cells that contain small amounts of zinc", "strength": 42.0, "group": "high"}
+{"idx": 683, "premise": ["ladybug"], "conclusion": "mosquito", "property": "has an outermost layer of skin that is comprised of between 60 and 65% dead cells", "strength": 42.0, "group": "high"}
+{"idx": 684, "premise": ["ladybug"], "conclusion": "mosquito", "property": "has a brain that contains more serotonin as it ages", "strength": 42.0, "group": "high"}
+{"idx": 685, "premise": ["ladybug"], "conclusion": "mosquito", "property": "has a heart rate that is not affected by nicotine", "strength": 42.0, "group": "high"}
+{"idx": 686, "premise": ["ladybug"], "conclusion": "mosquito", "property": "has cartilage between its joints that will grow back if torn", "strength": 42.0, "group": "high"}
+{"idx": 687, "premise": ["ladybug"], "conclusion": "mosquito", "property": "usually travels in a back-and-forth or zig-zag trajectory", "strength": 35.1, "group": "low"}
+{"idx": 688, "premise": ["ladybug"], "conclusion": "mosquito", "property": "frequently travels for hours without stopping", "strength": 35.1, "group": "low"}
+{"idx": 689, "premise": ["ladybug"], "conclusion": "mosquito", "property": "escapes predators by random movement so its path cannot be predicted", "strength": 35.1, "group": "low"}
+{"idx": 690, "premise": ["ladybug"], "conclusion": "mosquito", "property": "travels shorter distances in extreme heat", "strength": 35.1, "group": "low"}
+{"idx": 691, "premise": ["ladybug"], "conclusion": "mosquito", "property": "tends to move in circles during colder weather", "strength": 35.1, "group": "low"}
+{"idx": 692, "premise": ["ladybug"], "conclusion": "mosquito", "property": "travels in an alternating fast-slow-fast-slow pattern", "strength": 35.1, "group": "low"}
+{"idx": 693, "premise": ["ladybug"], "conclusion": "mosquito", "property": "won't eat something that it hasn't killed", "strength": 35.1, "group": "low"}
+{"idx": 694, "premise": ["ladybug"], "conclusion": "mosquito", "property": "prefers to feed at night", "strength": 35.1, "group": "low"}
+{"idx": 695, "premise": ["ladybug"], "conclusion": "mosquito", "property": "will watch its potential food for hours before attacking that food", "strength": 35.1, "group": "low"}
+{"idx": 696, "premise": ["ladybug"], "conclusion": "mosquito", "property": "won't feed if it smells any strange odors that it can't identify", "strength": 35.1, "group": "low"}
+{"idx": 697, "premise": ["ladybug"], "conclusion": "mosquito", "property": "usually gathers large amounts of food at once", "strength": 35.1, "group": "low"}
+{"idx": 698, "premise": ["ladybug"], "conclusion": "mosquito", "property": "usually defends the surrounding area near its last source of food", "strength": 35.1, "group": "low"}
+{"idx": 699, "premise": ["ladybug"], "conclusion": "mosquito", "property": "swallows 15% of the food for energy just after gathering it", "strength": 35.1, "group": "low"}
+{"idx": 700, "premise": ["ladybug"], "conclusion": "mosquito", "property": "will only gather food for a maximum of 2 hr at any one time", "strength": 35.1, "group": "low"}
+{"idx": 701, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "has a liver with two chambers that act as one", "strength": 34.0, "group": "low"}
+{"idx": 702, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "has a brain stem that recieves about 70% of the optic nerve from each eye", "strength": 34.0, "group": "low"}
+{"idx": 703, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "has blood that contains between 2% and 3% potassium", "strength": 34.0, "group": "low"}
+{"idx": 704, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "has a skeletal structure that contains about 58% calcium", "strength": 34.0, "group": "low"}
+{"idx": 705, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "has a brain that continues to develop during the first third of its life", "strength": 34.0, "group": "low"}
+{"idx": 706, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "has a sense of touch that is the first sense to develop", "strength": 34.0, "group": "low"}
+{"idx": 707, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "has a sense of hearing that is the last sense to develop", "strength": 34.0, "group": "low"}
+{"idx": 708, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "has some cells in its respiratory system that require carbon dioxide to function", "strength": 34.0, "group": "low"}
+{"idx": 709, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "has cells in its nervous system that do not require oxygen", "strength": 34.0, "group": "low"}
+{"idx": 710, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "has cells that contain small amounts of zinc", "strength": 34.0, "group": "low"}
+{"idx": 711, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "has an outermost layer of skin that is comprised of between 60 and 65% dead cells", "strength": 34.0, "group": "low"}
+{"idx": 712, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "has a brain that contains more serotonin as it ages", "strength": 34.0, "group": "low"}
+{"idx": 713, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "has a heart rate that is not affected by nicotine", "strength": 34.0, "group": "low"}
+{"idx": 714, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "has cartilage between its joints that will grow back if torn", "strength": 34.0, "group": "low"}
+{"idx": 715, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "usually travels in a back-and-forth or zig-zag trajectory", "strength": 54.9, "group": "high"}
+{"idx": 716, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "frequently travels for hours without stopping", "strength": 54.9, "group": "high"}
+{"idx": 717, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "escapes predators by random movement so its path cannot be predicted", "strength": 54.9, "group": "high"}
+{"idx": 718, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "travels shorter distances in extreme heat", "strength": 54.9, "group": "high"}
+{"idx": 719, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "tends to move in circles during colder weather", "strength": 54.9, "group": "high"}
+{"idx": 720, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "travels in an alternating fast-slow-fast-slow pattern", "strength": 54.9, "group": "high"}
+{"idx": 721, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "won't eat something that it hasn't killed", "strength": 54.9, "group": "high"}
+{"idx": 722, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "prefers to feed at night", "strength": 54.9, "group": "high"}
+{"idx": 723, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "will watch its potential food for hours before attacking that food", "strength": 54.9, "group": "high"}
+{"idx": 724, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "won't feed if it smells any strange odors that it can't identify", "strength": 54.9, "group": "high"}
+{"idx": 725, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "usually gathers large amounts of food at once", "strength": 54.9, "group": "high"}
+{"idx": 726, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "usually defends the surrounding area near its last source of food", "strength": 54.9, "group": "high"}
+{"idx": 727, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "swallows 15% of the food for energy just after gathering it", "strength": 54.9, "group": "high"}
+{"idx": 728, "premise": ["vampire bat"], "conclusion": "mosquito", "property": "will only gather food for a maximum of 2 hr at any one time", "strength": 54.9, "group": "high"}
+{"idx": 729, "premise": ["praying mantis"], "conclusion": "bee", "property": "has a liver with two chambers that act as one", "strength": 55.1, "group": "high"}
+{"idx": 730, "premise": ["praying mantis"], "conclusion": "bee", "property": "has a brain stem that recieves about 70% of the optic nerve from each eye", "strength": 55.1, "group": "high"}
+{"idx": 731, "premise": ["praying mantis"], "conclusion": "bee", "property": "has blood that contains between 2% and 3% potassium", "strength": 55.1, "group": "high"}
+{"idx": 732, "premise": ["praying mantis"], "conclusion": "bee", "property": "has a skeletal structure that contains about 58% calcium", "strength": 55.1, "group": "high"}
+{"idx": 733, "premise": ["praying mantis"], "conclusion": "bee", "property": "has a brain that continues to develop during the first third of its life", "strength": 55.1, "group": "high"}
+{"idx": 734, "premise": ["praying mantis"], "conclusion": "bee", "property": "has a sense of touch that is the first sense to develop", "strength": 55.1, "group": "high"}
+{"idx": 735, "premise": ["praying mantis"], "conclusion": "bee", "property": "has a sense of hearing that is the last sense to develop", "strength": 55.1, "group": "high"}
+{"idx": 736, "premise": ["praying mantis"], "conclusion": "bee", "property": "has some cells in its respiratory system that require carbon dioxide to function", "strength": 55.1, "group": "high"}
+{"idx": 737, "premise": ["praying mantis"], "conclusion": "bee", "property": "has cells in its nervous system that do not require oxygen", "strength": 55.1, "group": "high"}
+{"idx": 738, "premise": ["praying mantis"], "conclusion": "bee", "property": "has cells that contain small amounts of zinc", "strength": 55.1, "group": "high"}
+{"idx": 739, "premise": ["praying mantis"], "conclusion": "bee", "property": "has an outermost layer of skin that is comprised of between 60 and 65% dead cells", "strength": 55.1, "group": "high"}
+{"idx": 740, "premise": ["praying mantis"], "conclusion": "bee", "property": "has a brain that contains more serotonin as it ages", "strength": 55.1, "group": "high"}
+{"idx": 741, "premise": ["praying mantis"], "conclusion": "bee", "property": "has a heart rate that is not affected by nicotine", "strength": 55.1, "group": "high"}
+{"idx": 742, "premise": ["praying mantis"], "conclusion": "bee", "property": "has cartilage between its joints that will grow back if torn", "strength": 55.1, "group": "high"}
+{"idx": 743, "premise": ["praying mantis"], "conclusion": "bee", "property": "usually travels in a back-and-forth or zig-zag trajectory", "strength": 41.3, "group": "low"}
+{"idx": 744, "premise": ["praying mantis"], "conclusion": "bee", "property": "frequently travels for hours without stopping", "strength": 41.3, "group": "low"}
+{"idx": 745, "premise": ["praying mantis"], "conclusion": "bee", "property": "escapes predators by random movement so its path cannot be predicted", "strength": 41.3, "group": "low"}
+{"idx": 746, "premise": ["praying mantis"], "conclusion": "bee", "property": "travels shorter distances in extreme heat", "strength": 41.3, "group": "low"}
+{"idx": 747, "premise": ["praying mantis"], "conclusion": "bee", "property": "tends to move in circles during colder weather", "strength": 41.3, "group": "low"}
+{"idx": 748, "premise": ["praying mantis"], "conclusion": "bee", "property": "travels in an alternating fast-slow-fast-slow pattern", "strength": 41.3, "group": "low"}
+{"idx": 749, "premise": ["praying mantis"], "conclusion": "bee", "property": "won't eat something that it hasn't killed", "strength": 41.3, "group": "low"}
+{"idx": 750, "premise": ["praying mantis"], "conclusion": "bee", "property": "prefers to feed at night", "strength": 41.3, "group": "low"}
+{"idx": 751, "premise": ["praying mantis"], "conclusion": "bee", "property": "will watch its potential food for hours before attacking that food", "strength": 41.3, "group": "low"}
+{"idx": 752, "premise": ["praying mantis"], "conclusion": "bee", "property": "won't feed if it smells any strange odors that it can't identify", "strength": 41.3, "group": "low"}
+{"idx": 753, "premise": ["praying mantis"], "conclusion": "bee", "property": "usually gathers large amounts of food at once", "strength": 41.3, "group": "low"}
+{"idx": 754, "premise": ["praying mantis"], "conclusion": "bee", "property": "usually defends the surrounding area near its last source of food", "strength": 41.3, "group": "low"}
+{"idx": 755, "premise": ["praying mantis"], "conclusion": "bee", "property": "swallows 15% of the food for energy just after gathering it", "strength": 41.3, "group": "low"}
+{"idx": 756, "premise": ["praying mantis"], "conclusion": "bee", "property": "will only gather food for a maximum of 2 hr at any one time", "strength": 41.3, "group": "low"}
+{"idx": 757, "premise": ["hummingbird"], "conclusion": "bee", "property": "has a liver with two chambers that act as one", "strength": 33.8, "group": "low"}
+{"idx": 758, "premise": ["hummingbird"], "conclusion": "bee", "property": "has a brain stem that recieves about 70% of the optic nerve from each eye", "strength": 33.8, "group": "low"}
+{"idx": 759, "premise": ["hummingbird"], "conclusion": "bee", "property": "has blood that contains between 2% and 3% potassium", "strength": 33.8, "group": "low"}
+{"idx": 760, "premise": ["hummingbird"], "conclusion": "bee", "property": "has a skeletal structure that contains about 58% calcium", "strength": 33.8, "group": "low"}
+{"idx": 761, "premise": ["hummingbird"], "conclusion": "bee", "property": "has a brain that continues to develop during the first third of its life", "strength": 33.8, "group": "low"}
+{"idx": 762, "premise": ["hummingbird"], "conclusion": "bee", "property": "has a sense of touch that is the first sense to develop", "strength": 33.8, "group": "low"}
+{"idx": 763, "premise": ["hummingbird"], "conclusion": "bee", "property": "has a sense of hearing that is the last sense to develop", "strength": 33.8, "group": "low"}
+{"idx": 764, "premise": ["hummingbird"], "conclusion": "bee", "property": "has some cells in its respiratory system that require carbon dioxide to function", "strength": 33.8, "group": "low"}
+{"idx": 765, "premise": ["hummingbird"], "conclusion": "bee", "property": "has cells in its nervous system that do not require oxygen", "strength": 33.8, "group": "low"}
+{"idx": 766, "premise": ["hummingbird"], "conclusion": "bee", "property": "has cells that contain small amounts of zinc", "strength": 33.8, "group": "low"}
+{"idx": 767, "premise": ["hummingbird"], "conclusion": "bee", "property": "has an outermost layer of skin that is comprised of between 60 and 65% dead cells", "strength": 33.8, "group": "low"}
+{"idx": 768, "premise": ["hummingbird"], "conclusion": "bee", "property": "has a brain that contains more serotonin as it ages", "strength": 33.8, "group": "low"}
+{"idx": 769, "premise": ["hummingbird"], "conclusion": "bee", "property": "has a heart rate that is not affected by nicotine", "strength": 33.8, "group": "low"}
+{"idx": 770, "premise": ["hummingbird"], "conclusion": "bee", "property": "has cartilage between its joints that will grow back if torn", "strength": 33.8, "group": "low"}
+{"idx": 771, "premise": ["hummingbird"], "conclusion": "bee", "property": "usually travels in a back-and-forth or zig-zag trajectory", "strength": 33.5, "group": "low"}
+{"idx": 772, "premise": ["hummingbird"], "conclusion": "bee", "property": "frequently travels for hours without stopping", "strength": 33.5, "group": "low"}
+{"idx": 773, "premise": ["hummingbird"], "conclusion": "bee", "property": "escapes predators by random movement so its path cannot be predicted", "strength": 33.5, "group": "low"}
+{"idx": 774, "premise": ["hummingbird"], "conclusion": "bee", "property": "travels shorter distances in extreme heat", "strength": 33.5, "group": "low"}
+{"idx": 775, "premise": ["hummingbird"], "conclusion": "bee", "property": "tends to move in circles during colder weather", "strength": 33.5, "group": "low"}
+{"idx": 776, "premise": ["hummingbird"], "conclusion": "bee", "property": "travels in an alternating fast-slow-fast-slow pattern", "strength": 33.5, "group": "low"}
+{"idx": 777, "premise": ["hummingbird"], "conclusion": "bee", "property": "won't eat something that it hasn't killed", "strength": 33.5, "group": "low"}
+{"idx": 778, "premise": ["hummingbird"], "conclusion": "bee", "property": "prefers to feed at night", "strength": 33.5, "group": "low"}
+{"idx": 779, "premise": ["hummingbird"], "conclusion": "bee", "property": "will watch its potential food for hours before attacking that food", "strength": 33.5, "group": "low"}
+{"idx": 780, "premise": ["hummingbird"], "conclusion": "bee", "property": "won't feed if it smells any strange odors that it can't identify", "strength": 33.5, "group": "low"}
+{"idx": 781, "premise": ["hummingbird"], "conclusion": "bee", "property": "usually gathers large amounts of food at once", "strength": 33.5, "group": "low"}
+{"idx": 782, "premise": ["hummingbird"], "conclusion": "bee", "property": "usually defends the surrounding area near its last source of food", "strength": 33.5, "group": "low"}
+{"idx": 783, "premise": ["hummingbird"], "conclusion": "bee", "property": "swallows 15% of the food for energy just after gathering it", "strength": 33.5, "group": "low"}
+{"idx": 784, "premise": ["hummingbird"], "conclusion": "bee", "property": "will only gather food for a maximum of 2 hr at any one time", "strength": 33.5, "group": "low"}

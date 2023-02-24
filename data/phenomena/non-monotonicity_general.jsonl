@@ -1,0 +1,508 @@
+{"idx": 1, "premise": ["robin"], "conclusion": "bird", "group": "high"}
+{"idx": 2, "premise": ["sparrow"], "conclusion": "bird", "group": "high"}
+{"idx": 3, "premise": ["canary"], "conclusion": "bird", "group": "high"}
+{"idx": 4, "premise": ["blackbird"], "conclusion": "bird", "group": "high"}
+{"idx": 5, "premise": ["dove"], "conclusion": "bird", "group": "high"}
+{"idx": 6, "premise": ["swallow"], "conclusion": "bird", "group": "high"}
+{"idx": 7, "premise": ["parakeet"], "conclusion": "bird", "group": "high"}
+{"idx": 8, "premise": ["oriole"], "conclusion": "bird", "group": "high"}
+{"idx": 9, "premise": ["wren"], "conclusion": "bird", "group": "high"}
+{"idx": 10, "premise": ["finch"], "conclusion": "bird", "group": "high"}
+{"idx": 11, "premise": ["starling"], "conclusion": "bird", "group": "high"}
+{"idx": 12, "premise": ["eagle"], "conclusion": "bird", "group": "high"}
+{"idx": 13, "premise": ["hummingbird"], "conclusion": "bird", "group": "high"}
+{"idx": 14, "premise": ["seagull"], "conclusion": "bird", "group": "high"}
+{"idx": 15, "premise": ["woodpecker"], "conclusion": "bird", "group": "high"}
+{"idx": 16, "premise": ["pigeon"], "conclusion": "bird", "group": "high"}
+{"idx": 17, "premise": ["falcon"], "conclusion": "bird", "group": "high"}
+{"idx": 18, "premise": ["crow"], "conclusion": "bird", "group": "high"}
+{"idx": 19, "premise": ["hawk"], "conclusion": "bird", "group": "high"}
+{"idx": 20, "premise": ["raven"], "conclusion": "bird", "group": "high"}
+{"idx": 21, "premise": ["parrot"], "conclusion": "bird", "group": "high"}
+{"idx": 22, "premise": ["pheasant"], "conclusion": "bird", "group": "high"}
+{"idx": 23, "premise": ["crane"], "conclusion": "bird", "group": "high"}
+{"idx": 24, "premise": ["albatross"], "conclusion": "bird", "group": "high"}
+{"idx": 25, "premise": ["toucan"], "conclusion": "bird", "group": "high"}
+{"idx": 26, "premise": ["owl"], "conclusion": "bird", "group": "high"}
+{"idx": 27, "premise": ["pelican"], "conclusion": "bird", "group": "high"}
+{"idx": 28, "premise": ["vulture"], "conclusion": "bird", "group": "high"}
+{"idx": 29, "premise": ["stork"], "conclusion": "bird", "group": "high"}
+{"idx": 30, "premise": ["buzzard"], "conclusion": "bird", "group": "high"}
+{"idx": 31, "premise": ["swan"], "conclusion": "bird", "group": "high"}
+{"idx": 32, "premise": ["flamingo"], "conclusion": "bird", "group": "high"}
+{"idx": 33, "premise": ["duck"], "conclusion": "bird", "group": "high"}
+{"idx": 34, "premise": ["peacock"], "conclusion": "bird", "group": "high"}
+{"idx": 35, "premise": ["chicken"], "conclusion": "bird", "group": "high"}
+{"idx": 36, "premise": ["turkey"], "conclusion": "bird", "group": "high"}
+{"idx": 37, "premise": ["ostrich"], "conclusion": "bird", "group": "high"}
+{"idx": 38, "premise": ["emu"], "conclusion": "bird", "group": "high"}
+{"idx": 39, "premise": ["penguin"], "conclusion": "bird", "group": "high"}
+{"idx": 40, "premise": ["bat"], "conclusion": "bird", "group": "high"}
+{"idx": 41, "premise": ["pants"], "conclusion": "clothing", "group": "high"}
+{"idx": 42, "premise": ["dress"], "conclusion": "clothing", "group": "high"}
+{"idx": 43, "premise": ["shirt"], "conclusion": "clothing", "group": "high"}
+{"idx": 44, "premise": ["skirt"], "conclusion": "clothing", "group": "high"}
+{"idx": 45, "premise": ["blouse"], "conclusion": "clothing", "group": "high"}
+{"idx": 46, "premise": ["suit"], "conclusion": "clothing", "group": "high"}
+{"idx": 47, "premise": ["jacket"], "conclusion": "clothing", "group": "high"}
+{"idx": 48, "premise": ["coat"], "conclusion": "clothing", "group": "high"}
+{"idx": 49, "premise": ["sweater"], "conclusion": "clothing", "group": "high"}
+{"idx": 50, "premise": ["sweatshirt"], "conclusion": "clothing", "group": "high"}
+{"idx": 51, "premise": ["panties"], "conclusion": "clothing", "group": "high"}
+{"idx": 52, "premise": ["socks"], "conclusion": "clothing", "group": "high"}
+{"idx": 53, "premise": ["parka"], "conclusion": "clothing", "group": "high"}
+{"idx": 54, "premise": ["pajamas"], "conclusion": "clothing", "group": "high"}
+{"idx": 55, "premise": ["bra"], "conclusion": "clothing", "group": "high"}
+{"idx": 56, "premise": ["shoes"], "conclusion": "clothing", "group": "high"}
+{"idx": 57, "premise": ["tuxedo"], "conclusion": "clothing", "group": "high"}
+{"idx": 58, "premise": ["stockings"], "conclusion": "clothing", "group": "high"}
+{"idx": 59, "premise": ["cape"], "conclusion": "clothing", "group": "high"}
+{"idx": 60, "premise": ["boots"], "conclusion": "clothing", "group": "high"}
+{"idx": 61, "premise": ["sandals"], "conclusion": "clothing", "group": "high"}
+{"idx": 62, "premise": ["tie"], "conclusion": "clothing", "group": "high"}
+{"idx": 63, "premise": ["belt"], "conclusion": "clothing", "group": "high"}
+{"idx": 64, "premise": ["scarf"], "conclusion": "clothing", "group": "high"}
+{"idx": 65, "premise": ["mittens"], "conclusion": "clothing", "group": "high"}
+{"idx": 66, "premise": ["slippers"], "conclusion": "clothing", "group": "high"}
+{"idx": 67, "premise": ["hat"], "conclusion": "clothing", "group": "high"}
+{"idx": 68, "premise": ["gloves"], "conclusion": "clothing", "group": "high"}
+{"idx": 69, "premise": ["apron"], "conclusion": "clothing", "group": "high"}
+{"idx": 70, "premise": ["earmuffs"], "conclusion": "clothing", "group": "high"}
+{"idx": 71, "premise": ["ring"], "conclusion": "clothing", "group": "high"}
+{"idx": 72, "premise": ["watch"], "conclusion": "clothing", "group": "high"}
+{"idx": 73, "premise": ["necklace"], "conclusion": "clothing", "group": "high"}
+{"idx": 74, "premise": ["bracelet"], "conclusion": "clothing", "group": "high"}
+{"idx": 75, "premise": ["orange"], "conclusion": "fruit", "group": "high"}
+{"idx": 76, "premise": ["apple"], "conclusion": "fruit", "group": "high"}
+{"idx": 77, "premise": ["banana"], "conclusion": "fruit", "group": "high"}
+{"idx": 78, "premise": ["peach"], "conclusion": "fruit", "group": "high"}
+{"idx": 79, "premise": ["pear"], "conclusion": "fruit", "group": "high"}
+{"idx": 80, "premise": ["apricot"], "conclusion": "fruit", "group": "high"}
+{"idx": 81, "premise": ["tangerine"], "conclusion": "fruit", "group": "high"}
+{"idx": 82, "premise": ["plum"], "conclusion": "fruit", "group": "high"}
+{"idx": 83, "premise": ["grapes"], "conclusion": "fruit", "group": "high"}
+{"idx": 84, "premise": ["nectarine"], "conclusion": "fruit", "group": "high"}
+{"idx": 85, "premise": ["strawberry"], "conclusion": "fruit", "group": "high"}
+{"idx": 86, "premise": ["grapefruit"], "conclusion": "fruit", "group": "high"}
+{"idx": 87, "premise": ["cherry"], "conclusion": "fruit", "group": "high"}
+{"idx": 88, "premise": ["pineapple"], "conclusion": "fruit", "group": "high"}
+{"idx": 89, "premise": ["melon"], "conclusion": "fruit", "group": "high"}
+{"idx": 90, "premise": ["blueberry"], "conclusion": "fruit", "group": "high"}
+{"idx": 91, "premise": ["raspberry"], "conclusion": "fruit", "group": "high"}
+{"idx": 92, "premise": ["lemon"], "conclusion": "fruit", "group": "high"}
+{"idx": 93, "premise": ["watermelon"], "conclusion": "fruit", "group": "high"}
+{"idx": 94, "premise": ["lime"], "conclusion": "fruit", "group": "high"}
+{"idx": 95, "premise": ["papaya"], "conclusion": "fruit", "group": "high"}
+{"idx": 96, "premise": ["honeydew"], "conclusion": "fruit", "group": "high"}
+{"idx": 97, "premise": ["mango"], "conclusion": "fruit", "group": "high"}
+{"idx": 98, "premise": ["guava"], "conclusion": "fruit", "group": "high"}
+{"idx": 99, "premise": ["pomegranate"], "conclusion": "fruit", "group": "high"}
+{"idx": 100, "premise": ["date"], "conclusion": "fruit", "group": "high"}
+{"idx": 101, "premise": ["raisin"], "conclusion": "fruit", "group": "high"}
+{"idx": 102, "premise": ["coconut"], "conclusion": "fruit", "group": "high"}
+{"idx": 103, "premise": ["avocado"], "conclusion": "fruit", "group": "high"}
+{"idx": 104, "premise": ["pumpkin"], "conclusion": "fruit", "group": "high"}
+{"idx": 105, "premise": ["tomato"], "conclusion": "fruit", "group": "high"}
+{"idx": 106, "premise": ["nut"], "conclusion": "fruit", "group": "high"}
+{"idx": 107, "premise": ["olive"], "conclusion": "fruit", "group": "high"}
+{"idx": 108, "premise": ["squash"], "conclusion": "fruit", "group": "high"}
+{"idx": 109, "premise": ["chair"], "conclusion": "furniture", "group": "high"}
+{"idx": 110, "premise": ["sofa"], "conclusion": "furniture", "group": "high"}
+{"idx": 111, "premise": ["table"], "conclusion": "furniture", "group": "high"}
+{"idx": 112, "premise": ["dresser"], "conclusion": "furniture", "group": "high"}
+{"idx": 113, "premise": ["rocking chair"], "conclusion": "furniture", "group": "high"}
+{"idx": 114, "premise": ["chest of drawers"], "conclusion": "furniture", "group": "high"}
+{"idx": 115, "premise": ["desk"], "conclusion": "furniture", "group": "high"}
+{"idx": 116, "premise": ["bed"], "conclusion": "furniture", "group": "high"}
+{"idx": 117, "premise": ["bookcase"], "conclusion": "furniture", "group": "high"}
+{"idx": 118, "premise": ["footstool"], "conclusion": "furniture", "group": "high"}
+{"idx": 119, "premise": ["cabinet"], "conclusion": "furniture", "group": "high"}
+{"idx": 120, "premise": ["bench"], "conclusion": "furniture", "group": "high"}
+{"idx": 121, "premise": ["lamp"], "conclusion": "furniture", "group": "high"}
+{"idx": 122, "premise": ["stool"], "conclusion": "furniture", "group": "high"}
+{"idx": 123, "premise": ["piano"], "conclusion": "furniture", "group": "high"}
+{"idx": 124, "premise": ["cushion"], "conclusion": "furniture", "group": "high"}
+{"idx": 125, "premise": ["cupboard"], "conclusion": "furniture", "group": "high"}
+{"idx": 126, "premise": ["stereo"], "conclusion": "furniture", "group": "high"}
+{"idx": 127, "premise": ["mirror"], "conclusion": "furniture", "group": "high"}
+{"idx": 128, "premise": ["television"], "conclusion": "furniture", "group": "high"}
+{"idx": 129, "premise": ["rug"], "conclusion": "furniture", "group": "high"}
+{"idx": 130, "premise": ["pillow"], "conclusion": "furniture", "group": "high"}
+{"idx": 131, "premise": ["radio"], "conclusion": "furniture", "group": "high"}
+{"idx": 132, "premise": ["stove"], "conclusion": "furniture", "group": "high"}
+{"idx": 133, "premise": ["clock"], "conclusion": "furniture", "group": "high"}
+{"idx": 134, "premise": ["telephone"], "conclusion": "furniture", "group": "high"}
+{"idx": 135, "premise": ["doll"], "conclusion": "toy", "group": "high"}
+{"idx": 136, "premise": ["yo-yo"], "conclusion": "toy", "group": "high"}
+{"idx": 137, "premise": ["rattle"], "conclusion": "toy", "group": "high"}
+{"idx": 138, "premise": ["ball"], "conclusion": "toy", "group": "high"}
+{"idx": 139, "premise": ["kite"], "conclusion": "toy", "group": "high"}
+{"idx": 140, "premise": ["train"], "conclusion": "toy", "group": "high"}
+{"idx": 141, "premise": ["tricycle"], "conclusion": "toy", "group": "high"}
+{"idx": 142, "premise": ["truck"], "conclusion": "toy", "group": "high"}
+{"idx": 143, "premise": ["balloon"], "conclusion": "toy", "group": "high"}
+{"idx": 144, "premise": ["baseball"], "conclusion": "toy", "group": "high"}
+{"idx": 145, "premise": ["drum"], "conclusion": "toy", "group": "high"}
+{"idx": 146, "premise": ["football"], "conclusion": "toy", "group": "high"}
+{"idx": 147, "premise": ["swing"], "conclusion": "toy", "group": "high"}
+{"idx": 148, "premise": ["boat"], "conclusion": "toy", "group": "high"}
+{"idx": 149, "premise": ["sled"], "conclusion": "toy", "group": "high"}
+{"idx": 150, "premise": ["bat"], "conclusion": "toy", "group": "high"}
+{"idx": 151, "premise": ["car"], "conclusion": "toy", "group": "high"}
+{"idx": 152, "premise": ["airplane"], "conclusion": "toy", "group": "high"}
+{"idx": 153, "premise": ["bicycle"], "conclusion": "toy", "group": "high"}
+{"idx": 154, "premise": ["tractor"], "conclusion": "toy", "group": "high"}
+{"idx": 155, "premise": ["rope"], "conclusion": "toy", "group": "high"}
+{"idx": 156, "premise": ["horse"], "conclusion": "toy", "group": "high"}
+{"idx": 157, "premise": ["gun"], "conclusion": "toy", "group": "high"}
+{"idx": 158, "premise": ["carrot"], "conclusion": "vegetable", "group": "high"}
+{"idx": 159, "premise": ["spinach"], "conclusion": "vegetable", "group": "high"}
+{"idx": 160, "premise": ["broccoli"], "conclusion": "vegetable", "group": "high"}
+{"idx": 161, "premise": ["asparagus"], "conclusion": "vegetable", "group": "high"}
+{"idx": 162, "premise": ["corn"], "conclusion": "vegetable", "group": "high"}
+{"idx": 163, "premise": ["cauliflower"], "conclusion": "vegetable", "group": "high"}
+{"idx": 164, "premise": ["squash"], "conclusion": "vegetable", "group": "high"}
+{"idx": 165, "premise": ["lettuce"], "conclusion": "vegetable", "group": "high"}
+{"idx": 166, "premise": ["celery"], "conclusion": "vegetable", "group": "high"}
+{"idx": 167, "premise": ["cucumber"], "conclusion": "vegetable", "group": "high"}
+{"idx": 168, "premise": ["tomato"], "conclusion": "vegetable", "group": "high"}
+{"idx": 169, "premise": ["turnip"], "conclusion": "vegetable", "group": "high"}
+{"idx": 170, "premise": ["eggplant"], "conclusion": "vegetable", "group": "high"}
+{"idx": 171, "premise": ["bean"], "conclusion": "vegetable", "group": "high"}
+{"idx": 172, "premise": ["potato"], "conclusion": "vegetable", "group": "high"}
+{"idx": 173, "premise": ["leek"], "conclusion": "vegetable", "group": "high"}
+{"idx": 174, "premise": ["sweet potato"], "conclusion": "vegetable", "group": "high"}
+{"idx": 175, "premise": ["parsley"], "conclusion": "vegetable", "group": "high"}
+{"idx": 176, "premise": ["mushroom"], "conclusion": "vegetable", "group": "high"}
+{"idx": 177, "premise": ["avocado"], "conclusion": "vegetable", "group": "high"}
+{"idx": 178, "premise": ["rhubarb"], "conclusion": "vegetable", "group": "high"}
+{"idx": 179, "premise": ["pumpkin"], "conclusion": "vegetable", "group": "high"}
+{"idx": 180, "premise": ["seaweed"], "conclusion": "vegetable", "group": "high"}
+{"idx": 181, "premise": ["garlic"], "conclusion": "vegetable", "group": "high"}
+{"idx": 182, "premise": ["dandelion"], "conclusion": "vegetable", "group": "high"}
+{"idx": 183, "premise": ["peanut"], "conclusion": "vegetable", "group": "high"}
+{"idx": 184, "premise": ["rice"], "conclusion": "vegetable", "group": "high"}
+{"idx": 185, "premise": ["truck"], "conclusion": "vehicle", "group": "high"}
+{"idx": 186, "premise": ["car"], "conclusion": "vehicle", "group": "high"}
+{"idx": 187, "premise": ["bus"], "conclusion": "vehicle", "group": "high"}
+{"idx": 188, "premise": ["taxi"], "conclusion": "vehicle", "group": "high"}
+{"idx": 189, "premise": ["jeep"], "conclusion": "vehicle", "group": "high"}
+{"idx": 190, "premise": ["ambulance"], "conclusion": "vehicle", "group": "high"}
+{"idx": 191, "premise": ["motorcycle"], "conclusion": "vehicle", "group": "high"}
+{"idx": 192, "premise": ["van"], "conclusion": "vehicle", "group": "high"}
+{"idx": 193, "premise": ["train"], "conclusion": "vehicle", "group": "high"}
+{"idx": 194, "premise": ["bicycle"], "conclusion": "vehicle", "group": "high"}
+{"idx": 195, "premise": ["carriage"], "conclusion": "vehicle", "group": "high"}
+{"idx": 196, "premise": ["airplane"], "conclusion": "vehicle", "group": "high"}
+{"idx": 197, "premise": ["boat"], "conclusion": "vehicle", "group": "high"}
+{"idx": 198, "premise": ["ship"], "conclusion": "vehicle", "group": "high"}
+{"idx": 199, "premise": ["scooter"], "conclusion": "vehicle", "group": "high"}
+{"idx": 200, "premise": ["tractor"], "conclusion": "vehicle", "group": "high"}
+{"idx": 201, "premise": ["trailer"], "conclusion": "vehicle", "group": "high"}
+{"idx": 202, "premise": ["cart"], "conclusion": "vehicle", "group": "high"}
+{"idx": 203, "premise": ["wheelchair"], "conclusion": "vehicle", "group": "high"}
+{"idx": 204, "premise": ["yacht"], "conclusion": "vehicle", "group": "high"}
+{"idx": 205, "premise": ["tank"], "conclusion": "vehicle", "group": "high"}
+{"idx": 206, "premise": ["tricycle"], "conclusion": "vehicle", "group": "high"}
+{"idx": 207, "premise": ["canoe"], "conclusion": "vehicle", "group": "high"}
+{"idx": 208, "premise": ["raft"], "conclusion": "vehicle", "group": "high"}
+{"idx": 209, "premise": ["submarine"], "conclusion": "vehicle", "group": "high"}
+{"idx": 210, "premise": ["sled"], "conclusion": "vehicle", "group": "high"}
+{"idx": 211, "premise": ["horse"], "conclusion": "vehicle", "group": "high"}
+{"idx": 212, "premise": ["rocket"], "conclusion": "vehicle", "group": "high"}
+{"idx": 213, "premise": ["camel"], "conclusion": "vehicle", "group": "high"}
+{"idx": 214, "premise": ["skis"], "conclusion": "vehicle", "group": "high"}
+{"idx": 215, "premise": ["skateboard"], "conclusion": "vehicle", "group": "high"}
+{"idx": 216, "premise": ["wheelbarrow"], "conclusion": "vehicle", "group": "high"}
+{"idx": 217, "premise": ["surfboard"], "conclusion": "vehicle", "group": "high"}
+{"idx": 218, "premise": ["gun"], "conclusion": "weapon", "group": "high"}
+{"idx": 219, "premise": ["pistol"], "conclusion": "weapon", "group": "high"}
+{"idx": 220, "premise": ["revolver"], "conclusion": "weapon", "group": "high"}
+{"idx": 221, "premise": ["rifle"], "conclusion": "weapon", "group": "high"}
+{"idx": 222, "premise": ["knife"], "conclusion": "weapon", "group": "high"}
+{"idx": 223, "premise": ["dagger"], "conclusion": "weapon", "group": "high"}
+{"idx": 224, "premise": ["shotgun"], "conclusion": "weapon", "group": "high"}
+{"idx": 225, "premise": ["sword"], "conclusion": "weapon", "group": "high"}
+{"idx": 226, "premise": ["bomb"], "conclusion": "weapon", "group": "high"}
+{"idx": 227, "premise": ["bayonet"], "conclusion": "weapon", "group": "high"}
+{"idx": 228, "premise": ["spear"], "conclusion": "weapon", "group": "high"}
+{"idx": 229, "premise": ["cannon"], "conclusion": "weapon", "group": "high"}
+{"idx": 230, "premise": ["club"], "conclusion": "weapon", "group": "high"}
+{"idx": 231, "premise": ["bullet"], "conclusion": "weapon", "group": "high"}
+{"idx": 232, "premise": ["arrow"], "conclusion": "weapon", "group": "high"}
+{"idx": 233, "premise": ["tank"], "conclusion": "weapon", "group": "high"}
+{"idx": 234, "premise": ["whip"], "conclusion": "weapon", "group": "high"}
+{"idx": 235, "premise": ["hatchet"], "conclusion": "weapon", "group": "high"}
+{"idx": 236, "premise": ["axe"], "conclusion": "weapon", "group": "high"}
+{"idx": 237, "premise": ["bow"], "conclusion": "weapon", "group": "high"}
+{"idx": 238, "premise": ["razor"], "conclusion": "weapon", "group": "high"}
+{"idx": 239, "premise": ["rocket"], "conclusion": "weapon", "group": "high"}
+{"idx": 240, "premise": ["judo"], "conclusion": "weapon", "group": "high"}
+{"idx": 241, "premise": ["stick"], "conclusion": "weapon", "group": "high"}
+{"idx": 242, "premise": ["poison"], "conclusion": "weapon", "group": "high"}
+{"idx": 243, "premise": ["rock"], "conclusion": "weapon", "group": "high"}
+{"idx": 244, "premise": ["stone"], "conclusion": "weapon", "group": "high"}
+{"idx": 245, "premise": ["chain"], "conclusion": "weapon", "group": "high"}
+{"idx": 246, "premise": ["scissors"], "conclusion": "weapon", "group": "high"}
+{"idx": 247, "premise": ["hammer"], "conclusion": "weapon", "group": "high"}
+{"idx": 248, "premise": ["pipe"], "conclusion": "weapon", "group": "high"}
+{"idx": 249, "premise": ["rope"], "conclusion": "weapon", "group": "high"}
+{"idx": 250, "premise": ["airplane"], "conclusion": "weapon", "group": "high"}
+{"idx": 251, "premise": ["foot"], "conclusion": "weapon", "group": "high"}
+{"idx": 252, "premise": ["car"], "conclusion": "weapon", "group": "high"}
+{"idx": 253, "premise": ["screwdriver"], "conclusion": "weapon", "group": "high"}
+{"idx": 254, "premise": ["shoes"], "conclusion": "weapon", "group": "high"}
+{"idx": 255, "premise": ["robin", "pants"], "conclusion": "bird", "group": "low"}
+{"idx": 256, "premise": ["sparrow", "orange"], "conclusion": "bird", "group": "low"}
+{"idx": 257, "premise": ["canary", "chair"], "conclusion": "bird", "group": "low"}
+{"idx": 258, "premise": ["blackbird", "doll"], "conclusion": "bird", "group": "low"}
+{"idx": 259, "premise": ["dove", "carrot"], "conclusion": "bird", "group": "low"}
+{"idx": 260, "premise": ["swallow", "truck"], "conclusion": "bird", "group": "low"}
+{"idx": 261, "premise": ["parakeet", "gun"], "conclusion": "bird", "group": "low"}
+{"idx": 262, "premise": ["oriole", "pants"], "conclusion": "bird", "group": "low"}
+{"idx": 263, "premise": ["wren", "orange"], "conclusion": "bird", "group": "low"}
+{"idx": 264, "premise": ["finch", "chair"], "conclusion": "bird", "group": "low"}
+{"idx": 265, "premise": ["starling", "doll"], "conclusion": "bird", "group": "low"}
+{"idx": 266, "premise": ["eagle", "carrot"], "conclusion": "bird", "group": "low"}
+{"idx": 267, "premise": ["hummingbird", "truck"], "conclusion": "bird", "group": "low"}
+{"idx": 268, "premise": ["seagull", "gun"], "conclusion": "bird", "group": "low"}
+{"idx": 269, "premise": ["woodpecker", "pants"], "conclusion": "bird", "group": "low"}
+{"idx": 270, "premise": ["pigeon", "orange"], "conclusion": "bird", "group": "low"}
+{"idx": 271, "premise": ["falcon", "chair"], "conclusion": "bird", "group": "low"}
+{"idx": 272, "premise": ["crow", "doll"], "conclusion": "bird", "group": "low"}
+{"idx": 273, "premise": ["hawk", "carrot"], "conclusion": "bird", "group": "low"}
+{"idx": 274, "premise": ["raven", "truck"], "conclusion": "bird", "group": "low"}
+{"idx": 275, "premise": ["parrot", "gun"], "conclusion": "bird", "group": "low"}
+{"idx": 276, "premise": ["pheasant", "pants"], "conclusion": "bird", "group": "low"}
+{"idx": 277, "premise": ["crane", "orange"], "conclusion": "bird", "group": "low"}
+{"idx": 278, "premise": ["albatross", "chair"], "conclusion": "bird", "group": "low"}
+{"idx": 279, "premise": ["toucan", "doll"], "conclusion": "bird", "group": "low"}
+{"idx": 280, "premise": ["owl", "carrot"], "conclusion": "bird", "group": "low"}
+{"idx": 281, "premise": ["pelican", "truck"], "conclusion": "bird", "group": "low"}
+{"idx": 282, "premise": ["vulture", "gun"], "conclusion": "bird", "group": "low"}
+{"idx": 283, "premise": ["stork", "pants"], "conclusion": "bird", "group": "low"}
+{"idx": 284, "premise": ["buzzard", "orange"], "conclusion": "bird", "group": "low"}
+{"idx": 285, "premise": ["swan", "chair"], "conclusion": "bird", "group": "low"}
+{"idx": 286, "premise": ["flamingo", "doll"], "conclusion": "bird", "group": "low"}
+{"idx": 287, "premise": ["duck", "carrot"], "conclusion": "bird", "group": "low"}
+{"idx": 288, "premise": ["peacock", "truck"], "conclusion": "bird", "group": "low"}
+{"idx": 289, "premise": ["chicken", "gun"], "conclusion": "bird", "group": "low"}
+{"idx": 290, "premise": ["turkey", "pants"], "conclusion": "bird", "group": "low"}
+{"idx": 291, "premise": ["ostrich", "orange"], "conclusion": "bird", "group": "low"}
+{"idx": 292, "premise": ["emu", "chair"], "conclusion": "bird", "group": "low"}
+{"idx": 293, "premise": ["penguin", "doll"], "conclusion": "bird", "group": "low"}
+{"idx": 294, "premise": ["bat", "carrot"], "conclusion": "bird", "group": "low"}
+{"idx": 295, "premise": ["pants", "robin"], "conclusion": "clothing", "group": "low"}
+{"idx": 296, "premise": ["dress", "orange"], "conclusion": "clothing", "group": "low"}
+{"idx": 297, "premise": ["shirt", "chair"], "conclusion": "clothing", "group": "low"}
+{"idx": 298, "premise": ["skirt", "doll"], "conclusion": "clothing", "group": "low"}
+{"idx": 299, "premise": ["blouse", "carrot"], "conclusion": "clothing", "group": "low"}
+{"idx": 300, "premise": ["suit", "truck"], "conclusion": "clothing", "group": "low"}
+{"idx": 301, "premise": ["jacket", "gun"], "conclusion": "clothing", "group": "low"}
+{"idx": 302, "premise": ["coat", "robin"], "conclusion": "clothing", "group": "low"}
+{"idx": 303, "premise": ["sweater", "orange"], "conclusion": "clothing", "group": "low"}
+{"idx": 304, "premise": ["sweatshirt", "chair"], "conclusion": "clothing", "group": "low"}
+{"idx": 305, "premise": ["panties", "doll"], "conclusion": "clothing", "group": "low"}
+{"idx": 306, "premise": ["socks", "carrot"], "conclusion": "clothing", "group": "low"}
+{"idx": 307, "premise": ["parka", "truck"], "conclusion": "clothing", "group": "low"}
+{"idx": 308, "premise": ["pajamas", "gun"], "conclusion": "clothing", "group": "low"}
+{"idx": 309, "premise": ["bra", "robin"], "conclusion": "clothing", "group": "low"}
+{"idx": 310, "premise": ["shoes", "orange"], "conclusion": "clothing", "group": "low"}
+{"idx": 311, "premise": ["tuxedo", "chair"], "conclusion": "clothing", "group": "low"}
+{"idx": 312, "premise": ["stockings", "doll"], "conclusion": "clothing", "group": "low"}
+{"idx": 313, "premise": ["cape", "carrot"], "conclusion": "clothing", "group": "low"}
+{"idx": 314, "premise": ["boots", "truck"], "conclusion": "clothing", "group": "low"}
+{"idx": 315, "premise": ["sandals", "gun"], "conclusion": "clothing", "group": "low"}
+{"idx": 316, "premise": ["tie", "robin"], "conclusion": "clothing", "group": "low"}
+{"idx": 317, "premise": ["belt", "orange"], "conclusion": "clothing", "group": "low"}
+{"idx": 318, "premise": ["scarf", "chair"], "conclusion": "clothing", "group": "low"}
+{"idx": 319, "premise": ["mittens", "doll"], "conclusion": "clothing", "group": "low"}
+{"idx": 320, "premise": ["slippers", "carrot"], "conclusion": "clothing", "group": "low"}
+{"idx": 321, "premise": ["hat", "truck"], "conclusion": "clothing", "group": "low"}
+{"idx": 322, "premise": ["gloves", "gun"], "conclusion": "clothing", "group": "low"}
+{"idx": 323, "premise": ["apron", "robin"], "conclusion": "clothing", "group": "low"}
+{"idx": 324, "premise": ["earmuffs", "orange"], "conclusion": "clothing", "group": "low"}
+{"idx": 325, "premise": ["ring", "chair"], "conclusion": "clothing", "group": "low"}
+{"idx": 326, "premise": ["watch", "doll"], "conclusion": "clothing", "group": "low"}
+{"idx": 327, "premise": ["necklace", "carrot"], "conclusion": "clothing", "group": "low"}
+{"idx": 328, "premise": ["bracelet", "truck"], "conclusion": "clothing", "group": "low"}
+{"idx": 329, "premise": ["orange", "robin"], "conclusion": "fruit", "group": "low"}
+{"idx": 330, "premise": ["apple", "pants"], "conclusion": "fruit", "group": "low"}
+{"idx": 331, "premise": ["banana", "chair"], "conclusion": "fruit", "group": "low"}
+{"idx": 332, "premise": ["peach", "doll"], "conclusion": "fruit", "group": "low"}
+{"idx": 333, "premise": ["pear", "carrot"], "conclusion": "fruit", "group": "low"}
+{"idx": 334, "premise": ["apricot", "truck"], "conclusion": "fruit", "group": "low"}
+{"idx": 335, "premise": ["tangerine", "gun"], "conclusion": "fruit", "group": "low"}
+{"idx": 336, "premise": ["plum", "robin"], "conclusion": "fruit", "group": "low"}
+{"idx": 337, "premise": ["grapes", "pants"], "conclusion": "fruit", "group": "low"}
+{"idx": 338, "premise": ["nectarine", "chair"], "conclusion": "fruit", "group": "low"}
+{"idx": 339, "premise": ["strawberry", "doll"], "conclusion": "fruit", "group": "low"}
+{"idx": 340, "premise": ["grapefruit", "carrot"], "conclusion": "fruit", "group": "low"}
+{"idx": 341, "premise": ["cherry", "truck"], "conclusion": "fruit", "group": "low"}
+{"idx": 342, "premise": ["pineapple", "gun"], "conclusion": "fruit", "group": "low"}
+{"idx": 343, "premise": ["melon", "robin"], "conclusion": "fruit", "group": "low"}
+{"idx": 344, "premise": ["blueberry", "pants"], "conclusion": "fruit", "group": "low"}
+{"idx": 345, "premise": ["raspberry", "chair"], "conclusion": "fruit", "group": "low"}
+{"idx": 346, "premise": ["lemon", "doll"], "conclusion": "fruit", "group": "low"}
+{"idx": 347, "premise": ["watermelon", "carrot"], "conclusion": "fruit", "group": "low"}
+{"idx": 348, "premise": ["lime", "truck"], "conclusion": "fruit", "group": "low"}
+{"idx": 349, "premise": ["papaya", "gun"], "conclusion": "fruit", "group": "low"}
+{"idx": 350, "premise": ["honeydew", "robin"], "conclusion": "fruit", "group": "low"}
+{"idx": 351, "premise": ["mango", "pants"], "conclusion": "fruit", "group": "low"}
+{"idx": 352, "premise": ["guava", "chair"], "conclusion": "fruit", "group": "low"}
+{"idx": 353, "premise": ["pomegranate", "doll"], "conclusion": "fruit", "group": "low"}
+{"idx": 354, "premise": ["date", "carrot"], "conclusion": "fruit", "group": "low"}
+{"idx": 355, "premise": ["raisin", "truck"], "conclusion": "fruit", "group": "low"}
+{"idx": 356, "premise": ["coconut", "gun"], "conclusion": "fruit", "group": "low"}
+{"idx": 357, "premise": ["avocado", "robin"], "conclusion": "fruit", "group": "low"}
+{"idx": 358, "premise": ["pumpkin", "pants"], "conclusion": "fruit", "group": "low"}
+{"idx": 359, "premise": ["tomato", "chair"], "conclusion": "fruit", "group": "low"}
+{"idx": 360, "premise": ["nut", "doll"], "conclusion": "fruit", "group": "low"}
+{"idx": 361, "premise": ["olive", "carrot"], "conclusion": "fruit", "group": "low"}
+{"idx": 362, "premise": ["squash", "truck"], "conclusion": "fruit", "group": "low"}
+{"idx": 363, "premise": ["chair", "orange"], "conclusion": "furniture", "group": "low"}
+{"idx": 364, "premise": ["sofa", "robin"], "conclusion": "furniture", "group": "low"}
+{"idx": 365, "premise": ["table", "pants"], "conclusion": "furniture", "group": "low"}
+{"idx": 366, "premise": ["dresser", "doll"], "conclusion": "furniture", "group": "low"}
+{"idx": 367, "premise": ["rocking chair", "carrot"], "conclusion": "furniture", "group": "low"}
+{"idx": 368, "premise": ["chest of drawers", "truck"], "conclusion": "furniture", "group": "low"}
+{"idx": 369, "premise": ["desk", "gun"], "conclusion": "furniture", "group": "low"}
+{"idx": 370, "premise": ["bed", "orange"], "conclusion": "furniture", "group": "low"}
+{"idx": 371, "premise": ["bookcase", "robin"], "conclusion": "furniture", "group": "low"}
+{"idx": 372, "premise": ["footstool", "pants"], "conclusion": "furniture", "group": "low"}
+{"idx": 373, "premise": ["cabinet", "doll"], "conclusion": "furniture", "group": "low"}
+{"idx": 374, "premise": ["bench", "carrot"], "conclusion": "furniture", "group": "low"}
+{"idx": 375, "premise": ["lamp", "truck"], "conclusion": "furniture", "group": "low"}
+{"idx": 376, "premise": ["stool", "gun"], "conclusion": "furniture", "group": "low"}
+{"idx": 377, "premise": ["piano", "orange"], "conclusion": "furniture", "group": "low"}
+{"idx": 378, "premise": ["cushion", "robin"], "conclusion": "furniture", "group": "low"}
+{"idx": 379, "premise": ["cupboard", "pants"], "conclusion": "furniture", "group": "low"}
+{"idx": 380, "premise": ["stereo", "doll"], "conclusion": "furniture", "group": "low"}
+{"idx": 381, "premise": ["mirror", "carrot"], "conclusion": "furniture", "group": "low"}
+{"idx": 382, "premise": ["television", "truck"], "conclusion": "furniture", "group": "low"}
+{"idx": 383, "premise": ["rug", "gun"], "conclusion": "furniture", "group": "low"}
+{"idx": 384, "premise": ["pillow", "orange"], "conclusion": "furniture", "group": "low"}
+{"idx": 385, "premise": ["radio", "robin"], "conclusion": "furniture", "group": "low"}
+{"idx": 386, "premise": ["stove", "pants"], "conclusion": "furniture", "group": "low"}
+{"idx": 387, "premise": ["clock", "doll"], "conclusion": "furniture", "group": "low"}
+{"idx": 388, "premise": ["telephone", "carrot"], "conclusion": "furniture", "group": "low"}
+{"idx": 389, "premise": ["doll", "orange"], "conclusion": "toy", "group": "low"}
+{"idx": 390, "premise": ["yo-yo", "robin"], "conclusion": "toy", "group": "low"}
+{"idx": 391, "premise": ["rattle", "pants"], "conclusion": "toy", "group": "low"}
+{"idx": 392, "premise": ["ball", "chair"], "conclusion": "toy", "group": "low"}
+{"idx": 393, "premise": ["kite", "carrot"], "conclusion": "toy", "group": "low"}
+{"idx": 394, "premise": ["train", "truck"], "conclusion": "toy", "group": "low"}
+{"idx": 395, "premise": ["tricycle", "gun"], "conclusion": "toy", "group": "low"}
+{"idx": 396, "premise": ["truck", "orange"], "conclusion": "toy", "group": "low"}
+{"idx": 397, "premise": ["balloon", "robin"], "conclusion": "toy", "group": "low"}
+{"idx": 398, "premise": ["baseball", "pants"], "conclusion": "toy", "group": "low"}
+{"idx": 399, "premise": ["drum", "chair"], "conclusion": "toy", "group": "low"}
+{"idx": 400, "premise": ["football", "carrot"], "conclusion": "toy", "group": "low"}
+{"idx": 401, "premise": ["swing", "truck"], "conclusion": "toy", "group": "low"}
+{"idx": 402, "premise": ["boat", "gun"], "conclusion": "toy", "group": "low"}
+{"idx": 403, "premise": ["sled", "orange"], "conclusion": "toy", "group": "low"}
+{"idx": 404, "premise": ["bat", "robin"], "conclusion": "toy", "group": "low"}
+{"idx": 405, "premise": ["car", "pants"], "conclusion": "toy", "group": "low"}
+{"idx": 406, "premise": ["airplane", "chair"], "conclusion": "toy", "group": "low"}
+{"idx": 407, "premise": ["bicycle", "carrot"], "conclusion": "toy", "group": "low"}
+{"idx": 408, "premise": ["tractor", "truck"], "conclusion": "toy", "group": "low"}
+{"idx": 409, "premise": ["rope", "gun"], "conclusion": "toy", "group": "low"}
+{"idx": 410, "premise": ["horse", "orange"], "conclusion": "toy", "group": "low"}
+{"idx": 411, "premise": ["gun", "robin"], "conclusion": "toy", "group": "low"}
+{"idx": 412, "premise": ["carrot", "orange"], "conclusion": "vegetable", "group": "low"}
+{"idx": 413, "premise": ["spinach", "robin"], "conclusion": "vegetable", "group": "low"}
+{"idx": 414, "premise": ["broccoli", "pants"], "conclusion": "vegetable", "group": "low"}
+{"idx": 415, "premise": ["asparagus", "chair"], "conclusion": "vegetable", "group": "low"}
+{"idx": 416, "premise": ["corn", "doll"], "conclusion": "vegetable", "group": "low"}
+{"idx": 417, "premise": ["cauliflower", "truck"], "conclusion": "vegetable", "group": "low"}
+{"idx": 418, "premise": ["squash", "gun"], "conclusion": "vegetable", "group": "low"}
+{"idx": 419, "premise": ["lettuce", "orange"], "conclusion": "vegetable", "group": "low"}
+{"idx": 420, "premise": ["celery", "robin"], "conclusion": "vegetable", "group": "low"}
+{"idx": 421, "premise": ["cucumber", "pants"], "conclusion": "vegetable", "group": "low"}
+{"idx": 422, "premise": ["tomato", "chair"], "conclusion": "vegetable", "group": "low"}
+{"idx": 423, "premise": ["turnip", "doll"], "conclusion": "vegetable", "group": "low"}
+{"idx": 424, "premise": ["eggplant", "truck"], "conclusion": "vegetable", "group": "low"}
+{"idx": 425, "premise": ["bean", "gun"], "conclusion": "vegetable", "group": "low"}
+{"idx": 426, "premise": ["potato", "orange"], "conclusion": "vegetable", "group": "low"}
+{"idx": 427, "premise": ["leek", "robin"], "conclusion": "vegetable", "group": "low"}
+{"idx": 428, "premise": ["sweet potato", "pants"], "conclusion": "vegetable", "group": "low"}
+{"idx": 429, "premise": ["parsley", "chair"], "conclusion": "vegetable", "group": "low"}
+{"idx": 430, "premise": ["mushroom", "doll"], "conclusion": "vegetable", "group": "low"}
+{"idx": 431, "premise": ["avocado", "truck"], "conclusion": "vegetable", "group": "low"}
+{"idx": 432, "premise": ["rhubarb", "gun"], "conclusion": "vegetable", "group": "low"}
+{"idx": 433, "premise": ["pumpkin", "orange"], "conclusion": "vegetable", "group": "low"}
+{"idx": 434, "premise": ["seaweed", "robin"], "conclusion": "vegetable", "group": "low"}
+{"idx": 435, "premise": ["garlic", "pants"], "conclusion": "vegetable", "group": "low"}
+{"idx": 436, "premise": ["dandelion", "chair"], "conclusion": "vegetable", "group": "low"}
+{"idx": 437, "premise": ["peanut", "doll"], "conclusion": "vegetable", "group": "low"}
+{"idx": 438, "premise": ["rice", "truck"], "conclusion": "vegetable", "group": "low"}
+{"idx": 439, "premise": ["truck", "orange"], "conclusion": "vehicle", "group": "low"}
+{"idx": 440, "premise": ["car", "robin"], "conclusion": "vehicle", "group": "low"}
+{"idx": 441, "premise": ["bus", "pants"], "conclusion": "vehicle", "group": "low"}
+{"idx": 442, "premise": ["taxi", "chair"], "conclusion": "vehicle", "group": "low"}
+{"idx": 443, "premise": ["jeep", "doll"], "conclusion": "vehicle", "group": "low"}
+{"idx": 444, "premise": ["ambulance", "carrot"], "conclusion": "vehicle", "group": "low"}
+{"idx": 445, "premise": ["motorcycle", "gun"], "conclusion": "vehicle", "group": "low"}
+{"idx": 446, "premise": ["van", "orange"], "conclusion": "vehicle", "group": "low"}
+{"idx": 447, "premise": ["train", "robin"], "conclusion": "vehicle", "group": "low"}
+{"idx": 448, "premise": ["bicycle", "pants"], "conclusion": "vehicle", "group": "low"}
+{"idx": 449, "premise": ["carriage", "chair"], "conclusion": "vehicle", "group": "low"}
+{"idx": 450, "premise": ["airplane", "doll"], "conclusion": "vehicle", "group": "low"}
+{"idx": 451, "premise": ["boat", "carrot"], "conclusion": "vehicle", "group": "low"}
+{"idx": 452, "premise": ["ship", "gun"], "conclusion": "vehicle", "group": "low"}
+{"idx": 453, "premise": ["scooter", "orange"], "conclusion": "vehicle", "group": "low"}
+{"idx": 454, "premise": ["tractor", "robin"], "conclusion": "vehicle", "group": "low"}
+{"idx": 455, "premise": ["trailer", "pants"], "conclusion": "vehicle", "group": "low"}
+{"idx": 456, "premise": ["cart", "chair"], "conclusion": "vehicle", "group": "low"}
+{"idx": 457, "premise": ["wheelchair", "doll"], "conclusion": "vehicle", "group": "low"}
+{"idx": 458, "premise": ["yacht", "carrot"], "conclusion": "vehicle", "group": "low"}
+{"idx": 459, "premise": ["tank", "gun"], "conclusion": "vehicle", "group": "low"}
+{"idx": 460, "premise": ["tricycle", "orange"], "conclusion": "vehicle", "group": "low"}
+{"idx": 461, "premise": ["canoe", "robin"], "conclusion": "vehicle", "group": "low"}
+{"idx": 462, "premise": ["raft", "pants"], "conclusion": "vehicle", "group": "low"}
+{"idx": 463, "premise": ["submarine", "chair"], "conclusion": "vehicle", "group": "low"}
+{"idx": 464, "premise": ["sled", "doll"], "conclusion": "vehicle", "group": "low"}
+{"idx": 465, "premise": ["horse", "carrot"], "conclusion": "vehicle", "group": "low"}
+{"idx": 466, "premise": ["rocket", "gun"], "conclusion": "vehicle", "group": "low"}
+{"idx": 467, "premise": ["camel", "orange"], "conclusion": "vehicle", "group": "low"}
+{"idx": 468, "premise": ["skis", "robin"], "conclusion": "vehicle", "group": "low"}
+{"idx": 469, "premise": ["skateboard", "pants"], "conclusion": "vehicle", "group": "low"}
+{"idx": 470, "premise": ["wheelbarrow", "chair"], "conclusion": "vehicle", "group": "low"}
+{"idx": 471, "premise": ["surfboard", "doll"], "conclusion": "vehicle", "group": "low"}
+{"idx": 472, "premise": ["gun", "orange"], "conclusion": "weapon", "group": "low"}
+{"idx": 473, "premise": ["pistol", "robin"], "conclusion": "weapon", "group": "low"}
+{"idx": 474, "premise": ["revolver", "pants"], "conclusion": "weapon", "group": "low"}
+{"idx": 475, "premise": ["rifle", "chair"], "conclusion": "weapon", "group": "low"}
+{"idx": 476, "premise": ["knife", "doll"], "conclusion": "weapon", "group": "low"}
+{"idx": 477, "premise": ["dagger", "carrot"], "conclusion": "weapon", "group": "low"}
+{"idx": 478, "premise": ["shotgun", "truck"], "conclusion": "weapon", "group": "low"}
+{"idx": 479, "premise": ["sword", "orange"], "conclusion": "weapon", "group": "low"}
+{"idx": 480, "premise": ["bomb", "robin"], "conclusion": "weapon", "group": "low"}
+{"idx": 481, "premise": ["bayonet", "pants"], "conclusion": "weapon", "group": "low"}
+{"idx": 482, "premise": ["spear", "chair"], "conclusion": "weapon", "group": "low"}
+{"idx": 483, "premise": ["cannon", "doll"], "conclusion": "weapon", "group": "low"}
+{"idx": 484, "premise": ["club", "carrot"], "conclusion": "weapon", "group": "low"}
+{"idx": 485, "premise": ["bullet", "truck"], "conclusion": "weapon", "group": "low"}
+{"idx": 486, "premise": ["arrow", "orange"], "conclusion": "weapon", "group": "low"}
+{"idx": 487, "premise": ["tank", "robin"], "conclusion": "weapon", "group": "low"}
+{"idx": 488, "premise": ["whip", "pants"], "conclusion": "weapon", "group": "low"}
+{"idx": 489, "premise": ["hatchet", "chair"], "conclusion": "weapon", "group": "low"}
+{"idx": 490, "premise": ["axe", "doll"], "conclusion": "weapon", "group": "low"}
+{"idx": 491, "premise": ["bow", "carrot"], "conclusion": "weapon", "group": "low"}
+{"idx": 492, "premise": ["razor", "truck"], "conclusion": "weapon", "group": "low"}
+{"idx": 493, "premise": ["rocket", "orange"], "conclusion": "weapon", "group": "low"}
+{"idx": 494, "premise": ["judo", "robin"], "conclusion": "weapon", "group": "low"}
+{"idx": 495, "premise": ["stick", "pants"], "conclusion": "weapon", "group": "low"}
+{"idx": 496, "premise": ["poison", "chair"], "conclusion": "weapon", "group": "low"}
+{"idx": 497, "premise": ["rock", "doll"], "conclusion": "weapon", "group": "low"}
+{"idx": 498, "premise": ["stone", "carrot"], "conclusion": "weapon", "group": "low"}
+{"idx": 499, "premise": ["chain", "truck"], "conclusion": "weapon", "group": "low"}
+{"idx": 500, "premise": ["scissors", "orange"], "conclusion": "weapon", "group": "low"}
+{"idx": 501, "premise": ["hammer", "robin"], "conclusion": "weapon", "group": "low"}
+{"idx": 502, "premise": ["pipe", "pants"], "conclusion": "weapon", "group": "low"}
+{"idx": 503, "premise": ["rope", "chair"], "conclusion": "weapon", "group": "low"}
+{"idx": 504, "premise": ["airplane", "doll"], "conclusion": "weapon", "group": "low"}
+{"idx": 505, "premise": ["foot", "carrot"], "conclusion": "weapon", "group": "low"}
+{"idx": 506, "premise": ["car", "truck"], "conclusion": "weapon", "group": "low"}
+{"idx": 507, "premise": ["screwdriver", "orange"], "conclusion": "weapon", "group": "low"}
+{"idx": 508, "premise": ["shoes", "robin"], "conclusion": "weapon", "group": "low"}

@@ -1,0 +1,2356 @@
+{"idx": 1, "premise": ["falcon"], "conclusion": "bird", "group": "low"}
+{"idx": 2, "premise": ["blackbird"], "conclusion": "bird", "group": "low"}
+{"idx": 3, "premise": ["parakeet"], "conclusion": "bird", "group": "low"}
+{"idx": 4, "premise": ["turkey"], "conclusion": "bird", "group": "low"}
+{"idx": 5, "premise": ["parrot"], "conclusion": "bird", "group": "low"}
+{"idx": 6, "premise": ["swan"], "conclusion": "bird", "group": "low"}
+{"idx": 7, "premise": ["robin"], "conclusion": "bird", "group": "low"}
+{"idx": 8, "premise": ["dove"], "conclusion": "bird", "group": "low"}
+{"idx": 9, "premise": ["stork"], "conclusion": "bird", "group": "low"}
+{"idx": 10, "premise": ["dove"], "conclusion": "bird", "group": "low"}
+{"idx": 11, "premise": ["robin"], "conclusion": "bird", "group": "low"}
+{"idx": 12, "premise": ["crow"], "conclusion": "bird", "group": "low"}
+{"idx": 13, "premise": ["stork"], "conclusion": "bird", "group": "low"}
+{"idx": 14, "premise": ["pelican"], "conclusion": "bird", "group": "low"}
+{"idx": 15, "premise": ["eagle"], "conclusion": "bird", "group": "low"}
+{"idx": 16, "premise": ["vulture"], "conclusion": "bird", "group": "low"}
+{"idx": 17, "premise": ["dove"], "conclusion": "bird", "group": "low"}
+{"idx": 18, "premise": ["pheasant"], "conclusion": "bird", "group": "low"}
+{"idx": 19, "premise": ["sparrow"], "conclusion": "bird", "group": "low"}
+{"idx": 20, "premise": ["crow"], "conclusion": "bird", "group": "low"}
+{"idx": 21, "premise": ["canary"], "conclusion": "bird", "group": "low"}
+{"idx": 22, "premise": ["falcon"], "conclusion": "bird", "group": "low"}
+{"idx": 23, "premise": ["woodpecker"], "conclusion": "bird", "group": "low"}
+{"idx": 24, "premise": ["seagull"], "conclusion": "bird", "group": "low"}
+{"idx": 25, "premise": ["turkey"], "conclusion": "bird", "group": "low"}
+{"idx": 26, "premise": ["dove"], "conclusion": "bird", "group": "low"}
+{"idx": 27, "premise": ["swallow"], "conclusion": "bird", "group": "low"}
+{"idx": 28, "premise": ["canary"], "conclusion": "bird", "group": "low"}
+{"idx": 29, "premise": ["parrot"], "conclusion": "bird", "group": "low"}
+{"idx": 30, "premise": ["chicken"], "conclusion": "bird", "group": "low"}
+{"idx": 31, "premise": ["pheasant"], "conclusion": "bird", "group": "low"}
+{"idx": 32, "premise": ["blackbird"], "conclusion": "bird", "group": "low"}
+{"idx": 33, "premise": ["turkey"], "conclusion": "bird", "group": "low"}
+{"idx": 34, "premise": ["crow"], "conclusion": "bird", "group": "low"}
+{"idx": 35, "premise": ["swallow"], "conclusion": "bird", "group": "low"}
+{"idx": 36, "premise": ["crow"], "conclusion": "bird", "group": "low"}
+{"idx": 37, "premise": ["sparrow"], "conclusion": "bird", "group": "low"}
+{"idx": 38, "premise": ["peacock"], "conclusion": "bird", "group": "low"}
+{"idx": 39, "premise": ["robin"], "conclusion": "bird", "group": "low"}
+{"idx": 40, "premise": ["dove"], "conclusion": "bird", "group": "low"}
+{"idx": 41, "premise": ["falcon"], "conclusion": "bird", "group": "low"}
+{"idx": 42, "premise": ["peacock"], "conclusion": "bird", "group": "low"}
+{"idx": 43, "premise": ["woodpecker"], "conclusion": "bird", "group": "low"}
+{"idx": 44, "premise": ["ostrich"], "conclusion": "bird", "group": "low"}
+{"idx": 45, "premise": ["sparrow"], "conclusion": "bird", "group": "low"}
+{"idx": 46, "premise": ["duck"], "conclusion": "bird", "group": "low"}
+{"idx": 47, "premise": ["seagull"], "conclusion": "bird", "group": "low"}
+{"idx": 48, "premise": ["owl"], "conclusion": "bird", "group": "low"}
+{"idx": 49, "premise": ["dove"], "conclusion": "bird", "group": "low"}
+{"idx": 50, "premise": ["peacock"], "conclusion": "bird", "group": "low"}
+{"idx": 51, "premise": ["robin"], "conclusion": "bird", "group": "low"}
+{"idx": 52, "premise": ["swan"], "conclusion": "bird", "group": "low"}
+{"idx": 53, "premise": ["parakeet"], "conclusion": "bird", "group": "low"}
+{"idx": 54, "premise": ["canary"], "conclusion": "bird", "group": "low"}
+{"idx": 55, "premise": ["parakeet"], "conclusion": "bird", "group": "low"}
+{"idx": 56, "premise": ["swan"], "conclusion": "bird", "group": "low"}
+{"idx": 57, "premise": ["blackbird"], "conclusion": "bird", "group": "low"}
+{"idx": 58, "premise": ["swallow"], "conclusion": "bird", "group": "low"}
+{"idx": 59, "premise": ["pigeon"], "conclusion": "bird", "group": "low"}
+{"idx": 60, "premise": ["pigeon"], "conclusion": "bird", "group": "low"}
+{"idx": 61, "premise": ["crow"], "conclusion": "bird", "group": "low"}
+{"idx": 62, "premise": ["eagle"], "conclusion": "bird", "group": "low"}
+{"idx": 63, "premise": ["vulture"], "conclusion": "bird", "group": "low"}
+{"idx": 64, "premise": ["canary"], "conclusion": "bird", "group": "low"}
+{"idx": 65, "premise": ["dove"], "conclusion": "bird", "group": "low"}
+{"idx": 66, "premise": ["crow"], "conclusion": "bird", "group": "low"}
+{"idx": 67, "premise": ["pigeon"], "conclusion": "bird", "group": "low"}
+{"idx": 68, "premise": ["parakeet"], "conclusion": "bird", "group": "low"}
+{"idx": 69, "premise": ["stork"], "conclusion": "bird", "group": "low"}
+{"idx": 70, "premise": ["parakeet"], "conclusion": "bird", "group": "low"}
+{"idx": 71, "premise": ["dove"], "conclusion": "bird", "group": "low"}
+{"idx": 72, "premise": ["pheasant"], "conclusion": "bird", "group": "low"}
+{"idx": 73, "premise": ["sparrow"], "conclusion": "bird", "group": "low"}
+{"idx": 74, "premise": ["blackbird"], "conclusion": "bird", "group": "low"}
+{"idx": 75, "premise": ["parrot"], "conclusion": "bird", "group": "low"}
+{"idx": 76, "premise": ["swallow"], "conclusion": "bird", "group": "low"}
+{"idx": 77, "premise": ["pheasant"], "conclusion": "bird", "group": "low"}
+{"idx": 78, "premise": ["dove"], "conclusion": "bird", "group": "low"}
+{"idx": 79, "premise": ["canary"], "conclusion": "bird", "group": "low"}
+{"idx": 80, "premise": ["falcon"], "conclusion": "bird", "group": "low"}
+{"idx": 81, "premise": ["seagull"], "conclusion": "bird", "group": "low"}
+{"idx": 82, "premise": ["pigeon"], "conclusion": "bird", "group": "low"}
+{"idx": 83, "premise": ["vulture"], "conclusion": "bird", "group": "low"}
+{"idx": 84, "premise": ["peacock"], "conclusion": "bird", "group": "low"}
+{"idx": 85, "premise": ["blackbird"], "conclusion": "bird", "group": "low"}
+{"idx": 86, "premise": ["dove"], "conclusion": "bird", "group": "low"}
+{"idx": 87, "premise": ["vulture"], "conclusion": "bird", "group": "low"}
+{"idx": 88, "premise": ["eagle"], "conclusion": "bird", "group": "low"}
+{"idx": 89, "premise": ["duck"], "conclusion": "bird", "group": "low"}
+{"idx": 90, "premise": ["dove"], "conclusion": "bird", "group": "low"}
+{"idx": 91, "premise": ["falcon"], "conclusion": "bird", "group": "low"}
+{"idx": 92, "premise": ["seagull"], "conclusion": "bird", "group": "low"}
+{"idx": 93, "premise": ["vulture"], "conclusion": "bird", "group": "low"}
+{"idx": 94, "premise": ["owl"], "conclusion": "bird", "group": "low"}
+{"idx": 95, "premise": ["crow"], "conclusion": "bird", "group": "low"}
+{"idx": 96, "premise": ["pheasant"], "conclusion": "bird", "group": "low"}
+{"idx": 97, "premise": ["parrot"], "conclusion": "bird", "group": "low"}
+{"idx": 98, "premise": ["swallow"], "conclusion": "bird", "group": "low"}
+{"idx": 99, "premise": ["pelican"], "conclusion": "bird", "group": "low"}
+{"idx": 100, "premise": ["ostrich"], "conclusion": "bird", "group": "low"}
+{"idx": 101, "premise": ["crow"], "conclusion": "bird", "group": "low"}
+{"idx": 102, "premise": ["falcon"], "conclusion": "bird", "group": "low"}
+{"idx": 103, "premise": ["pheasant"], "conclusion": "bird", "group": "low"}
+{"idx": 104, "premise": ["owl"], "conclusion": "bird", "group": "low"}
+{"idx": 105, "premise": ["swallow"], "conclusion": "bird", "group": "low"}
+{"idx": 106, "premise": ["pheasant"], "conclusion": "bird", "group": "low"}
+{"idx": 107, "premise": ["stork"], "conclusion": "bird", "group": "low"}
+{"idx": 108, "premise": ["seagull"], "conclusion": "bird", "group": "low"}
+{"idx": 109, "premise": ["parrot"], "conclusion": "bird", "group": "low"}
+{"idx": 110, "premise": ["vulture"], "conclusion": "bird", "group": "low"}
+{"idx": 111, "premise": ["ostrich"], "conclusion": "bird", "group": "low"}
+{"idx": 112, "premise": ["crow"], "conclusion": "bird", "group": "low"}
+{"idx": 113, "premise": ["pigeon"], "conclusion": "bird", "group": "low"}
+{"idx": 114, "premise": ["pheasant"], "conclusion": "bird", "group": "low"}
+{"idx": 115, "premise": ["robin"], "conclusion": "bird", "group": "low"}
+{"idx": 116, "premise": ["eagle"], "conclusion": "bird", "group": "low"}
+{"idx": 117, "premise": ["seagull"], "conclusion": "bird", "group": "low"}
+{"idx": 118, "premise": ["canary"], "conclusion": "bird", "group": "low"}
+{"idx": 119, "premise": ["pigeon"], "conclusion": "bird", "group": "low"}
+{"idx": 120, "premise": ["eagle"], "conclusion": "bird", "group": "low"}
+{"idx": 121, "premise": ["eagle"], "conclusion": "bird", "group": "low"}
+{"idx": 122, "premise": ["pelican"], "conclusion": "bird", "group": "low"}
+{"idx": 123, "premise": ["swan"], "conclusion": "bird", "group": "low"}
+{"idx": 124, "premise": ["blackbird"], "conclusion": "bird", "group": "low"}
+{"idx": 125, "premise": ["pheasant"], "conclusion": "bird", "group": "low"}
+{"idx": 126, "premise": ["peacock"], "conclusion": "bird", "group": "low"}
+{"idx": 127, "premise": ["sparrow"], "conclusion": "bird", "group": "low"}
+{"idx": 128, "premise": ["woodpecker"], "conclusion": "bird", "group": "low"}
+{"idx": 129, "premise": ["canary"], "conclusion": "bird", "group": "low"}
+{"idx": 130, "premise": ["eagle"], "conclusion": "bird", "group": "low"}
+{"idx": 131, "premise": ["peacock"], "conclusion": "bird", "group": "low"}
+{"idx": 132, "premise": ["ostrich"], "conclusion": "bird", "group": "low"}
+{"idx": 133, "premise": ["swallow"], "conclusion": "bird", "group": "low"}
+{"idx": 134, "premise": ["parrot"], "conclusion": "bird", "group": "low"}
+{"idx": 135, "premise": ["swan"], "conclusion": "bird", "group": "low"}
+{"idx": 136, "premise": ["blackbird"], "conclusion": "bird", "group": "low"}
+{"idx": 137, "premise": ["swallow"], "conclusion": "bird", "group": "low"}
+{"idx": 138, "premise": ["falcon"], "conclusion": "bird", "group": "low"}
+{"idx": 139, "premise": ["woodpecker"], "conclusion": "bird", "group": "low"}
+{"idx": 140, "premise": ["stork"], "conclusion": "bird", "group": "low"}
+{"idx": 141, "premise": ["duck"], "conclusion": "bird", "group": "low"}
+{"idx": 142, "premise": ["swallow"], "conclusion": "bird", "group": "low"}
+{"idx": 143, "premise": ["woodpecker"], "conclusion": "bird", "group": "low"}
+{"idx": 144, "premise": ["pelican"], "conclusion": "bird", "group": "low"}
+{"idx": 145, "premise": ["turkey"], "conclusion": "bird", "group": "low"}
+{"idx": 146, "premise": ["woodpecker"], "conclusion": "bird", "group": "low"}
+{"idx": 147, "premise": ["chicken"], "conclusion": "bird", "group": "low"}
+{"idx": 148, "premise": ["stork"], "conclusion": "bird", "group": "low"}
+{"idx": 149, "premise": ["pigeon"], "conclusion": "bird", "group": "low"}
+{"idx": 150, "premise": ["vulture"], "conclusion": "bird", "group": "low"}
+{"idx": 151, "premise": ["swallow"], "conclusion": "bird", "group": "low"}
+{"idx": 152, "premise": ["owl"], "conclusion": "bird", "group": "low"}
+{"idx": 153, "premise": ["woodpecker"], "conclusion": "bird", "group": "low"}
+{"idx": 154, "premise": ["pelican"], "conclusion": "bird", "group": "low"}
+{"idx": 155, "premise": ["parakeet"], "conclusion": "bird", "group": "low"}
+{"idx": 156, "premise": ["stork"], "conclusion": "bird", "group": "low"}
+{"idx": 157, "premise": ["chicken"], "conclusion": "bird", "group": "low"}
+{"idx": 158, "premise": ["pelican"], "conclusion": "bird", "group": "low"}
+{"idx": 159, "premise": ["sparrow"], "conclusion": "bird", "group": "low"}
+{"idx": 160, "premise": ["pheasant"], "conclusion": "bird", "group": "low"}
+{"idx": 161, "premise": ["woodpecker"], "conclusion": "bird", "group": "low"}
+{"idx": 162, "premise": ["pigeon"], "conclusion": "bird", "group": "low"}
+{"idx": 163, "premise": ["falcon"], "conclusion": "bird", "group": "low"}
+{"idx": 164, "premise": ["duck"], "conclusion": "bird", "group": "low"}
+{"idx": 165, "premise": ["woodpecker"], "conclusion": "bird", "group": "low"}
+{"idx": 166, "premise": ["sparrow"], "conclusion": "bird", "group": "low"}
+{"idx": 167, "premise": ["falcon"], "conclusion": "bird", "group": "low"}
+{"idx": 168, "premise": ["chicken"], "conclusion": "bird", "group": "low"}
+{"idx": 169, "premise": ["swallow"], "conclusion": "bird", "group": "low"}
+{"idx": 170, "premise": ["canary"], "conclusion": "bird", "group": "low"}
+{"idx": 171, "premise": ["chicken"], "conclusion": "bird", "group": "low"}
+{"idx": 172, "premise": ["blackbird"], "conclusion": "bird", "group": "low"}
+{"idx": 173, "premise": ["chicken"], "conclusion": "bird", "group": "low"}
+{"idx": 174, "premise": ["turkey"], "conclusion": "bird", "group": "low"}
+{"idx": 175, "premise": ["eagle"], "conclusion": "bird", "group": "low"}
+{"idx": 176, "premise": ["stork"], "conclusion": "bird", "group": "low"}
+{"idx": 177, "premise": ["pelican"], "conclusion": "bird", "group": "low"}
+{"idx": 178, "premise": ["woodpecker"], "conclusion": "bird", "group": "low"}
+{"idx": 179, "premise": ["vulture"], "conclusion": "bird", "group": "low"}
+{"idx": 180, "premise": ["eagle"], "conclusion": "bird", "group": "low"}
+{"idx": 181, "premise": ["seagull"], "conclusion": "bird", "group": "low"}
+{"idx": 182, "premise": ["crow"], "conclusion": "bird", "group": "low"}
+{"idx": 183, "premise": ["parakeet"], "conclusion": "bird", "group": "low"}
+{"idx": 184, "premise": ["peacock"], "conclusion": "bird", "group": "low"}
+{"idx": 185, "premise": ["duck"], "conclusion": "bird", "group": "low"}
+{"idx": 186, "premise": ["swan"], "conclusion": "bird", "group": "low"}
+{"idx": 187, "premise": ["duck"], "conclusion": "bird", "group": "low"}
+{"idx": 188, "premise": ["robin"], "conclusion": "bird", "group": "low"}
+{"idx": 189, "premise": ["owl"], "conclusion": "bird", "group": "low"}
+{"idx": 190, "premise": ["swan"], "conclusion": "bird", "group": "low"}
+{"idx": 191, "premise": ["eagle"], "conclusion": "bird", "group": "low"}
+{"idx": 192, "premise": ["seagull"], "conclusion": "bird", "group": "low"}
+{"idx": 193, "premise": ["blackbird"], "conclusion": "bird", "group": "low"}
+{"idx": 194, "premise": ["peacock"], "conclusion": "bird", "group": "low"}
+{"idx": 195, "premise": ["sparrow"], "conclusion": "bird", "group": "low"}
+{"idx": 196, "premise": ["penguin"], "conclusion": "bird", "group": "low"}
+{"idx": 197, "premise": ["peacock"], "conclusion": "bird", "group": "low"}
+{"idx": 198, "premise": ["peacock"], "conclusion": "bird", "group": "low"}
+{"idx": 199, "premise": ["swan"], "conclusion": "bird", "group": "low"}
+{"idx": 200, "premise": ["owl"], "conclusion": "bird", "group": "low"}
+{"idx": 201, "premise": ["pigeon"], "conclusion": "bird", "group": "low"}
+{"idx": 202, "premise": ["parrot"], "conclusion": "bird", "group": "low"}
+{"idx": 203, "premise": ["woodpecker"], "conclusion": "bird", "group": "low"}
+{"idx": 204, "premise": ["vulture"], "conclusion": "bird", "group": "low"}
+{"idx": 205, "premise": ["vulture"], "conclusion": "bird", "group": "low"}
+{"idx": 206, "premise": ["stork"], "conclusion": "bird", "group": "low"}
+{"idx": 207, "premise": ["stork"], "conclusion": "bird", "group": "low"}
+{"idx": 208, "premise": ["pelican"], "conclusion": "bird", "group": "low"}
+{"idx": 209, "premise": ["swan"], "conclusion": "bird", "group": "low"}
+{"idx": 210, "premise": ["duck"], "conclusion": "bird", "group": "low"}
+{"idx": 211, "premise": ["parrot"], "conclusion": "bird", "group": "low"}
+{"idx": 212, "premise": ["parrot"], "conclusion": "bird", "group": "low"}
+{"idx": 213, "premise": ["sparrow"], "conclusion": "bird", "group": "low"}
+{"idx": 214, "premise": ["eagle"], "conclusion": "bird", "group": "low"}
+{"idx": 215, "premise": ["turkey"], "conclusion": "bird", "group": "low"}
+{"idx": 216, "premise": ["duck"], "conclusion": "bird", "group": "low"}
+{"idx": 217, "premise": ["blackbird"], "conclusion": "bird", "group": "low"}
+{"idx": 218, "premise": ["chicken"], "conclusion": "bird", "group": "low"}
+{"idx": 219, "premise": ["woodpecker"], "conclusion": "bird", "group": "low"}
+{"idx": 220, "premise": ["pheasant"], "conclusion": "bird", "group": "low"}
+{"idx": 221, "premise": ["chicken"], "conclusion": "bird", "group": "low"}
+{"idx": 222, "premise": ["sparrow"], "conclusion": "bird", "group": "low"}
+{"idx": 223, "premise": ["penguin"], "conclusion": "bird", "group": "low"}
+{"idx": 224, "premise": ["chicken"], "conclusion": "bird", "group": "low"}
+{"idx": 225, "premise": ["robin"], "conclusion": "bird", "group": "low"}
+{"idx": 226, "premise": ["robin"], "conclusion": "bird", "group": "low"}
+{"idx": 227, "premise": ["canary"], "conclusion": "bird", "group": "low"}
+{"idx": 228, "premise": ["vulture"], "conclusion": "bird", "group": "low"}
+{"idx": 229, "premise": ["robin"], "conclusion": "bird", "group": "low"}
+{"idx": 230, "premise": ["seagull"], "conclusion": "bird", "group": "low"}
+{"idx": 231, "premise": ["crow"], "conclusion": "bird", "group": "low"}
+{"idx": 232, "premise": ["penguin"], "conclusion": "bird", "group": "low"}
+{"idx": 233, "premise": ["woodpecker"], "conclusion": "bird", "group": "low"}
+{"idx": 234, "premise": ["swallow"], "conclusion": "bird", "group": "low"}
+{"idx": 235, "premise": ["eagle"], "conclusion": "bird", "group": "low"}
+{"idx": 236, "premise": ["owl"], "conclusion": "bird", "group": "low"}
+{"idx": 237, "premise": ["seagull"], "conclusion": "bird", "group": "low"}
+{"idx": 238, "premise": ["robin"], "conclusion": "bird", "group": "low"}
+{"idx": 239, "premise": ["pelican"], "conclusion": "bird", "group": "low"}
+{"idx": 240, "premise": ["duck"], "conclusion": "bird", "group": "low"}
+{"idx": 241, "premise": ["parrot"], "conclusion": "bird", "group": "low"}
+{"idx": 242, "premise": ["penguin"], "conclusion": "bird", "group": "low"}
+{"idx": 243, "premise": ["turkey"], "conclusion": "bird", "group": "low"}
+{"idx": 244, "premise": ["parakeet"], "conclusion": "bird", "group": "low"}
+{"idx": 245, "premise": ["chicken"], "conclusion": "bird", "group": "low"}
+{"idx": 246, "premise": ["turkey"], "conclusion": "bird", "group": "low"}
+{"idx": 247, "premise": ["vulture"], "conclusion": "bird", "group": "low"}
+{"idx": 248, "premise": ["chicken"], "conclusion": "bird", "group": "low"}
+{"idx": 249, "premise": ["duck"], "conclusion": "bird", "group": "low"}
+{"idx": 250, "premise": ["pelican"], "conclusion": "bird", "group": "low"}
+{"idx": 251, "premise": ["swan"], "conclusion": "bird", "group": "low"}
+{"idx": 252, "premise": ["parakeet"], "conclusion": "bird", "group": "low"}
+{"idx": 253, "premise": ["pigeon"], "conclusion": "bird", "group": "low"}
+{"idx": 254, "premise": ["canary"], "conclusion": "bird", "group": "low"}
+{"idx": 255, "premise": ["pelican"], "conclusion": "bird", "group": "low"}
+{"idx": 256, "premise": ["seagull"], "conclusion": "bird", "group": "low"}
+{"idx": 257, "premise": ["stork"], "conclusion": "bird", "group": "low"}
+{"idx": 258, "premise": ["swan"], "conclusion": "bird", "group": "low"}
+{"idx": 259, "premise": ["penguin"], "conclusion": "bird", "group": "low"}
+{"idx": 260, "premise": ["parakeet"], "conclusion": "bird", "group": "low"}
+{"idx": 261, "premise": ["canary"], "conclusion": "bird", "group": "low"}
+{"idx": 262, "premise": ["seagull"], "conclusion": "bird", "group": "low"}
+{"idx": 263, "premise": ["pelican"], "conclusion": "bird", "group": "low"}
+{"idx": 264, "premise": ["crow"], "conclusion": "bird", "group": "low"}
+{"idx": 265, "premise": ["peacock"], "conclusion": "bird", "group": "low"}
+{"idx": 266, "premise": ["owl"], "conclusion": "bird", "group": "low"}
+{"idx": 267, "premise": ["eagle"], "conclusion": "bird", "group": "low"}
+{"idx": 268, "premise": ["dove"], "conclusion": "bird", "group": "low"}
+{"idx": 269, "premise": ["peacock"], "conclusion": "bird", "group": "low"}
+{"idx": 270, "premise": ["sparrow"], "conclusion": "bird", "group": "low"}
+{"idx": 271, "premise": ["penguin"], "conclusion": "bird", "group": "low"}
+{"idx": 272, "premise": ["penguin"], "conclusion": "bird", "group": "low"}
+{"idx": 273, "premise": ["owl"], "conclusion": "bird", "group": "low"}
+{"idx": 274, "premise": ["penguin"], "conclusion": "bird", "group": "low"}
+{"idx": 275, "premise": ["falcon"], "conclusion": "bird", "group": "low"}
+{"idx": 276, "premise": ["turkey"], "conclusion": "bird", "group": "low"}
+{"idx": 277, "premise": ["peacock"], "conclusion": "bird", "group": "low"}
+{"idx": 278, "premise": ["swan"], "conclusion": "bird", "group": "low"}
+{"idx": 279, "premise": ["swan"], "conclusion": "bird", "group": "low"}
+{"idx": 280, "premise": ["ostrich"], "conclusion": "bird", "group": "low"}
+{"idx": 281, "premise": ["falcon"], "conclusion": "bird", "group": "low"}
+{"idx": 282, "premise": ["stork"], "conclusion": "bird", "group": "low"}
+{"idx": 283, "premise": ["owl"], "conclusion": "bird", "group": "low"}
+{"idx": 284, "premise": ["pigeon"], "conclusion": "bird", "group": "low"}
+{"idx": 285, "premise": ["parakeet"], "conclusion": "bird", "group": "low"}
+{"idx": 286, "premise": ["ostrich"], "conclusion": "bird", "group": "low"}
+{"idx": 287, "premise": ["owl"], "conclusion": "bird", "group": "low"}
+{"idx": 288, "premise": ["duck"], "conclusion": "bird", "group": "low"}
+{"idx": 289, "premise": ["dove"], "conclusion": "bird", "group": "low"}
+{"idx": 290, "premise": ["turkey"], "conclusion": "bird", "group": "low"}
+{"idx": 291, "premise": ["parakeet"], "conclusion": "bird", "group": "low"}
+{"idx": 292, "premise": ["canary"], "conclusion": "bird", "group": "low"}
+{"idx": 293, "premise": ["duck"], "conclusion": "bird", "group": "low"}
+{"idx": 294, "premise": ["blackbird"], "conclusion": "bird", "group": "low"}
+{"idx": 295, "premise": ["turkey"], "conclusion": "bird", "group": "low"}
+{"idx": 296, "premise": ["ostrich"], "conclusion": "bird", "group": "low"}
+{"idx": 297, "premise": ["pigeon"], "conclusion": "bird", "group": "low"}
+{"idx": 298, "premise": ["vulture"], "conclusion": "bird", "group": "low"}
+{"idx": 299, "premise": ["turkey"], "conclusion": "bird", "group": "low"}
+{"idx": 300, "premise": ["ostrich"], "conclusion": "bird", "group": "low"}
+{"idx": 301, "premise": ["canary"], "conclusion": "bird", "group": "low"}
+{"idx": 302, "premise": ["turkey"], "conclusion": "bird", "group": "low"}
+{"idx": 303, "premise": ["parrot"], "conclusion": "bird", "group": "low"}
+{"idx": 304, "premise": ["peacock"], "conclusion": "bird", "group": "low"}
+{"idx": 305, "premise": ["owl"], "conclusion": "bird", "group": "low"}
+{"idx": 306, "premise": ["penguin"], "conclusion": "bird", "group": "low"}
+{"idx": 307, "premise": ["ostrich"], "conclusion": "bird", "group": "low"}
+{"idx": 308, "premise": ["parakeet"], "conclusion": "bird", "group": "low"}
+{"idx": 309, "premise": ["pigeon"], "conclusion": "bird", "group": "low"}
+{"idx": 310, "premise": ["penguin"], "conclusion": "bird", "group": "low"}
+{"idx": 311, "premise": ["robin"], "conclusion": "bird", "group": "low"}
+{"idx": 312, "premise": ["ostrich"], "conclusion": "bird", "group": "low"}
+{"idx": 313, "premise": ["penguin"], "conclusion": "bird", "group": "low"}
+{"idx": 314, "premise": ["parrot"], "conclusion": "bird", "group": "low"}
+{"idx": 315, "premise": ["penguin"], "conclusion": "bird", "group": "low"}
+{"idx": 316, "premise": ["falcon"], "conclusion": "bird", "group": "low"}
+{"idx": 317, "premise": ["ostrich"], "conclusion": "bird", "group": "low"}
+{"idx": 318, "premise": ["penguin"], "conclusion": "bird", "group": "low"}
+{"idx": 319, "premise": ["owl"], "conclusion": "bird", "group": "low"}
+{"idx": 320, "premise": ["pheasant"], "conclusion": "bird", "group": "low"}
+{"idx": 321, "premise": ["ostrich"], "conclusion": "bird", "group": "low"}
+{"idx": 322, "premise": ["robin"], "conclusion": "bird", "group": "low"}
+{"idx": 323, "premise": ["pelican"], "conclusion": "bird", "group": "low"}
+{"idx": 324, "premise": ["sparrow"], "conclusion": "bird", "group": "low"}
+{"idx": 325, "premise": ["crow"], "conclusion": "bird", "group": "low"}
+{"idx": 326, "premise": ["gloves"], "conclusion": "clothing", "group": "low"}
+{"idx": 327, "premise": ["coat"], "conclusion": "clothing", "group": "low"}
+{"idx": 328, "premise": ["sweater"], "conclusion": "clothing", "group": "low"}
+{"idx": 329, "premise": ["suit"], "conclusion": "clothing", "group": "low"}
+{"idx": 330, "premise": ["sweater"], "conclusion": "clothing", "group": "low"}
+{"idx": 331, "premise": ["panties"], "conclusion": "clothing", "group": "low"}
+{"idx": 332, "premise": ["dress"], "conclusion": "clothing", "group": "low"}
+{"idx": 333, "premise": ["jacket"], "conclusion": "clothing", "group": "low"}
+{"idx": 334, "premise": ["jacket"], "conclusion": "clothing", "group": "low"}
+{"idx": 335, "premise": ["sweatshirt"], "conclusion": "clothing", "group": "low"}
+{"idx": 336, "premise": ["tie"], "conclusion": "clothing", "group": "low"}
+{"idx": 337, "premise": ["dress"], "conclusion": "clothing", "group": "low"}
+{"idx": 338, "premise": ["jacket"], "conclusion": "clothing", "group": "low"}
+{"idx": 339, "premise": ["suit"], "conclusion": "clothing", "group": "low"}
+{"idx": 340, "premise": ["sweater"], "conclusion": "clothing", "group": "low"}
+{"idx": 341, "premise": ["dress"], "conclusion": "clothing", "group": "low"}
+{"idx": 342, "premise": ["jacket"], "conclusion": "clothing", "group": "low"}
+{"idx": 343, "premise": ["suit"], "conclusion": "clothing", "group": "low"}
+{"idx": 344, "premise": ["tuxedo"], "conclusion": "clothing", "group": "low"}
+{"idx": 345, "premise": ["boots"], "conclusion": "clothing", "group": "low"}
+{"idx": 346, "premise": ["blouse"], "conclusion": "clothing", "group": "low"}
+{"idx": 347, "premise": ["gloves"], "conclusion": "clothing", "group": "low"}
+{"idx": 348, "premise": ["tuxedo"], "conclusion": "clothing", "group": "low"}
+{"idx": 349, "premise": ["hat"], "conclusion": "clothing", "group": "low"}
+{"idx": 350, "premise": ["blouse"], "conclusion": "clothing", "group": "low"}
+{"idx": 351, "premise": ["scarf"], "conclusion": "clothing", "group": "low"}
+{"idx": 352, "premise": ["skirt"], "conclusion": "clothing", "group": "low"}
+{"idx": 353, "premise": ["pants"], "conclusion": "clothing", "group": "low"}
+{"idx": 354, "premise": ["hat"], "conclusion": "clothing", "group": "low"}
+{"idx": 355, "premise": ["skirt"], "conclusion": "clothing", "group": "low"}
+{"idx": 356, "premise": ["belt"], "conclusion": "clothing", "group": "low"}
+{"idx": 357, "premise": ["panties"], "conclusion": "clothing", "group": "low"}
+{"idx": 358, "premise": ["gloves"], "conclusion": "clothing", "group": "low"}
+{"idx": 359, "premise": ["blouse"], "conclusion": "clothing", "group": "low"}
+{"idx": 360, "premise": ["mittens"], "conclusion": "clothing", "group": "low"}
+{"idx": 361, "premise": ["coat"], "conclusion": "clothing", "group": "low"}
+{"idx": 362, "premise": ["coat"], "conclusion": "clothing", "group": "low"}
+{"idx": 363, "premise": ["sweater"], "conclusion": "clothing", "group": "low"}
+{"idx": 364, "premise": ["panties"], "conclusion": "clothing", "group": "low"}
+{"idx": 365, "premise": ["sweatshirt"], "conclusion": "clothing", "group": "low"}
+{"idx": 366, "premise": ["socks"], "conclusion": "clothing", "group": "low"}
+{"idx": 367, "premise": ["suit"], "conclusion": "clothing", "group": "low"}
+{"idx": 368, "premise": ["scarf"], "conclusion": "clothing", "group": "low"}
+{"idx": 369, "premise": ["bra"], "conclusion": "clothing", "group": "low"}
+{"idx": 370, "premise": ["pants"], "conclusion": "clothing", "group": "low"}
+{"idx": 371, "premise": ["belt"], "conclusion": "clothing", "group": "low"}
+{"idx": 372, "premise": ["belt"], "conclusion": "clothing", "group": "low"}
+{"idx": 373, "premise": ["scarf"], "conclusion": "clothing", "group": "low"}
+{"idx": 374, "premise": ["pants"], "conclusion": "clothing", "group": "low"}
+{"idx": 375, "premise": ["sweater"], "conclusion": "clothing", "group": "low"}
+{"idx": 376, "premise": ["mittens"], "conclusion": "clothing", "group": "low"}
+{"idx": 377, "premise": ["jacket"], "conclusion": "clothing", "group": "low"}
+{"idx": 378, "premise": ["coat"], "conclusion": "clothing", "group": "low"}
+{"idx": 379, "premise": ["panties"], "conclusion": "clothing", "group": "low"}
+{"idx": 380, "premise": ["pants"], "conclusion": "clothing", "group": "low"}
+{"idx": 381, "premise": ["pajamas"], "conclusion": "clothing", "group": "low"}
+{"idx": 382, "premise": ["panties"], "conclusion": "clothing", "group": "low"}
+{"idx": 383, "premise": ["blouse"], "conclusion": "clothing", "group": "low"}
+{"idx": 384, "premise": ["gloves"], "conclusion": "clothing", "group": "low"}
+{"idx": 385, "premise": ["dress"], "conclusion": "clothing", "group": "low"}
+{"idx": 386, "premise": ["belt"], "conclusion": "clothing", "group": "low"}
+{"idx": 387, "premise": ["mittens"], "conclusion": "clothing", "group": "low"}
+{"idx": 388, "premise": ["hat"], "conclusion": "clothing", "group": "low"}
+{"idx": 389, "premise": ["scarf"], "conclusion": "clothing", "group": "low"}
+{"idx": 390, "premise": ["gloves"], "conclusion": "clothing", "group": "low"}
+{"idx": 391, "premise": ["blouse"], "conclusion": "clothing", "group": "low"}
+{"idx": 392, "premise": ["boots"], "conclusion": "clothing", "group": "low"}
+{"idx": 393, "premise": ["tuxedo"], "conclusion": "clothing", "group": "low"}
+{"idx": 394, "premise": ["hat"], "conclusion": "clothing", "group": "low"}
+{"idx": 395, "premise": ["skirt"], "conclusion": "clothing", "group": "low"}
+{"idx": 396, "premise": ["pajamas"], "conclusion": "clothing", "group": "low"}
+{"idx": 397, "premise": ["tie"], "conclusion": "clothing", "group": "low"}
+{"idx": 398, "premise": ["sweatshirt"], "conclusion": "clothing", "group": "low"}
+{"idx": 399, "premise": ["sweatshirt"], "conclusion": "clothing", "group": "low"}
+{"idx": 400, "premise": ["tie"], "conclusion": "clothing", "group": "low"}
+{"idx": 401, "premise": ["pants"], "conclusion": "clothing", "group": "low"}
+{"idx": 402, "premise": ["boots"], "conclusion": "clothing", "group": "low"}
+{"idx": 403, "premise": ["hat"], "conclusion": "clothing", "group": "low"}
+{"idx": 404, "premise": ["pants"], "conclusion": "clothing", "group": "low"}
+{"idx": 405, "premise": ["bra"], "conclusion": "clothing", "group": "low"}
+{"idx": 406, "premise": ["socks"], "conclusion": "clothing", "group": "low"}
+{"idx": 407, "premise": ["mittens"], "conclusion": "clothing", "group": "low"}
+{"idx": 408, "premise": ["tie"], "conclusion": "clothing", "group": "low"}
+{"idx": 409, "premise": ["boots"], "conclusion": "clothing", "group": "low"}
+{"idx": 410, "premise": ["pajamas"], "conclusion": "clothing", "group": "low"}
+{"idx": 411, "premise": ["coat"], "conclusion": "clothing", "group": "low"}
+{"idx": 412, "premise": ["tie"], "conclusion": "clothing", "group": "low"}
+{"idx": 413, "premise": ["pants"], "conclusion": "clothing", "group": "low"}
+{"idx": 414, "premise": ["sweater"], "conclusion": "clothing", "group": "low"}
+{"idx": 415, "premise": ["jacket"], "conclusion": "clothing", "group": "low"}
+{"idx": 416, "premise": ["socks"], "conclusion": "clothing", "group": "low"}
+{"idx": 417, "premise": ["jacket"], "conclusion": "clothing", "group": "low"}
+{"idx": 418, "premise": ["sweatshirt"], "conclusion": "clothing", "group": "low"}
+{"idx": 419, "premise": ["coat"], "conclusion": "clothing", "group": "low"}
+{"idx": 420, "premise": ["sweater"], "conclusion": "clothing", "group": "low"}
+{"idx": 421, "premise": ["dress"], "conclusion": "clothing", "group": "low"}
+{"idx": 422, "premise": ["pajamas"], "conclusion": "clothing", "group": "low"}
+{"idx": 423, "premise": ["mittens"], "conclusion": "clothing", "group": "low"}
+{"idx": 424, "premise": ["panties"], "conclusion": "clothing", "group": "low"}
+{"idx": 425, "premise": ["bra"], "conclusion": "clothing", "group": "low"}
+{"idx": 426, "premise": ["belt"], "conclusion": "clothing", "group": "low"}
+{"idx": 427, "premise": ["pants"], "conclusion": "clothing", "group": "low"}
+{"idx": 428, "premise": ["coat"], "conclusion": "clothing", "group": "low"}
+{"idx": 429, "premise": ["dress"], "conclusion": "clothing", "group": "low"}
+{"idx": 430, "premise": ["socks"], "conclusion": "clothing", "group": "low"}
+{"idx": 431, "premise": ["sweatshirt"], "conclusion": "clothing", "group": "low"}
+{"idx": 432, "premise": ["tuxedo"], "conclusion": "clothing", "group": "low"}
+{"idx": 433, "premise": ["skirt"], "conclusion": "clothing", "group": "low"}
+{"idx": 434, "premise": ["jacket"], "conclusion": "clothing", "group": "low"}
+{"idx": 435, "premise": ["bra"], "conclusion": "clothing", "group": "low"}
+{"idx": 436, "premise": ["dress"], "conclusion": "clothing", "group": "low"}
+{"idx": 437, "premise": ["belt"], "conclusion": "clothing", "group": "low"}
+{"idx": 438, "premise": ["scarf"], "conclusion": "clothing", "group": "low"}
+{"idx": 439, "premise": ["sweatshirt"], "conclusion": "clothing", "group": "low"}
+{"idx": 440, "premise": ["tie"], "conclusion": "clothing", "group": "low"}
+{"idx": 441, "premise": ["bra"], "conclusion": "clothing", "group": "low"}
+{"idx": 442, "premise": ["gloves"], "conclusion": "clothing", "group": "low"}
+{"idx": 443, "premise": ["dress"], "conclusion": "clothing", "group": "low"}
+{"idx": 444, "premise": ["socks"], "conclusion": "clothing", "group": "low"}
+{"idx": 445, "premise": ["suit"], "conclusion": "clothing", "group": "low"}
+{"idx": 446, "premise": ["mittens"], "conclusion": "clothing", "group": "low"}
+{"idx": 447, "premise": ["pajamas"], "conclusion": "clothing", "group": "low"}
+{"idx": 448, "premise": ["mittens"], "conclusion": "clothing", "group": "low"}
+{"idx": 449, "premise": ["tuxedo"], "conclusion": "clothing", "group": "low"}
+{"idx": 450, "premise": ["tuxedo"], "conclusion": "clothing", "group": "low"}
+{"idx": 451, "premise": ["jacket"], "conclusion": "clothing", "group": "low"}
+{"idx": 452, "premise": ["panties"], "conclusion": "clothing", "group": "low"}
+{"idx": 453, "premise": ["socks"], "conclusion": "clothing", "group": "low"}
+{"idx": 454, "premise": ["coat"], "conclusion": "clothing", "group": "low"}
+{"idx": 455, "premise": ["pajamas"], "conclusion": "clothing", "group": "low"}
+{"idx": 456, "premise": ["belt"], "conclusion": "clothing", "group": "low"}
+{"idx": 457, "premise": ["jacket"], "conclusion": "clothing", "group": "low"}
+{"idx": 458, "premise": ["scarf"], "conclusion": "clothing", "group": "low"}
+{"idx": 459, "premise": ["tuxedo"], "conclusion": "clothing", "group": "low"}
+{"idx": 460, "premise": ["suit"], "conclusion": "clothing", "group": "low"}
+{"idx": 461, "premise": ["blouse"], "conclusion": "clothing", "group": "low"}
+{"idx": 462, "premise": ["bra"], "conclusion": "clothing", "group": "low"}
+{"idx": 463, "premise": ["sweatshirt"], "conclusion": "clothing", "group": "low"}
+{"idx": 464, "premise": ["tuxedo"], "conclusion": "clothing", "group": "low"}
+{"idx": 465, "premise": ["hat"], "conclusion": "clothing", "group": "low"}
+{"idx": 466, "premise": ["hat"], "conclusion": "clothing", "group": "low"}
+{"idx": 467, "premise": ["boots"], "conclusion": "clothing", "group": "low"}
+{"idx": 468, "premise": ["socks"], "conclusion": "clothing", "group": "low"}
+{"idx": 469, "premise": ["pajamas"], "conclusion": "clothing", "group": "low"}
+{"idx": 470, "premise": ["coat"], "conclusion": "clothing", "group": "low"}
+{"idx": 471, "premise": ["hat"], "conclusion": "clothing", "group": "low"}
+{"idx": 472, "premise": ["scarf"], "conclusion": "clothing", "group": "low"}
+{"idx": 473, "premise": ["dress"], "conclusion": "clothing", "group": "low"}
+{"idx": 474, "premise": ["pants"], "conclusion": "clothing", "group": "low"}
+{"idx": 475, "premise": ["skirt"], "conclusion": "clothing", "group": "low"}
+{"idx": 476, "premise": ["belt"], "conclusion": "clothing", "group": "low"}
+{"idx": 477, "premise": ["bra"], "conclusion": "clothing", "group": "low"}
+{"idx": 478, "premise": ["tie"], "conclusion": "clothing", "group": "low"}
+{"idx": 479, "premise": ["tie"], "conclusion": "clothing", "group": "low"}
+{"idx": 480, "premise": ["sweater"], "conclusion": "clothing", "group": "low"}
+{"idx": 481, "premise": ["coat"], "conclusion": "clothing", "group": "low"}
+{"idx": 482, "premise": ["gloves"], "conclusion": "clothing", "group": "low"}
+{"idx": 483, "premise": ["bra"], "conclusion": "clothing", "group": "low"}
+{"idx": 484, "premise": ["hat"], "conclusion": "clothing", "group": "low"}
+{"idx": 485, "premise": ["skirt"], "conclusion": "clothing", "group": "low"}
+{"idx": 486, "premise": ["scarf"], "conclusion": "clothing", "group": "low"}
+{"idx": 487, "premise": ["pants"], "conclusion": "clothing", "group": "low"}
+{"idx": 488, "premise": ["panties"], "conclusion": "clothing", "group": "low"}
+{"idx": 489, "premise": ["mittens"], "conclusion": "clothing", "group": "low"}
+{"idx": 490, "premise": ["belt"], "conclusion": "clothing", "group": "low"}
+{"idx": 491, "premise": ["boots"], "conclusion": "clothing", "group": "low"}
+{"idx": 492, "premise": ["blouse"], "conclusion": "clothing", "group": "low"}
+{"idx": 493, "premise": ["pajamas"], "conclusion": "clothing", "group": "low"}
+{"idx": 494, "premise": ["tuxedo"], "conclusion": "clothing", "group": "low"}
+{"idx": 495, "premise": ["skirt"], "conclusion": "clothing", "group": "low"}
+{"idx": 496, "premise": ["pajamas"], "conclusion": "clothing", "group": "low"}
+{"idx": 497, "premise": ["sweatshirt"], "conclusion": "clothing", "group": "low"}
+{"idx": 498, "premise": ["jacket"], "conclusion": "clothing", "group": "low"}
+{"idx": 499, "premise": ["panties"], "conclusion": "clothing", "group": "low"}
+{"idx": 500, "premise": ["sweater"], "conclusion": "clothing", "group": "low"}
+{"idx": 501, "premise": ["mittens"], "conclusion": "clothing", "group": "low"}
+{"idx": 502, "premise": ["boots"], "conclusion": "clothing", "group": "low"}
+{"idx": 503, "premise": ["skirt"], "conclusion": "clothing", "group": "low"}
+{"idx": 504, "premise": ["boots"], "conclusion": "clothing", "group": "low"}
+{"idx": 505, "premise": ["blouse"], "conclusion": "clothing", "group": "low"}
+{"idx": 506, "premise": ["skirt"], "conclusion": "clothing", "group": "low"}
+{"idx": 507, "premise": ["dress"], "conclusion": "clothing", "group": "low"}
+{"idx": 508, "premise": ["belt"], "conclusion": "clothing", "group": "low"}
+{"idx": 509, "premise": ["blouse"], "conclusion": "clothing", "group": "low"}
+{"idx": 510, "premise": ["socks"], "conclusion": "clothing", "group": "low"}
+{"idx": 511, "premise": ["pajamas"], "conclusion": "clothing", "group": "low"}
+{"idx": 512, "premise": ["suit"], "conclusion": "clothing", "group": "low"}
+{"idx": 513, "premise": ["gloves"], "conclusion": "clothing", "group": "low"}
+{"idx": 514, "premise": ["bra"], "conclusion": "clothing", "group": "low"}
+{"idx": 515, "premise": ["boots"], "conclusion": "clothing", "group": "low"}
+{"idx": 516, "premise": ["belt"], "conclusion": "clothing", "group": "low"}
+{"idx": 517, "premise": ["bra"], "conclusion": "clothing", "group": "low"}
+{"idx": 518, "premise": ["tie"], "conclusion": "clothing", "group": "low"}
+{"idx": 519, "premise": ["skirt"], "conclusion": "clothing", "group": "low"}
+{"idx": 520, "premise": ["mittens"], "conclusion": "clothing", "group": "low"}
+{"idx": 521, "premise": ["bra"], "conclusion": "clothing", "group": "low"}
+{"idx": 522, "premise": ["blouse"], "conclusion": "clothing", "group": "low"}
+{"idx": 523, "premise": ["gloves"], "conclusion": "clothing", "group": "low"}
+{"idx": 524, "premise": ["boots"], "conclusion": "clothing", "group": "low"}
+{"idx": 525, "premise": ["tuxedo"], "conclusion": "clothing", "group": "low"}
+{"idx": 526, "premise": ["gloves"], "conclusion": "clothing", "group": "low"}
+{"idx": 527, "premise": ["boots"], "conclusion": "clothing", "group": "low"}
+{"idx": 528, "premise": ["coat"], "conclusion": "clothing", "group": "low"}
+{"idx": 529, "premise": ["gloves"], "conclusion": "clothing", "group": "low"}
+{"idx": 530, "premise": ["scarf"], "conclusion": "clothing", "group": "low"}
+{"idx": 531, "premise": ["panties"], "conclusion": "clothing", "group": "low"}
+{"idx": 532, "premise": ["pajamas"], "conclusion": "clothing", "group": "low"}
+{"idx": 533, "premise": ["dress"], "conclusion": "clothing", "group": "low"}
+{"idx": 534, "premise": ["hat"], "conclusion": "clothing", "group": "low"}
+{"idx": 535, "premise": ["mittens"], "conclusion": "clothing", "group": "low"}
+{"idx": 536, "premise": ["melon"], "conclusion": "fruit", "group": "low"}
+{"idx": 537, "premise": ["melon"], "conclusion": "fruit", "group": "low"}
+{"idx": 538, "premise": ["honeydew"], "conclusion": "fruit", "group": "low"}
+{"idx": 539, "premise": ["apricot"], "conclusion": "fruit", "group": "low"}
+{"idx": 540, "premise": ["lemon"], "conclusion": "fruit", "group": "low"}
+{"idx": 541, "premise": ["pear"], "conclusion": "fruit", "group": "low"}
+{"idx": 542, "premise": ["grapefruit"], "conclusion": "fruit", "group": "low"}
+{"idx": 543, "premise": ["cherry"], "conclusion": "fruit", "group": "low"}
+{"idx": 544, "premise": ["blueberry"], "conclusion": "fruit", "group": "low"}
+{"idx": 545, "premise": ["tangerine"], "conclusion": "fruit", "group": "low"}
+{"idx": 546, "premise": ["pear"], "conclusion": "fruit", "group": "low"}
+{"idx": 547, "premise": ["cherry"], "conclusion": "fruit", "group": "low"}
+{"idx": 548, "premise": ["plum"], "conclusion": "fruit", "group": "low"}
+{"idx": 549, "premise": ["grapes"], "conclusion": "fruit", "group": "low"}
+{"idx": 550, "premise": ["apricot"], "conclusion": "fruit", "group": "low"}
+{"idx": 551, "premise": ["peach"], "conclusion": "fruit", "group": "low"}
+{"idx": 552, "premise": ["strawberry"], "conclusion": "fruit", "group": "low"}
+{"idx": 553, "premise": ["plum"], "conclusion": "fruit", "group": "low"}
+{"idx": 554, "premise": ["pear"], "conclusion": "fruit", "group": "low"}
+{"idx": 555, "premise": ["apricot"], "conclusion": "fruit", "group": "low"}
+{"idx": 556, "premise": ["apricot"], "conclusion": "fruit", "group": "low"}
+{"idx": 557, "premise": ["apple"], "conclusion": "fruit", "group": "low"}
+{"idx": 558, "premise": ["plum"], "conclusion": "fruit", "group": "low"}
+{"idx": 559, "premise": ["melon"], "conclusion": "fruit", "group": "low"}
+{"idx": 560, "premise": ["honeydew"], "conclusion": "fruit", "group": "low"}
+{"idx": 561, "premise": ["plum"], "conclusion": "fruit", "group": "low"}
+{"idx": 562, "premise": ["peach"], "conclusion": "fruit", "group": "low"}
+{"idx": 563, "premise": ["blueberry"], "conclusion": "fruit", "group": "low"}
+{"idx": 564, "premise": ["plum"], "conclusion": "fruit", "group": "low"}
+{"idx": 565, "premise": ["pomegranate"], "conclusion": "fruit", "group": "low"}
+{"idx": 566, "premise": ["plum"], "conclusion": "fruit", "group": "low"}
+{"idx": 567, "premise": ["strawberry"], "conclusion": "fruit", "group": "low"}
+{"idx": 568, "premise": ["date"], "conclusion": "fruit", "group": "low"}
+{"idx": 569, "premise": ["cherry"], "conclusion": "fruit", "group": "low"}
+{"idx": 570, "premise": ["pomegranate"], "conclusion": "fruit", "group": "low"}
+{"idx": 571, "premise": ["coconut"], "conclusion": "fruit", "group": "low"}
+{"idx": 572, "premise": ["pomegranate"], "conclusion": "fruit", "group": "low"}
+{"idx": 573, "premise": ["grapefruit"], "conclusion": "fruit", "group": "low"}
+{"idx": 574, "premise": ["grapefruit"], "conclusion": "fruit", "group": "low"}
+{"idx": 575, "premise": ["tangerine"], "conclusion": "fruit", "group": "low"}
+{"idx": 576, "premise": ["strawberry"], "conclusion": "fruit", "group": "low"}
+{"idx": 577, "premise": ["pineapple"], "conclusion": "fruit", "group": "low"}
+{"idx": 578, "premise": ["date"], "conclusion": "fruit", "group": "low"}
+{"idx": 579, "premise": ["tangerine"], "conclusion": "fruit", "group": "low"}
+{"idx": 580, "premise": ["grapefruit"], "conclusion": "fruit", "group": "low"}
+{"idx": 581, "premise": ["pineapple"], "conclusion": "fruit", "group": "low"}
+{"idx": 582, "premise": ["peach"], "conclusion": "fruit", "group": "low"}
+{"idx": 583, "premise": ["lemon"], "conclusion": "fruit", "group": "low"}
+{"idx": 584, "premise": ["lemon"], "conclusion": "fruit", "group": "low"}
+{"idx": 585, "premise": ["apricot"], "conclusion": "fruit", "group": "low"}
+{"idx": 586, "premise": ["tangerine"], "conclusion": "fruit", "group": "low"}
+{"idx": 587, "premise": ["honeydew"], "conclusion": "fruit", "group": "low"}
+{"idx": 588, "premise": ["peach"], "conclusion": "fruit", "group": "low"}
+{"idx": 589, "premise": ["pineapple"], "conclusion": "fruit", "group": "low"}
+{"idx": 590, "premise": ["grapes"], "conclusion": "fruit", "group": "low"}
+{"idx": 591, "premise": ["grapefruit"], "conclusion": "fruit", "group": "low"}
+{"idx": 592, "premise": ["pomegranate"], "conclusion": "fruit", "group": "low"}
+{"idx": 593, "premise": ["plum"], "conclusion": "fruit", "group": "low"}
+{"idx": 594, "premise": ["melon"], "conclusion": "fruit", "group": "low"}
+{"idx": 595, "premise": ["pomegranate"], "conclusion": "fruit", "group": "low"}
+{"idx": 596, "premise": ["grapes"], "conclusion": "fruit", "group": "low"}
+{"idx": 597, "premise": ["peach"], "conclusion": "fruit", "group": "low"}
+{"idx": 598, "premise": ["plum"], "conclusion": "fruit", "group": "low"}
+{"idx": 599, "premise": ["cherry"], "conclusion": "fruit", "group": "low"}
+{"idx": 600, "premise": ["cherry"], "conclusion": "fruit", "group": "low"}
+{"idx": 601, "premise": ["date"], "conclusion": "fruit", "group": "low"}
+{"idx": 602, "premise": ["honeydew"], "conclusion": "fruit", "group": "low"}
+{"idx": 603, "premise": ["melon"], "conclusion": "fruit", "group": "low"}
+{"idx": 604, "premise": ["apricot"], "conclusion": "fruit", "group": "low"}
+{"idx": 605, "premise": ["pineapple"], "conclusion": "fruit", "group": "low"}
+{"idx": 606, "premise": ["melon"], "conclusion": "fruit", "group": "low"}
+{"idx": 607, "premise": ["apple"], "conclusion": "fruit", "group": "low"}
+{"idx": 608, "premise": ["apple"], "conclusion": "fruit", "group": "low"}
+{"idx": 609, "premise": ["lemon"], "conclusion": "fruit", "group": "low"}
+{"idx": 610, "premise": ["lemon"], "conclusion": "fruit", "group": "low"}
+{"idx": 611, "premise": ["honeydew"], "conclusion": "fruit", "group": "low"}
+{"idx": 612, "premise": ["watermelon"], "conclusion": "fruit", "group": "low"}
+{"idx": 613, "premise": ["pear"], "conclusion": "fruit", "group": "low"}
+{"idx": 614, "premise": ["pear"], "conclusion": "fruit", "group": "low"}
+{"idx": 615, "premise": ["pear"], "conclusion": "fruit", "group": "low"}
+{"idx": 616, "premise": ["peach"], "conclusion": "fruit", "group": "low"}
+{"idx": 617, "premise": ["apple"], "conclusion": "fruit", "group": "low"}
+{"idx": 618, "premise": ["peach"], "conclusion": "fruit", "group": "low"}
+{"idx": 619, "premise": ["pomegranate"], "conclusion": "fruit", "group": "low"}
+{"idx": 620, "premise": ["honeydew"], "conclusion": "fruit", "group": "low"}
+{"idx": 621, "premise": ["apple"], "conclusion": "fruit", "group": "low"}
+{"idx": 622, "premise": ["lemon"], "conclusion": "fruit", "group": "low"}
+{"idx": 623, "premise": ["pomegranate"], "conclusion": "fruit", "group": "low"}
+{"idx": 624, "premise": ["lemon"], "conclusion": "fruit", "group": "low"}
+{"idx": 625, "premise": ["tangerine"], "conclusion": "fruit", "group": "low"}
+{"idx": 626, "premise": ["strawberry"], "conclusion": "fruit", "group": "low"}
+{"idx": 627, "premise": ["grapes"], "conclusion": "fruit", "group": "low"}
+{"idx": 628, "premise": ["strawberry"], "conclusion": "fruit", "group": "low"}
+{"idx": 629, "premise": ["melon"], "conclusion": "fruit", "group": "low"}
+{"idx": 630, "premise": ["coconut"], "conclusion": "fruit", "group": "low"}
+{"idx": 631, "premise": ["pomegranate"], "conclusion": "fruit", "group": "low"}
+{"idx": 632, "premise": ["blueberry"], "conclusion": "fruit", "group": "low"}
+{"idx": 633, "premise": ["grapes"], "conclusion": "fruit", "group": "low"}
+{"idx": 634, "premise": ["melon"], "conclusion": "fruit", "group": "low"}
+{"idx": 635, "premise": ["pear"], "conclusion": "fruit", "group": "low"}
+{"idx": 636, "premise": ["watermelon"], "conclusion": "fruit", "group": "low"}
+{"idx": 637, "premise": ["apricot"], "conclusion": "fruit", "group": "low"}
+{"idx": 638, "premise": ["apple"], "conclusion": "fruit", "group": "low"}
+{"idx": 639, "premise": ["grapefruit"], "conclusion": "fruit", "group": "low"}
+{"idx": 640, "premise": ["peach"], "conclusion": "fruit", "group": "low"}
+{"idx": 641, "premise": ["coconut"], "conclusion": "fruit", "group": "low"}
+{"idx": 642, "premise": ["blueberry"], "conclusion": "fruit", "group": "low"}
+{"idx": 643, "premise": ["pineapple"], "conclusion": "fruit", "group": "low"}
+{"idx": 644, "premise": ["watermelon"], "conclusion": "fruit", "group": "low"}
+{"idx": 645, "premise": ["grapes"], "conclusion": "fruit", "group": "low"}
+{"idx": 646, "premise": ["apple"], "conclusion": "fruit", "group": "low"}
+{"idx": 647, "premise": ["grapefruit"], "conclusion": "fruit", "group": "low"}
+{"idx": 648, "premise": ["date"], "conclusion": "fruit", "group": "low"}
+{"idx": 649, "premise": ["pineapple"], "conclusion": "fruit", "group": "low"}
+{"idx": 650, "premise": ["grapes"], "conclusion": "fruit", "group": "low"}
+{"idx": 651, "premise": ["honeydew"], "conclusion": "fruit", "group": "low"}
+{"idx": 652, "premise": ["apple"], "conclusion": "fruit", "group": "low"}
+{"idx": 653, "premise": ["pineapple"], "conclusion": "fruit", "group": "low"}
+{"idx": 654, "premise": ["date"], "conclusion": "fruit", "group": "low"}
+{"idx": 655, "premise": ["strawberry"], "conclusion": "fruit", "group": "low"}
+{"idx": 656, "premise": ["banana"], "conclusion": "fruit", "group": "low"}
+{"idx": 657, "premise": ["strawberry"], "conclusion": "fruit", "group": "low"}
+{"idx": 658, "premise": ["blueberry"], "conclusion": "fruit", "group": "low"}
+{"idx": 659, "premise": ["lemon"], "conclusion": "fruit", "group": "low"}
+{"idx": 660, "premise": ["pineapple"], "conclusion": "fruit", "group": "low"}
+{"idx": 661, "premise": ["blueberry"], "conclusion": "fruit", "group": "low"}
+{"idx": 662, "premise": ["cherry"], "conclusion": "fruit", "group": "low"}
+{"idx": 663, "premise": ["grapefruit"], "conclusion": "fruit", "group": "low"}
+{"idx": 664, "premise": ["pear"], "conclusion": "fruit", "group": "low"}
+{"idx": 665, "premise": ["apricot"], "conclusion": "fruit", "group": "low"}
+{"idx": 666, "premise": ["watermelon"], "conclusion": "fruit", "group": "low"}
+{"idx": 667, "premise": ["peach"], "conclusion": "fruit", "group": "low"}
+{"idx": 668, "premise": ["cherry"], "conclusion": "fruit", "group": "low"}
+{"idx": 669, "premise": ["strawberry"], "conclusion": "fruit", "group": "low"}
+{"idx": 670, "premise": ["tangerine"], "conclusion": "fruit", "group": "low"}
+{"idx": 671, "premise": ["grapefruit"], "conclusion": "fruit", "group": "low"}
+{"idx": 672, "premise": ["apricot"], "conclusion": "fruit", "group": "low"}
+{"idx": 673, "premise": ["tangerine"], "conclusion": "fruit", "group": "low"}
+{"idx": 674, "premise": ["banana"], "conclusion": "fruit", "group": "low"}
+{"idx": 675, "premise": ["banana"], "conclusion": "fruit", "group": "low"}
+{"idx": 676, "premise": ["cherry"], "conclusion": "fruit", "group": "low"}
+{"idx": 677, "premise": ["honeydew"], "conclusion": "fruit", "group": "low"}
+{"idx": 678, "premise": ["melon"], "conclusion": "fruit", "group": "low"}
+{"idx": 679, "premise": ["blueberry"], "conclusion": "fruit", "group": "low"}
+{"idx": 680, "premise": ["strawberry"], "conclusion": "fruit", "group": "low"}
+{"idx": 681, "premise": ["honeydew"], "conclusion": "fruit", "group": "low"}
+{"idx": 682, "premise": ["grapefruit"], "conclusion": "fruit", "group": "low"}
+{"idx": 683, "premise": ["grapes"], "conclusion": "fruit", "group": "low"}
+{"idx": 684, "premise": ["cherry"], "conclusion": "fruit", "group": "low"}
+{"idx": 685, "premise": ["pear"], "conclusion": "fruit", "group": "low"}
+{"idx": 686, "premise": ["banana"], "conclusion": "fruit", "group": "low"}
+{"idx": 687, "premise": ["pear"], "conclusion": "fruit", "group": "low"}
+{"idx": 688, "premise": ["date"], "conclusion": "fruit", "group": "low"}
+{"idx": 689, "premise": ["melon"], "conclusion": "fruit", "group": "low"}
+{"idx": 690, "premise": ["apple"], "conclusion": "fruit", "group": "low"}
+{"idx": 691, "premise": ["banana"], "conclusion": "fruit", "group": "low"}
+{"idx": 692, "premise": ["banana"], "conclusion": "fruit", "group": "low"}
+{"idx": 693, "premise": ["grapes"], "conclusion": "fruit", "group": "low"}
+{"idx": 694, "premise": ["coconut"], "conclusion": "fruit", "group": "low"}
+{"idx": 695, "premise": ["plum"], "conclusion": "fruit", "group": "low"}
+{"idx": 696, "premise": ["blueberry"], "conclusion": "fruit", "group": "low"}
+{"idx": 697, "premise": ["apple"], "conclusion": "fruit", "group": "low"}
+{"idx": 698, "premise": ["watermelon"], "conclusion": "fruit", "group": "low"}
+{"idx": 699, "premise": ["banana"], "conclusion": "fruit", "group": "low"}
+{"idx": 700, "premise": ["watermelon"], "conclusion": "fruit", "group": "low"}
+{"idx": 701, "premise": ["olive"], "conclusion": "fruit", "group": "low"}
+{"idx": 702, "premise": ["pineapple"], "conclusion": "fruit", "group": "low"}
+{"idx": 703, "premise": ["coconut"], "conclusion": "fruit", "group": "low"}
+{"idx": 704, "premise": ["coconut"], "conclusion": "fruit", "group": "low"}
+{"idx": 705, "premise": ["plum"], "conclusion": "fruit", "group": "low"}
+{"idx": 706, "premise": ["pomegranate"], "conclusion": "fruit", "group": "low"}
+{"idx": 707, "premise": ["tangerine"], "conclusion": "fruit", "group": "low"}
+{"idx": 708, "premise": ["peach"], "conclusion": "fruit", "group": "low"}
+{"idx": 709, "premise": ["banana"], "conclusion": "fruit", "group": "low"}
+{"idx": 710, "premise": ["coconut"], "conclusion": "fruit", "group": "low"}
+{"idx": 711, "premise": ["date"], "conclusion": "fruit", "group": "low"}
+{"idx": 712, "premise": ["blueberry"], "conclusion": "fruit", "group": "low"}
+{"idx": 713, "premise": ["blueberry"], "conclusion": "fruit", "group": "low"}
+{"idx": 714, "premise": ["date"], "conclusion": "fruit", "group": "low"}
+{"idx": 715, "premise": ["date"], "conclusion": "fruit", "group": "low"}
+{"idx": 716, "premise": ["watermelon"], "conclusion": "fruit", "group": "low"}
+{"idx": 717, "premise": ["cherry"], "conclusion": "fruit", "group": "low"}
+{"idx": 718, "premise": ["coconut"], "conclusion": "fruit", "group": "low"}
+{"idx": 719, "premise": ["honeydew"], "conclusion": "fruit", "group": "low"}
+{"idx": 720, "premise": ["banana"], "conclusion": "fruit", "group": "low"}
+{"idx": 721, "premise": ["banana"], "conclusion": "fruit", "group": "low"}
+{"idx": 722, "premise": ["lemon"], "conclusion": "fruit", "group": "low"}
+{"idx": 723, "premise": ["strawberry"], "conclusion": "fruit", "group": "low"}
+{"idx": 724, "premise": ["olive"], "conclusion": "fruit", "group": "low"}
+{"idx": 725, "premise": ["pineapple"], "conclusion": "fruit", "group": "low"}
+{"idx": 726, "premise": ["watermelon"], "conclusion": "fruit", "group": "low"}
+{"idx": 727, "premise": ["tangerine"], "conclusion": "fruit", "group": "low"}
+{"idx": 728, "premise": ["apricot"], "conclusion": "fruit", "group": "low"}
+{"idx": 729, "premise": ["grapes"], "conclusion": "fruit", "group": "low"}
+{"idx": 730, "premise": ["coconut"], "conclusion": "fruit", "group": "low"}
+{"idx": 731, "premise": ["tangerine"], "conclusion": "fruit", "group": "low"}
+{"idx": 732, "premise": ["olive"], "conclusion": "fruit", "group": "low"}
+{"idx": 733, "premise": ["lemon"], "conclusion": "fruit", "group": "low"}
+{"idx": 734, "premise": ["coconut"], "conclusion": "fruit", "group": "low"}
+{"idx": 735, "premise": ["date"], "conclusion": "fruit", "group": "low"}
+{"idx": 736, "premise": ["olive"], "conclusion": "fruit", "group": "low"}
+{"idx": 737, "premise": ["olive"], "conclusion": "fruit", "group": "low"}
+{"idx": 738, "premise": ["olive"], "conclusion": "fruit", "group": "low"}
+{"idx": 739, "premise": ["watermelon"], "conclusion": "fruit", "group": "low"}
+{"idx": 740, "premise": ["olive"], "conclusion": "fruit", "group": "low"}
+{"idx": 741, "premise": ["olive"], "conclusion": "fruit", "group": "low"}
+{"idx": 742, "premise": ["pomegranate"], "conclusion": "fruit", "group": "low"}
+{"idx": 743, "premise": ["olive"], "conclusion": "fruit", "group": "low"}
+{"idx": 744, "premise": ["watermelon"], "conclusion": "fruit", "group": "low"}
+{"idx": 745, "premise": ["olive"], "conclusion": "fruit", "group": "low"}
+{"idx": 746, "premise": ["sofa"], "conclusion": "furniture", "group": "low"}
+{"idx": 747, "premise": ["desk"], "conclusion": "furniture", "group": "low"}
+{"idx": 748, "premise": ["chair"], "conclusion": "furniture", "group": "low"}
+{"idx": 749, "premise": ["sofa"], "conclusion": "furniture", "group": "low"}
+{"idx": 750, "premise": ["bench"], "conclusion": "furniture", "group": "low"}
+{"idx": 751, "premise": ["bookcase"], "conclusion": "furniture", "group": "low"}
+{"idx": 752, "premise": ["dresser"], "conclusion": "furniture", "group": "low"}
+{"idx": 753, "premise": ["sofa"], "conclusion": "furniture", "group": "low"}
+{"idx": 754, "premise": ["bed"], "conclusion": "furniture", "group": "low"}
+{"idx": 755, "premise": ["chair"], "conclusion": "furniture", "group": "low"}
+{"idx": 756, "premise": ["bench"], "conclusion": "furniture", "group": "low"}
+{"idx": 757, "premise": ["table"], "conclusion": "furniture", "group": "low"}
+{"idx": 758, "premise": ["chair"], "conclusion": "furniture", "group": "low"}
+{"idx": 759, "premise": ["footstool"], "conclusion": "furniture", "group": "low"}
+{"idx": 760, "premise": ["bookcase"], "conclusion": "furniture", "group": "low"}
+{"idx": 761, "premise": ["table"], "conclusion": "furniture", "group": "low"}
+{"idx": 762, "premise": ["dresser"], "conclusion": "furniture", "group": "low"}
+{"idx": 763, "premise": ["bed"], "conclusion": "furniture", "group": "low"}
+{"idx": 764, "premise": ["desk"], "conclusion": "furniture", "group": "low"}
+{"idx": 765, "premise": ["bed"], "conclusion": "furniture", "group": "low"}
+{"idx": 766, "premise": ["clock"], "conclusion": "furniture", "group": "low"}
+{"idx": 767, "premise": ["radio"], "conclusion": "furniture", "group": "low"}
+{"idx": 768, "premise": ["footstool"], "conclusion": "furniture", "group": "low"}
+{"idx": 769, "premise": ["clock"], "conclusion": "furniture", "group": "low"}
+{"idx": 770, "premise": ["cabinet"], "conclusion": "furniture", "group": "low"}
+{"idx": 771, "premise": ["cushion"], "conclusion": "furniture", "group": "low"}
+{"idx": 772, "premise": ["chair"], "conclusion": "furniture", "group": "low"}
+{"idx": 773, "premise": ["table"], "conclusion": "furniture", "group": "low"}
+{"idx": 774, "premise": ["desk"], "conclusion": "furniture", "group": "low"}
+{"idx": 775, "premise": ["lamp"], "conclusion": "furniture", "group": "low"}
+{"idx": 776, "premise": ["bookcase"], "conclusion": "furniture", "group": "low"}
+{"idx": 777, "premise": ["rug"], "conclusion": "furniture", "group": "low"}
+{"idx": 778, "premise": ["bench"], "conclusion": "furniture", "group": "low"}
+{"idx": 779, "premise": ["footstool"], "conclusion": "furniture", "group": "low"}
+{"idx": 780, "premise": ["dresser"], "conclusion": "furniture", "group": "low"}
+{"idx": 781, "premise": ["footstool"], "conclusion": "furniture", "group": "low"}
+{"idx": 782, "premise": ["table"], "conclusion": "furniture", "group": "low"}
+{"idx": 783, "premise": ["piano"], "conclusion": "furniture", "group": "low"}
+{"idx": 784, "premise": ["piano"], "conclusion": "furniture", "group": "low"}
+{"idx": 785, "premise": ["bed"], "conclusion": "furniture", "group": "low"}
+{"idx": 786, "premise": ["cushion"], "conclusion": "furniture", "group": "low"}
+{"idx": 787, "premise": ["cabinet"], "conclusion": "furniture", "group": "low"}
+{"idx": 788, "premise": ["desk"], "conclusion": "furniture", "group": "low"}
+{"idx": 789, "premise": ["bed"], "conclusion": "furniture", "group": "low"}
+{"idx": 790, "premise": ["chair"], "conclusion": "furniture", "group": "low"}
+{"idx": 791, "premise": ["table"], "conclusion": "furniture", "group": "low"}
+{"idx": 792, "premise": ["lamp"], "conclusion": "furniture", "group": "low"}
+{"idx": 793, "premise": ["lamp"], "conclusion": "furniture", "group": "low"}
+{"idx": 794, "premise": ["table"], "conclusion": "furniture", "group": "low"}
+{"idx": 795, "premise": ["telephone"], "conclusion": "furniture", "group": "low"}
+{"idx": 796, "premise": ["bookcase"], "conclusion": "furniture", "group": "low"}
+{"idx": 797, "premise": ["bookcase"], "conclusion": "furniture", "group": "low"}
+{"idx": 798, "premise": ["rug"], "conclusion": "furniture", "group": "low"}
+{"idx": 799, "premise": ["table"], "conclusion": "furniture", "group": "low"}
+{"idx": 800, "premise": ["chair"], "conclusion": "furniture", "group": "low"}
+{"idx": 801, "premise": ["bed"], "conclusion": "furniture", "group": "low"}
+{"idx": 802, "premise": ["footstool"], "conclusion": "furniture", "group": "low"}
+{"idx": 803, "premise": ["piano"], "conclusion": "furniture", "group": "low"}
+{"idx": 804, "premise": ["bed"], "conclusion": "furniture", "group": "low"}
+{"idx": 805, "premise": ["sofa"], "conclusion": "furniture", "group": "low"}
+{"idx": 806, "premise": ["cabinet"], "conclusion": "furniture", "group": "low"}
+{"idx": 807, "premise": ["cushion"], "conclusion": "furniture", "group": "low"}
+{"idx": 808, "premise": ["sofa"], "conclusion": "furniture", "group": "low"}
+{"idx": 809, "premise": ["bed"], "conclusion": "furniture", "group": "low"}
+{"idx": 810, "premise": ["dresser"], "conclusion": "furniture", "group": "low"}
+{"idx": 811, "premise": ["bookcase"], "conclusion": "furniture", "group": "low"}
+{"idx": 812, "premise": ["dresser"], "conclusion": "furniture", "group": "low"}
+{"idx": 813, "premise": ["piano"], "conclusion": "furniture", "group": "low"}
+{"idx": 814, "premise": ["table"], "conclusion": "furniture", "group": "low"}
+{"idx": 815, "premise": ["mirror"], "conclusion": "furniture", "group": "low"}
+{"idx": 816, "premise": ["dresser"], "conclusion": "furniture", "group": "low"}
+{"idx": 817, "premise": ["desk"], "conclusion": "furniture", "group": "low"}
+{"idx": 818, "premise": ["lamp"], "conclusion": "furniture", "group": "low"}
+{"idx": 819, "premise": ["stove"], "conclusion": "furniture", "group": "low"}
+{"idx": 820, "premise": ["desk"], "conclusion": "furniture", "group": "low"}
+{"idx": 821, "premise": ["mirror"], "conclusion": "furniture", "group": "low"}
+{"idx": 822, "premise": ["lamp"], "conclusion": "furniture", "group": "low"}
+{"idx": 823, "premise": ["rug"], "conclusion": "furniture", "group": "low"}
+{"idx": 824, "premise": ["clock"], "conclusion": "furniture", "group": "low"}
+{"idx": 825, "premise": ["piano"], "conclusion": "furniture", "group": "low"}
+{"idx": 826, "premise": ["cabinet"], "conclusion": "furniture", "group": "low"}
+{"idx": 827, "premise": ["lamp"], "conclusion": "furniture", "group": "low"}
+{"idx": 828, "premise": ["dresser"], "conclusion": "furniture", "group": "low"}
+{"idx": 829, "premise": ["desk"], "conclusion": "furniture", "group": "low"}
+{"idx": 830, "premise": ["rug"], "conclusion": "furniture", "group": "low"}
+{"idx": 831, "premise": ["sofa"], "conclusion": "furniture", "group": "low"}
+{"idx": 832, "premise": ["bed"], "conclusion": "furniture", "group": "low"}
+{"idx": 833, "premise": ["radio"], "conclusion": "furniture", "group": "low"}
+{"idx": 834, "premise": ["cushion"], "conclusion": "furniture", "group": "low"}
+{"idx": 835, "premise": ["radio"], "conclusion": "furniture", "group": "low"}
+{"idx": 836, "premise": ["mirror"], "conclusion": "furniture", "group": "low"}
+{"idx": 837, "premise": ["piano"], "conclusion": "furniture", "group": "low"}
+{"idx": 838, "premise": ["table"], "conclusion": "furniture", "group": "low"}
+{"idx": 839, "premise": ["piano"], "conclusion": "furniture", "group": "low"}
+{"idx": 840, "premise": ["stove"], "conclusion": "furniture", "group": "low"}
+{"idx": 841, "premise": ["stove"], "conclusion": "furniture", "group": "low"}
+{"idx": 842, "premise": ["cabinet"], "conclusion": "furniture", "group": "low"}
+{"idx": 843, "premise": ["piano"], "conclusion": "furniture", "group": "low"}
+{"idx": 844, "premise": ["telephone"], "conclusion": "furniture", "group": "low"}
+{"idx": 845, "premise": ["rug"], "conclusion": "furniture", "group": "low"}
+{"idx": 846, "premise": ["telephone"], "conclusion": "furniture", "group": "low"}
+{"idx": 847, "premise": ["desk"], "conclusion": "furniture", "group": "low"}
+{"idx": 848, "premise": ["telephone"], "conclusion": "furniture", "group": "low"}
+{"idx": 849, "premise": ["rug"], "conclusion": "furniture", "group": "low"}
+{"idx": 850, "premise": ["dresser"], "conclusion": "furniture", "group": "low"}
+{"idx": 851, "premise": ["bench"], "conclusion": "furniture", "group": "low"}
+{"idx": 852, "premise": ["bookcase"], "conclusion": "furniture", "group": "low"}
+{"idx": 853, "premise": ["bench"], "conclusion": "furniture", "group": "low"}
+{"idx": 854, "premise": ["mirror"], "conclusion": "furniture", "group": "low"}
+{"idx": 855, "premise": ["stove"], "conclusion": "furniture", "group": "low"}
+{"idx": 856, "premise": ["mirror"], "conclusion": "furniture", "group": "low"}
+{"idx": 857, "premise": ["radio"], "conclusion": "furniture", "group": "low"}
+{"idx": 858, "premise": ["rug"], "conclusion": "furniture", "group": "low"}
+{"idx": 859, "premise": ["lamp"], "conclusion": "furniture", "group": "low"}
+{"idx": 860, "premise": ["lamp"], "conclusion": "furniture", "group": "low"}
+{"idx": 861, "premise": ["cushion"], "conclusion": "furniture", "group": "low"}
+{"idx": 862, "premise": ["piano"], "conclusion": "furniture", "group": "low"}
+{"idx": 863, "premise": ["stove"], "conclusion": "furniture", "group": "low"}
+{"idx": 864, "premise": ["radio"], "conclusion": "furniture", "group": "low"}
+{"idx": 865, "premise": ["mirror"], "conclusion": "furniture", "group": "low"}
+{"idx": 866, "premise": ["chair"], "conclusion": "furniture", "group": "low"}
+{"idx": 867, "premise": ["lamp"], "conclusion": "furniture", "group": "low"}
+{"idx": 868, "premise": ["bookcase"], "conclusion": "furniture", "group": "low"}
+{"idx": 869, "premise": ["rug"], "conclusion": "furniture", "group": "low"}
+{"idx": 870, "premise": ["footstool"], "conclusion": "furniture", "group": "low"}
+{"idx": 871, "premise": ["cabinet"], "conclusion": "furniture", "group": "low"}
+{"idx": 872, "premise": ["cushion"], "conclusion": "furniture", "group": "low"}
+{"idx": 873, "premise": ["cushion"], "conclusion": "furniture", "group": "low"}
+{"idx": 874, "premise": ["sofa"], "conclusion": "furniture", "group": "low"}
+{"idx": 875, "premise": ["bookcase"], "conclusion": "furniture", "group": "low"}
+{"idx": 876, "premise": ["bench"], "conclusion": "furniture", "group": "low"}
+{"idx": 877, "premise": ["stove"], "conclusion": "furniture", "group": "low"}
+{"idx": 878, "premise": ["clock"], "conclusion": "furniture", "group": "low"}
+{"idx": 879, "premise": ["mirror"], "conclusion": "furniture", "group": "low"}
+{"idx": 880, "premise": ["telephone"], "conclusion": "furniture", "group": "low"}
+{"idx": 881, "premise": ["bench"], "conclusion": "furniture", "group": "low"}
+{"idx": 882, "premise": ["mirror"], "conclusion": "furniture", "group": "low"}
+{"idx": 883, "premise": ["radio"], "conclusion": "furniture", "group": "low"}
+{"idx": 884, "premise": ["footstool"], "conclusion": "furniture", "group": "low"}
+{"idx": 885, "premise": ["dresser"], "conclusion": "furniture", "group": "low"}
+{"idx": 886, "premise": ["stove"], "conclusion": "furniture", "group": "low"}
+{"idx": 887, "premise": ["cushion"], "conclusion": "furniture", "group": "low"}
+{"idx": 888, "premise": ["clock"], "conclusion": "furniture", "group": "low"}
+{"idx": 889, "premise": ["clock"], "conclusion": "furniture", "group": "low"}
+{"idx": 890, "premise": ["lamp"], "conclusion": "furniture", "group": "low"}
+{"idx": 891, "premise": ["rug"], "conclusion": "furniture", "group": "low"}
+{"idx": 892, "premise": ["stove"], "conclusion": "furniture", "group": "low"}
+{"idx": 893, "premise": ["sofa"], "conclusion": "furniture", "group": "low"}
+{"idx": 894, "premise": ["cushion"], "conclusion": "furniture", "group": "low"}
+{"idx": 895, "premise": ["chair"], "conclusion": "furniture", "group": "low"}
+{"idx": 896, "premise": ["footstool"], "conclusion": "furniture", "group": "low"}
+{"idx": 897, "premise": ["cabinet"], "conclusion": "furniture", "group": "low"}
+{"idx": 898, "premise": ["radio"], "conclusion": "furniture", "group": "low"}
+{"idx": 899, "premise": ["piano"], "conclusion": "furniture", "group": "low"}
+{"idx": 900, "premise": ["stove"], "conclusion": "furniture", "group": "low"}
+{"idx": 901, "premise": ["telephone"], "conclusion": "furniture", "group": "low"}
+{"idx": 902, "premise": ["clock"], "conclusion": "furniture", "group": "low"}
+{"idx": 903, "premise": ["radio"], "conclusion": "furniture", "group": "low"}
+{"idx": 904, "premise": ["chair"], "conclusion": "furniture", "group": "low"}
+{"idx": 905, "premise": ["telephone"], "conclusion": "furniture", "group": "low"}
+{"idx": 906, "premise": ["stove"], "conclusion": "furniture", "group": "low"}
+{"idx": 907, "premise": ["cabinet"], "conclusion": "furniture", "group": "low"}
+{"idx": 908, "premise": ["sofa"], "conclusion": "furniture", "group": "low"}
+{"idx": 909, "premise": ["rug"], "conclusion": "furniture", "group": "low"}
+{"idx": 910, "premise": ["bench"], "conclusion": "furniture", "group": "low"}
+{"idx": 911, "premise": ["telephone"], "conclusion": "furniture", "group": "low"}
+{"idx": 912, "premise": ["telephone"], "conclusion": "furniture", "group": "low"}
+{"idx": 913, "premise": ["clock"], "conclusion": "furniture", "group": "low"}
+{"idx": 914, "premise": ["mirror"], "conclusion": "furniture", "group": "low"}
+{"idx": 915, "premise": ["telephone"], "conclusion": "furniture", "group": "low"}
+{"idx": 916, "premise": ["radio"], "conclusion": "furniture", "group": "low"}
+{"idx": 917, "premise": ["spinach"], "conclusion": "vegetable", "group": "low"}
+{"idx": 918, "premise": ["broccoli"], "conclusion": "vegetable", "group": "low"}
+{"idx": 919, "premise": ["eggplant"], "conclusion": "vegetable", "group": "low"}
+{"idx": 920, "premise": ["turnip"], "conclusion": "vegetable", "group": "low"}
+{"idx": 921, "premise": ["broccoli"], "conclusion": "vegetable", "group": "low"}
+{"idx": 922, "premise": ["celery"], "conclusion": "vegetable", "group": "low"}
+{"idx": 923, "premise": ["celery"], "conclusion": "vegetable", "group": "low"}
+{"idx": 924, "premise": ["turnip"], "conclusion": "vegetable", "group": "low"}
+{"idx": 925, "premise": ["squash"], "conclusion": "vegetable", "group": "low"}
+{"idx": 926, "premise": ["broccoli"], "conclusion": "vegetable", "group": "low"}
+{"idx": 927, "premise": ["squash"], "conclusion": "vegetable", "group": "low"}
+{"idx": 928, "premise": ["cucumber"], "conclusion": "vegetable", "group": "low"}
+{"idx": 929, "premise": ["lettuce"], "conclusion": "vegetable", "group": "low"}
+{"idx": 930, "premise": ["spinach"], "conclusion": "vegetable", "group": "low"}
+{"idx": 931, "premise": ["lettuce"], "conclusion": "vegetable", "group": "low"}
+{"idx": 932, "premise": ["cucumber"], "conclusion": "vegetable", "group": "low"}
+{"idx": 933, "premise": ["carrot"], "conclusion": "vegetable", "group": "low"}
+{"idx": 934, "premise": ["carrot"], "conclusion": "vegetable", "group": "low"}
+{"idx": 935, "premise": ["eggplant"], "conclusion": "vegetable", "group": "low"}
+{"idx": 936, "premise": ["asparagus"], "conclusion": "vegetable", "group": "low"}
+{"idx": 937, "premise": ["potato"], "conclusion": "vegetable", "group": "low"}
+{"idx": 938, "premise": ["spinach"], "conclusion": "vegetable", "group": "low"}
+{"idx": 939, "premise": ["cucumber"], "conclusion": "vegetable", "group": "low"}
+{"idx": 940, "premise": ["squash"], "conclusion": "vegetable", "group": "low"}
+{"idx": 941, "premise": ["celery"], "conclusion": "vegetable", "group": "low"}
+{"idx": 942, "premise": ["broccoli"], "conclusion": "vegetable", "group": "low"}
+{"idx": 943, "premise": ["cauliflower"], "conclusion": "vegetable", "group": "low"}
+{"idx": 944, "premise": ["squash"], "conclusion": "vegetable", "group": "low"}
+{"idx": 945, "premise": ["eggplant"], "conclusion": "vegetable", "group": "low"}
+{"idx": 946, "premise": ["asparagus"], "conclusion": "vegetable", "group": "low"}
+{"idx": 947, "premise": ["spinach"], "conclusion": "vegetable", "group": "low"}
+{"idx": 948, "premise": ["celery"], "conclusion": "vegetable", "group": "low"}
+{"idx": 949, "premise": ["cauliflower"], "conclusion": "vegetable", "group": "low"}
+{"idx": 950, "premise": ["cauliflower"], "conclusion": "vegetable", "group": "low"}
+{"idx": 951, "premise": ["tomato"], "conclusion": "vegetable", "group": "low"}
+{"idx": 952, "premise": ["carrot"], "conclusion": "vegetable", "group": "low"}
+{"idx": 953, "premise": ["broccoli"], "conclusion": "vegetable", "group": "low"}
+{"idx": 954, "premise": ["asparagus"], "conclusion": "vegetable", "group": "low"}
+{"idx": 955, "premise": ["eggplant"], "conclusion": "vegetable", "group": "low"}
+{"idx": 956, "premise": ["tomato"], "conclusion": "vegetable", "group": "low"}
+{"idx": 957, "premise": ["carrot"], "conclusion": "vegetable", "group": "low"}
+{"idx": 958, "premise": ["asparagus"], "conclusion": "vegetable", "group": "low"}
+{"idx": 959, "premise": ["asparagus"], "conclusion": "vegetable", "group": "low"}
+{"idx": 960, "premise": ["potato"], "conclusion": "vegetable", "group": "low"}
+{"idx": 961, "premise": ["cauliflower"], "conclusion": "vegetable", "group": "low"}
+{"idx": 962, "premise": ["turnip"], "conclusion": "vegetable", "group": "low"}
+{"idx": 963, "premise": ["squash"], "conclusion": "vegetable", "group": "low"}
+{"idx": 964, "premise": ["broccoli"], "conclusion": "vegetable", "group": "low"}
+{"idx": 965, "premise": ["squash"], "conclusion": "vegetable", "group": "low"}
+{"idx": 966, "premise": ["tomato"], "conclusion": "vegetable", "group": "low"}
+{"idx": 967, "premise": ["carrot"], "conclusion": "vegetable", "group": "low"}
+{"idx": 968, "premise": ["corn"], "conclusion": "vegetable", "group": "low"}
+{"idx": 969, "premise": ["turnip"], "conclusion": "vegetable", "group": "low"}
+{"idx": 970, "premise": ["carrot"], "conclusion": "vegetable", "group": "low"}
+{"idx": 971, "premise": ["turnip"], "conclusion": "vegetable", "group": "low"}
+{"idx": 972, "premise": ["squash"], "conclusion": "vegetable", "group": "low"}
+{"idx": 973, "premise": ["tomato"], "conclusion": "vegetable", "group": "low"}
+{"idx": 974, "premise": ["cauliflower"], "conclusion": "vegetable", "group": "low"}
+{"idx": 975, "premise": ["tomato"], "conclusion": "vegetable", "group": "low"}
+{"idx": 976, "premise": ["celery"], "conclusion": "vegetable", "group": "low"}
+{"idx": 977, "premise": ["potato"], "conclusion": "vegetable", "group": "low"}
+{"idx": 978, "premise": ["carrot"], "conclusion": "vegetable", "group": "low"}
+{"idx": 979, "premise": ["celery"], "conclusion": "vegetable", "group": "low"}
+{"idx": 980, "premise": ["cucumber"], "conclusion": "vegetable", "group": "low"}
+{"idx": 981, "premise": ["turnip"], "conclusion": "vegetable", "group": "low"}
+{"idx": 982, "premise": ["spinach"], "conclusion": "vegetable", "group": "low"}
+{"idx": 983, "premise": ["cucumber"], "conclusion": "vegetable", "group": "low"}
+{"idx": 984, "premise": ["eggplant"], "conclusion": "vegetable", "group": "low"}
+{"idx": 985, "premise": ["potato"], "conclusion": "vegetable", "group": "low"}
+{"idx": 986, "premise": ["tomato"], "conclusion": "vegetable", "group": "low"}
+{"idx": 987, "premise": ["turnip"], "conclusion": "vegetable", "group": "low"}
+{"idx": 988, "premise": ["asparagus"], "conclusion": "vegetable", "group": "low"}
+{"idx": 989, "premise": ["lettuce"], "conclusion": "vegetable", "group": "low"}
+{"idx": 990, "premise": ["broccoli"], "conclusion": "vegetable", "group": "low"}
+{"idx": 991, "premise": ["cucumber"], "conclusion": "vegetable", "group": "low"}
+{"idx": 992, "premise": ["tomato"], "conclusion": "vegetable", "group": "low"}
+{"idx": 993, "premise": ["turnip"], "conclusion": "vegetable", "group": "low"}
+{"idx": 994, "premise": ["tomato"], "conclusion": "vegetable", "group": "low"}
+{"idx": 995, "premise": ["eggplant"], "conclusion": "vegetable", "group": "low"}
+{"idx": 996, "premise": ["corn"], "conclusion": "vegetable", "group": "low"}
+{"idx": 997, "premise": ["corn"], "conclusion": "vegetable", "group": "low"}
+{"idx": 998, "premise": ["lettuce"], "conclusion": "vegetable", "group": "low"}
+{"idx": 999, "premise": ["corn"], "conclusion": "vegetable", "group": "low"}
+{"idx": 1000, "premise": ["spinach"], "conclusion": "vegetable", "group": "low"}
+{"idx": 1001, "premise": ["cauliflower"], "conclusion": "vegetable", "group": "low"}
+{"idx": 1002, "premise": ["corn"], "conclusion": "vegetable", "group": "low"}
+{"idx": 1003, "premise": ["potato"], "conclusion": "vegetable", "group": "low"}
+{"idx": 1004, "premise": ["corn"], "conclusion": "vegetable", "group": "low"}
+{"idx": 1005, "premise": ["asparagus"], "conclusion": "vegetable", "group": "low"}
+{"idx": 1006, "premise": ["potato"], "conclusion": "vegetable", "group": "low"}
+{"idx": 1007, "premise": ["lettuce"], "conclusion": "vegetable", "group": "low"}
+{"idx": 1008, "premise": ["van"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1009, "premise": ["truck"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1010, "premise": ["car"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1011, "premise": ["jeep"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1012, "premise": ["van"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1013, "premise": ["submarine"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1014, "premise": ["jeep"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1015, "premise": ["bus"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1016, "premise": ["motorcycle"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1017, "premise": ["bicycle"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1018, "premise": ["scooter"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1019, "premise": ["motorcycle"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1020, "premise": ["bus"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1021, "premise": ["bus"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1022, "premise": ["rocket"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1023, "premise": ["car"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1024, "premise": ["cart"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1025, "premise": ["trailer"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1026, "premise": ["car"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1027, "premise": ["bicycle"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1028, "premise": ["carriage"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1029, "premise": ["truck"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1030, "premise": ["trailer"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1031, "premise": ["carriage"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1032, "premise": ["tractor"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1033, "premise": ["motorcycle"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1034, "premise": ["sled"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1035, "premise": ["jeep"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1036, "premise": ["carriage"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1037, "premise": ["jeep"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1038, "premise": ["sled"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1039, "premise": ["tractor"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1040, "premise": ["carriage"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1041, "premise": ["trailer"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1042, "premise": ["train"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1043, "premise": ["carriage"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1044, "premise": ["cart"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1045, "premise": ["car"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1046, "premise": ["train"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1047, "premise": ["truck"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1048, "premise": ["bus"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1049, "premise": ["car"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1050, "premise": ["truck"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1051, "premise": ["carriage"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1052, "premise": ["van"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1053, "premise": ["scooter"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1054, "premise": ["cart"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1055, "premise": ["van"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1056, "premise": ["trailer"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1057, "premise": ["cart"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1058, "premise": ["airplane"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1059, "premise": ["carriage"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1060, "premise": ["van"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1061, "premise": ["truck"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1062, "premise": ["train"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1063, "premise": ["tractor"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1064, "premise": ["bus"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1065, "premise": ["jeep"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1066, "premise": ["van"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1067, "premise": ["car"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1068, "premise": ["motorcycle"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1069, "premise": ["motorcycle"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1070, "premise": ["sled"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1071, "premise": ["car"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1072, "premise": ["train"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1073, "premise": ["bicycle"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1074, "premise": ["carriage"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1075, "premise": ["jeep"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1076, "premise": ["tractor"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1077, "premise": ["submarine"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1078, "premise": ["boat"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1079, "premise": ["cart"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1080, "premise": ["truck"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1081, "premise": ["van"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1082, "premise": ["trailer"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1083, "premise": ["airplane"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1084, "premise": ["train"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1085, "premise": ["submarine"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1086, "premise": ["cart"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1087, "premise": ["cart"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1088, "premise": ["motorcycle"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1089, "premise": ["airplane"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1090, "premise": ["tractor"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1091, "premise": ["boat"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1092, "premise": ["bus"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1093, "premise": ["jeep"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1094, "premise": ["bicycle"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1095, "premise": ["jeep"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1096, "premise": ["scooter"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1097, "premise": ["skateboard"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1098, "premise": ["truck"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1099, "premise": ["train"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1100, "premise": ["motorcycle"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1101, "premise": ["scooter"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1102, "premise": ["van"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1103, "premise": ["scooter"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1104, "premise": ["airplane"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1105, "premise": ["boat"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1106, "premise": ["airplane"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1107, "premise": ["trailer"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1108, "premise": ["sled"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1109, "premise": ["boat"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1110, "premise": ["bicycle"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1111, "premise": ["tractor"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1112, "premise": ["bicycle"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1113, "premise": ["trailer"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1114, "premise": ["bicycle"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1115, "premise": ["tractor"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1116, "premise": ["sled"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1117, "premise": ["scooter"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1118, "premise": ["train"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1119, "premise": ["skateboard"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1120, "premise": ["boat"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1121, "premise": ["skateboard"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1122, "premise": ["rocket"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1123, "premise": ["trailer"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1124, "premise": ["train"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1125, "premise": ["truck"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1126, "premise": ["submarine"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1127, "premise": ["bus"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1128, "premise": ["motorcycle"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1129, "premise": ["train"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1130, "premise": ["van"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1131, "premise": ["trailer"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1132, "premise": ["boat"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1133, "premise": ["bus"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1134, "premise": ["airplane"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1135, "premise": ["van"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1136, "premise": ["skateboard"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1137, "premise": ["truck"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1138, "premise": ["submarine"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1139, "premise": ["boat"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1140, "premise": ["sled"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1141, "premise": ["sled"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1142, "premise": ["tractor"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1143, "premise": ["rocket"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1144, "premise": ["submarine"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1145, "premise": ["submarine"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1146, "premise": ["skateboard"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1147, "premise": ["bicycle"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1148, "premise": ["bus"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1149, "premise": ["skateboard"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1150, "premise": ["car"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1151, "premise": ["trailer"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1152, "premise": ["cart"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1153, "premise": ["motorcycle"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1154, "premise": ["boat"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1155, "premise": ["scooter"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1156, "premise": ["airplane"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1157, "premise": ["scooter"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1158, "premise": ["rocket"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1159, "premise": ["submarine"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1160, "premise": ["carriage"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1161, "premise": ["rocket"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1162, "premise": ["sled"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1163, "premise": ["scooter"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1164, "premise": ["airplane"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1165, "premise": ["rocket"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1166, "premise": ["rocket"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1167, "premise": ["tractor"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1168, "premise": ["bicycle"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1169, "premise": ["rocket"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1170, "premise": ["tractor"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1171, "premise": ["sled"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1172, "premise": ["rocket"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1173, "premise": ["submarine"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1174, "premise": ["scooter"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1175, "premise": ["skateboard"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1176, "premise": ["skateboard"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1177, "premise": ["skateboard"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1178, "premise": ["sled"], "conclusion": "vehicle", "group": "low"}
+{"idx": 1179, "premise": ["falcon", "eagle"], "conclusion": "bird", "group": "high"}
+{"idx": 1180, "premise": ["blackbird", "crow"], "conclusion": "bird", "group": "high"}
+{"idx": 1181, "premise": ["parakeet", "canary"], "conclusion": "bird", "group": "high"}
+{"idx": 1182, "premise": ["turkey", "chicken"], "conclusion": "bird", "group": "high"}
+{"idx": 1183, "premise": ["parrot", "parakeet"], "conclusion": "bird", "group": "high"}
+{"idx": 1184, "premise": ["swan", "duck"], "conclusion": "bird", "group": "high"}
+{"idx": 1185, "premise": ["robin", "sparrow"], "conclusion": "bird", "group": "high"}
+{"idx": 1186, "premise": ["dove", "robin"], "conclusion": "bird", "group": "high"}
+{"idx": 1187, "premise": ["stork", "swan"], "conclusion": "bird", "group": "high"}
+{"idx": 1188, "premise": ["dove", "pigeon"], "conclusion": "bird", "group": "high"}
+{"idx": 1189, "premise": ["robin", "blackbird"], "conclusion": "bird", "group": "high"}
+{"idx": 1190, "premise": ["crow", "pigeon"], "conclusion": "bird", "group": "high"}
+{"idx": 1191, "premise": ["stork", "pelican"], "conclusion": "bird", "group": "high"}
+{"idx": 1192, "premise": ["pelican", "seagull"], "conclusion": "bird", "group": "high"}
+{"idx": 1193, "premise": ["eagle", "vulture"], "conclusion": "bird", "group": "high"}
+{"idx": 1194, "premise": ["vulture", "falcon"], "conclusion": "bird", "group": "high"}
+{"idx": 1195, "premise": ["dove", "canary"], "conclusion": "bird", "group": "high"}
+{"idx": 1196, "premise": ["pheasant", "duck"], "conclusion": "bird", "group": "high"}
+{"idx": 1197, "premise": ["sparrow", "blackbird"], "conclusion": "bird", "group": "high"}
+{"idx": 1198, "premise": ["crow", "sparrow"], "conclusion": "bird", "group": "high"}
+{"idx": 1199, "premise": ["canary", "robin"], "conclusion": "bird", "group": "high"}
+{"idx": 1200, "premise": ["falcon", "owl"], "conclusion": "bird", "group": "high"}
+{"idx": 1201, "premise": ["woodpecker", "robin"], "conclusion": "bird", "group": "high"}
+{"idx": 1202, "premise": ["seagull", "pigeon"], "conclusion": "bird", "group": "high"}
+{"idx": 1203, "premise": ["turkey", "pheasant"], "conclusion": "bird", "group": "high"}
+{"idx": 1204, "premise": ["dove", "swallow"], "conclusion": "bird", "group": "high"}
+{"idx": 1205, "premise": ["swallow", "robin"], "conclusion": "bird", "group": "high"}
+{"idx": 1206, "premise": ["canary", "sparrow"], "conclusion": "bird", "group": "high"}
+{"idx": 1207, "premise": ["parrot", "canary"], "conclusion": "bird", "group": "high"}
+{"idx": 1208, "premise": ["chicken", "duck"], "conclusion": "bird", "group": "high"}
+{"idx": 1209, "premise": ["pheasant", "chicken"], "conclusion": "bird", "group": "high"}
+{"idx": 1210, "premise": ["blackbird", "dove"], "conclusion": "bird", "group": "high"}
+{"idx": 1211, "premise": ["turkey", "duck"], "conclusion": "bird", "group": "high"}
+{"idx": 1212, "premise": ["crow", "robin"], "conclusion": "bird", "group": "high"}
+{"idx": 1213, "premise": ["swallow", "sparrow"], "conclusion": "bird", "group": "high"}
+{"idx": 1214, "premise": ["crow", "vulture"], "conclusion": "bird", "group": "high"}
+{"idx": 1215, "premise": ["sparrow", "pigeon"], "conclusion": "bird", "group": "high"}
+{"idx": 1216, "premise": ["peacock", "turkey"], "conclusion": "bird", "group": "high"}
+{"idx": 1217, "premise": ["robin", "parakeet"], "conclusion": "bird", "group": "high"}
+{"idx": 1218, "premise": ["dove", "sparrow"], "conclusion": "bird", "group": "high"}
+{"idx": 1219, "premise": ["falcon", "crow"], "conclusion": "bird", "group": "high"}
+{"idx": 1220, "premise": ["peacock", "swan"], "conclusion": "bird", "group": "high"}
+{"idx": 1221, "premise": ["woodpecker", "blackbird"], "conclusion": "bird", "group": "high"}
+{"idx": 1222, "premise": ["ostrich", "stork"], "conclusion": "bird", "group": "high"}
+{"idx": 1223, "premise": ["sparrow", "woodpecker"], "conclusion": "bird", "group": "high"}
+{"idx": 1224, "premise": ["duck", "pelican"], "conclusion": "bird", "group": "high"}
+{"idx": 1225, "premise": ["seagull", "duck"], "conclusion": "bird", "group": "high"}
+{"idx": 1226, "premise": ["owl", "eagle"], "conclusion": "bird", "group": "high"}
+{"idx": 1227, "premise": ["dove", "swan"], "conclusion": "bird", "group": "high"}
+{"idx": 1228, "premise": ["peacock", "ostrich"], "conclusion": "bird", "group": "high"}
+{"idx": 1229, "premise": ["robin", "pigeon"], "conclusion": "bird", "group": "high"}
+{"idx": 1230, "premise": ["swan", "seagull"], "conclusion": "bird", "group": "high"}
+{"idx": 1231, "premise": ["parakeet", "woodpecker"], "conclusion": "bird", "group": "high"}
+{"idx": 1232, "premise": ["canary", "swallow"], "conclusion": "bird", "group": "high"}
+{"idx": 1233, "premise": ["parakeet", "sparrow"], "conclusion": "bird", "group": "high"}
+{"idx": 1234, "premise": ["swan", "pelican"], "conclusion": "bird", "group": "high"}
+{"idx": 1235, "premise": ["blackbird", "canary"], "conclusion": "bird", "group": "high"}
+{"idx": 1236, "premise": ["swallow", "blackbird"], "conclusion": "bird", "group": "high"}
+{"idx": 1237, "premise": ["pigeon", "blackbird"], "conclusion": "bird", "group": "high"}
+{"idx": 1238, "premise": ["pigeon", "woodpecker"], "conclusion": "bird", "group": "high"}
+{"idx": 1239, "premise": ["crow", "swallow"], "conclusion": "bird", "group": "high"}
+{"idx": 1240, "premise": ["eagle", "crow"], "conclusion": "bird", "group": "high"}
+{"idx": 1241, "premise": ["vulture", "turkey"], "conclusion": "bird", "group": "high"}
+{"idx": 1242, "premise": ["canary", "pigeon"], "conclusion": "bird", "group": "high"}
+{"idx": 1243, "premise": ["dove", "seagull"], "conclusion": "bird", "group": "high"}
+{"idx": 1244, "premise": ["crow", "seagull"], "conclusion": "bird", "group": "high"}
+{"idx": 1245, "premise": ["pigeon", "swallow"], "conclusion": "bird", "group": "high"}
+{"idx": 1246, "premise": ["parakeet", "dove"], "conclusion": "bird", "group": "high"}
+{"idx": 1247, "premise": ["stork", "duck"], "conclusion": "bird", "group": "high"}
+{"idx": 1248, "premise": ["parakeet", "swallow"], "conclusion": "bird", "group": "high"}
+{"idx": 1249, "premise": ["dove", "stork"], "conclusion": "bird", "group": "high"}
+{"idx": 1250, "premise": ["pheasant", "peacock"], "conclusion": "bird", "group": "high"}
+{"idx": 1251, "premise": ["sparrow", "falcon"], "conclusion": "bird", "group": "high"}
+{"idx": 1252, "premise": ["blackbird", "parakeet"], "conclusion": "bird", "group": "high"}
+{"idx": 1253, "premise": ["parrot", "robin"], "conclusion": "bird", "group": "high"}
+{"idx": 1254, "premise": ["swallow", "woodpecker"], "conclusion": "bird", "group": "high"}
+{"idx": 1255, "premise": ["pheasant", "pigeon"], "conclusion": "bird", "group": "high"}
+{"idx": 1256, "premise": ["dove", "pheasant"], "conclusion": "bird", "group": "high"}
+{"idx": 1257, "premise": ["canary", "woodpecker"], "conclusion": "bird", "group": "high"}
+{"idx": 1258, "premise": ["falcon", "parrot"], "conclusion": "bird", "group": "high"}
+{"idx": 1259, "premise": ["seagull", "stork"], "conclusion": "bird", "group": "high"}
+{"idx": 1260, "premise": ["pigeon", "parakeet"], "conclusion": "bird", "group": "high"}
+{"idx": 1261, "premise": ["vulture", "seagull"], "conclusion": "bird", "group": "high"}
+{"idx": 1262, "premise": ["peacock", "stork"], "conclusion": "bird", "group": "high"}
+{"idx": 1263, "premise": ["blackbird", "falcon"], "conclusion": "bird", "group": "high"}
+{"idx": 1264, "premise": ["dove", "crow"], "conclusion": "bird", "group": "high"}
+{"idx": 1265, "premise": ["vulture", "owl"], "conclusion": "bird", "group": "high"}
+{"idx": 1266, "premise": ["eagle", "sparrow"], "conclusion": "bird", "group": "high"}
+{"idx": 1267, "premise": ["duck", "penguin"], "conclusion": "bird", "group": "high"}
+{"idx": 1268, "premise": ["dove", "woodpecker"], "conclusion": "bird", "group": "high"}
+{"idx": 1269, "premise": ["falcon", "dove"], "conclusion": "bird", "group": "high"}
+{"idx": 1270, "premise": ["seagull", "swallow"], "conclusion": "bird", "group": "high"}
+{"idx": 1271, "premise": ["vulture", "blackbird"], "conclusion": "bird", "group": "high"}
+{"idx": 1272, "premise": ["owl", "crow"], "conclusion": "bird", "group": "high"}
+{"idx": 1273, "premise": ["crow", "pheasant"], "conclusion": "bird", "group": "high"}
+{"idx": 1274, "premise": ["pheasant", "blackbird"], "conclusion": "bird", "group": "high"}
+{"idx": 1275, "premise": ["parrot", "crow"], "conclusion": "bird", "group": "high"}
+{"idx": 1276, "premise": ["swallow", "falcon"], "conclusion": "bird", "group": "high"}
+{"idx": 1277, "premise": ["pelican", "ostrich"], "conclusion": "bird", "group": "high"}
+{"idx": 1278, "premise": ["ostrich", "vulture"], "conclusion": "bird", "group": "high"}
+{"idx": 1279, "premise": ["crow", "canary"], "conclusion": "bird", "group": "high"}
+{"idx": 1280, "premise": ["falcon", "pheasant"], "conclusion": "bird", "group": "high"}
+{"idx": 1281, "premise": ["pheasant", "ostrich"], "conclusion": "bird", "group": "high"}
+{"idx": 1282, "premise": ["owl", "parrot"], "conclusion": "bird", "group": "high"}
+{"idx": 1283, "premise": ["swallow", "parrot"], "conclusion": "bird", "group": "high"}
+{"idx": 1284, "premise": ["pheasant", "seagull"], "conclusion": "bird", "group": "high"}
+{"idx": 1285, "premise": ["stork", "falcon"], "conclusion": "bird", "group": "high"}
+{"idx": 1286, "premise": ["seagull", "blackbird"], "conclusion": "bird", "group": "high"}
+{"idx": 1287, "premise": ["parrot", "peacock"], "conclusion": "bird", "group": "high"}
+{"idx": 1288, "premise": ["vulture", "pheasant"], "conclusion": "bird", "group": "high"}
+{"idx": 1289, "premise": ["ostrich", "turkey"], "conclusion": "bird", "group": "high"}
+{"idx": 1290, "premise": ["crow", "woodpecker"], "conclusion": "bird", "group": "high"}
+{"idx": 1291, "premise": ["pigeon", "chicken"], "conclusion": "bird", "group": "high"}
+{"idx": 1292, "premise": ["pheasant", "sparrow"], "conclusion": "bird", "group": "high"}
+{"idx": 1293, "premise": ["robin", "peacock"], "conclusion": "bird", "group": "high"}
+{"idx": 1294, "premise": ["eagle", "pigeon"], "conclusion": "bird", "group": "high"}
+{"idx": 1295, "premise": ["seagull", "falcon"], "conclusion": "bird", "group": "high"}
+{"idx": 1296, "premise": ["canary", "seagull"], "conclusion": "bird", "group": "high"}
+{"idx": 1297, "premise": ["pigeon", "duck"], "conclusion": "bird", "group": "high"}
+{"idx": 1298, "premise": ["eagle", "swallow"], "conclusion": "bird", "group": "high"}
+{"idx": 1299, "premise": ["eagle", "robin"], "conclusion": "bird", "group": "high"}
+{"idx": 1300, "premise": ["pelican", "peacock"], "conclusion": "bird", "group": "high"}
+{"idx": 1301, "premise": ["swan", "pheasant"], "conclusion": "bird", "group": "high"}
+{"idx": 1302, "premise": ["blackbird", "eagle"], "conclusion": "bird", "group": "high"}
+{"idx": 1303, "premise": ["pheasant", "robin"], "conclusion": "bird", "group": "high"}
+{"idx": 1304, "premise": ["peacock", "parakeet"], "conclusion": "bird", "group": "high"}
+{"idx": 1305, "premise": ["sparrow", "parrot"], "conclusion": "bird", "group": "high"}
+{"idx": 1306, "premise": ["woodpecker", "falcon"], "conclusion": "bird", "group": "high"}
+{"idx": 1307, "premise": ["canary", "pelican"], "conclusion": "bird", "group": "high"}
+{"idx": 1308, "premise": ["eagle", "seagull"], "conclusion": "bird", "group": "high"}
+{"idx": 1309, "premise": ["peacock", "blackbird"], "conclusion": "bird", "group": "high"}
+{"idx": 1310, "premise": ["ostrich", "swan"], "conclusion": "bird", "group": "high"}
+{"idx": 1311, "premise": ["swallow", "pheasant"], "conclusion": "bird", "group": "high"}
+{"idx": 1312, "premise": ["parrot", "dove"], "conclusion": "bird", "group": "high"}
+{"idx": 1313, "premise": ["swan", "chicken"], "conclusion": "bird", "group": "high"}
+{"idx": 1314, "premise": ["blackbird", "duck"], "conclusion": "bird", "group": "high"}
+{"idx": 1315, "premise": ["swallow", "owl"], "conclusion": "bird", "group": "high"}
+{"idx": 1316, "premise": ["falcon", "peacock"], "conclusion": "bird", "group": "high"}
+{"idx": 1317, "premise": ["woodpecker", "parrot"], "conclusion": "bird", "group": "high"}
+{"idx": 1318, "premise": ["stork", "swallow"], "conclusion": "bird", "group": "high"}
+{"idx": 1319, "premise": ["duck", "dove"], "conclusion": "bird", "group": "high"}
+{"idx": 1320, "premise": ["swallow", "vulture"], "conclusion": "bird", "group": "high"}
+{"idx": 1321, "premise": ["woodpecker", "pheasant"], "conclusion": "bird", "group": "high"}
+{"idx": 1322, "premise": ["pelican", "pheasant"], "conclusion": "bird", "group": "high"}
+{"idx": 1323, "premise": ["turkey", "owl"], "conclusion": "bird", "group": "high"}
+{"idx": 1324, "premise": ["woodpecker", "duck"], "conclusion": "bird", "group": "high"}
+{"idx": 1325, "premise": ["chicken", "eagle"], "conclusion": "bird", "group": "high"}
+{"idx": 1326, "premise": ["stork", "sparrow"], "conclusion": "bird", "group": "high"}
+{"idx": 1327, "premise": ["pigeon", "falcon"], "conclusion": "bird", "group": "high"}
+{"idx": 1328, "premise": ["vulture", "stork"], "conclusion": "bird", "group": "high"}
+{"idx": 1329, "premise": ["swallow", "duck"], "conclusion": "bird", "group": "high"}
+{"idx": 1330, "premise": ["owl", "robin"], "conclusion": "bird", "group": "high"}
+{"idx": 1331, "premise": ["woodpecker", "seagull"], "conclusion": "bird", "group": "high"}
+{"idx": 1332, "premise": ["pelican", "penguin"], "conclusion": "bird", "group": "high"}
+{"idx": 1333, "premise": ["parakeet", "crow"], "conclusion": "bird", "group": "high"}
+{"idx": 1334, "premise": ["stork", "pigeon"], "conclusion": "bird", "group": "high"}
+{"idx": 1335, "premise": ["chicken", "canary"], "conclusion": "bird", "group": "high"}
+{"idx": 1336, "premise": ["pelican", "pigeon"], "conclusion": "bird", "group": "high"}
+{"idx": 1337, "premise": ["sparrow", "vulture"], "conclusion": "bird", "group": "high"}
+{"idx": 1338, "premise": ["pheasant", "eagle"], "conclusion": "bird", "group": "high"}
+{"idx": 1339, "premise": ["woodpecker", "vulture"], "conclusion": "bird", "group": "high"}
+{"idx": 1340, "premise": ["pigeon", "swan"], "conclusion": "bird", "group": "high"}
+{"idx": 1341, "premise": ["falcon", "canary"], "conclusion": "bird", "group": "high"}
+{"idx": 1342, "premise": ["duck", "peacock"], "conclusion": "bird", "group": "high"}
+{"idx": 1343, "premise": ["woodpecker", "pelican"], "conclusion": "bird", "group": "high"}
+{"idx": 1344, "premise": ["sparrow", "chicken"], "conclusion": "bird", "group": "high"}
+{"idx": 1345, "premise": ["falcon", "pelican"], "conclusion": "bird", "group": "high"}
+{"idx": 1346, "premise": ["chicken", "dove"], "conclusion": "bird", "group": "high"}
+{"idx": 1347, "premise": ["swallow", "pelican"], "conclusion": "bird", "group": "high"}
+{"idx": 1348, "premise": ["canary", "stork"], "conclusion": "bird", "group": "high"}
+{"idx": 1349, "premise": ["chicken", "peacock"], "conclusion": "bird", "group": "high"}
+{"idx": 1350, "premise": ["blackbird", "chicken"], "conclusion": "bird", "group": "high"}
+{"idx": 1351, "premise": ["chicken", "falcon"], "conclusion": "bird", "group": "high"}
+{"idx": 1352, "premise": ["turkey", "swallow"], "conclusion": "bird", "group": "high"}
+{"idx": 1353, "premise": ["eagle", "swan"], "conclusion": "bird", "group": "high"}
+{"idx": 1354, "premise": ["stork", "pheasant"], "conclusion": "bird", "group": "high"}
+{"idx": 1355, "premise": ["pelican", "dove"], "conclusion": "bird", "group": "high"}
+{"idx": 1356, "premise": ["woodpecker", "owl"], "conclusion": "bird", "group": "high"}
+{"idx": 1357, "premise": ["vulture", "duck"], "conclusion": "bird", "group": "high"}
+{"idx": 1358, "premise": ["eagle", "dove"], "conclusion": "bird", "group": "high"}
+{"idx": 1359, "premise": ["seagull", "owl"], "conclusion": "bird", "group": "high"}
+{"idx": 1360, "premise": ["crow", "turkey"], "conclusion": "bird", "group": "high"}
+{"idx": 1361, "premise": ["parakeet", "seagull"], "conclusion": "bird", "group": "high"}
+{"idx": 1362, "premise": ["peacock", "dove"], "conclusion": "bird", "group": "high"}
+{"idx": 1363, "premise": ["duck", "canary"], "conclusion": "bird", "group": "high"}
+{"idx": 1364, "premise": ["swan", "swallow"], "conclusion": "bird", "group": "high"}
+{"idx": 1365, "premise": ["duck", "crow"], "conclusion": "bird", "group": "high"}
+{"idx": 1366, "premise": ["robin", "stork"], "conclusion": "bird", "group": "high"}
+{"idx": 1367, "premise": ["owl", "pigeon"], "conclusion": "bird", "group": "high"}
+{"idx": 1368, "premise": ["swan", "turkey"], "conclusion": "bird", "group": "high"}
+{"idx": 1369, "premise": ["eagle", "stork"], "conclusion": "bird", "group": "high"}
+{"idx": 1370, "premise": ["seagull", "sparrow"], "conclusion": "bird", "group": "high"}
+{"idx": 1371, "premise": ["blackbird", "parrot"], "conclusion": "bird", "group": "high"}
+{"idx": 1372, "premise": ["peacock", "swallow"], "conclusion": "bird", "group": "high"}
+{"idx": 1373, "premise": ["sparrow", "owl"], "conclusion": "bird", "group": "high"}
+{"idx": 1374, "premise": ["penguin", "swan"], "conclusion": "bird", "group": "high"}
+{"idx": 1375, "premise": ["peacock", "vulture"], "conclusion": "bird", "group": "high"}
+{"idx": 1376, "premise": ["peacock", "eagle"], "conclusion": "bird", "group": "high"}
+{"idx": 1377, "premise": ["swan", "robin"], "conclusion": "bird", "group": "high"}
+{"idx": 1378, "premise": ["owl", "canary"], "conclusion": "bird", "group": "high"}
+{"idx": 1379, "premise": ["pigeon", "peacock"], "conclusion": "bird", "group": "high"}
+{"idx": 1380, "premise": ["parrot", "pheasant"], "conclusion": "bird", "group": "high"}
+{"idx": 1381, "premise": ["woodpecker", "chicken"], "conclusion": "bird", "group": "high"}
+{"idx": 1382, "premise": ["vulture", "swan"], "conclusion": "bird", "group": "high"}
+{"idx": 1383, "premise": ["vulture", "robin"], "conclusion": "bird", "group": "high"}
+{"idx": 1384, "premise": ["stork", "blackbird"], "conclusion": "bird", "group": "high"}
+{"idx": 1385, "premise": ["stork", "owl"], "conclusion": "bird", "group": "high"}
+{"idx": 1386, "premise": ["pelican", "eagle"], "conclusion": "bird", "group": "high"}
+{"idx": 1387, "premise": ["swan", "blackbird"], "conclusion": "bird", "group": "high"}
+{"idx": 1388, "premise": ["duck", "falcon"], "conclusion": "bird", "group": "high"}
+{"idx": 1389, "premise": ["parrot", "pigeon"], "conclusion": "bird", "group": "high"}
+{"idx": 1390, "premise": ["parrot", "eagle"], "conclusion": "bird", "group": "high"}
+{"idx": 1391, "premise": ["sparrow", "duck"], "conclusion": "bird", "group": "high"}
+{"idx": 1392, "premise": ["eagle", "turkey"], "conclusion": "bird", "group": "high"}
+{"idx": 1393, "premise": ["turkey", "falcon"], "conclusion": "bird", "group": "high"}
+{"idx": 1394, "premise": ["duck", "owl"], "conclusion": "bird", "group": "high"}
+{"idx": 1395, "premise": ["blackbird", "owl"], "conclusion": "bird", "group": "high"}
+{"idx": 1396, "premise": ["chicken", "parakeet"], "conclusion": "bird", "group": "high"}
+{"idx": 1397, "premise": ["woodpecker", "stork"], "conclusion": "bird", "group": "high"}
+{"idx": 1398, "premise": ["pheasant", "parakeet"], "conclusion": "bird", "group": "high"}
+{"idx": 1399, "premise": ["chicken", "ostrich"], "conclusion": "bird", "group": "high"}
+{"idx": 1400, "premise": ["sparrow", "pelican"], "conclusion": "bird", "group": "high"}
+{"idx": 1401, "premise": ["penguin", "peacock"], "conclusion": "bird", "group": "high"}
+{"idx": 1402, "premise": ["chicken", "owl"], "conclusion": "bird", "group": "high"}
+{"idx": 1403, "premise": ["robin", "chicken"], "conclusion": "bird", "group": "high"}
+{"idx": 1404, "premise": ["robin", "duck"], "conclusion": "bird", "group": "high"}
+{"idx": 1405, "premise": ["canary", "pheasant"], "conclusion": "bird", "group": "high"}
+{"idx": 1406, "premise": ["vulture", "pelican"], "conclusion": "bird", "group": "high"}
+{"idx": 1407, "premise": ["robin", "seagull"], "conclusion": "bird", "group": "high"}
+{"idx": 1408, "premise": ["seagull", "peacock"], "conclusion": "bird", "group": "high"}
+{"idx": 1409, "premise": ["crow", "stork"], "conclusion": "bird", "group": "high"}
+{"idx": 1410, "premise": ["penguin", "stork"], "conclusion": "bird", "group": "high"}
+{"idx": 1411, "premise": ["woodpecker", "swan"], "conclusion": "bird", "group": "high"}
+{"idx": 1412, "premise": ["swallow", "chicken"], "conclusion": "bird", "group": "high"}
+{"idx": 1413, "premise": ["eagle", "woodpecker"], "conclusion": "bird", "group": "high"}
+{"idx": 1414, "premise": ["owl", "pelican"], "conclusion": "bird", "group": "high"}
+{"idx": 1415, "premise": ["seagull", "parrot"], "conclusion": "bird", "group": "high"}
+{"idx": 1416, "premise": ["robin", "falcon"], "conclusion": "bird", "group": "high"}
+{"idx": 1417, "premise": ["pelican", "blackbird"], "conclusion": "bird", "group": "high"}
+{"idx": 1418, "premise": ["duck", "parakeet"], "conclusion": "bird", "group": "high"}
+{"idx": 1419, "premise": ["parrot", "pelican"], "conclusion": "bird", "group": "high"}
+{"idx": 1420, "premise": ["penguin", "ostrich"], "conclusion": "bird", "group": "high"}
+{"idx": 1421, "premise": ["turkey", "pelican"], "conclusion": "bird", "group": "high"}
+{"idx": 1422, "premise": ["parakeet", "vulture"], "conclusion": "bird", "group": "high"}
+{"idx": 1423, "premise": ["chicken", "crow"], "conclusion": "bird", "group": "high"}
+{"idx": 1424, "premise": ["turkey", "stork"], "conclusion": "bird", "group": "high"}
+{"idx": 1425, "premise": ["vulture", "parrot"], "conclusion": "bird", "group": "high"}
+{"idx": 1426, "premise": ["chicken", "parrot"], "conclusion": "bird", "group": "high"}
+{"idx": 1427, "premise": ["duck", "parrot"], "conclusion": "bird", "group": "high"}
+{"idx": 1428, "premise": ["pelican", "robin"], "conclusion": "bird", "group": "high"}
+{"idx": 1429, "premise": ["swan", "sparrow"], "conclusion": "bird", "group": "high"}
+{"idx": 1430, "premise": ["parakeet", "stork"], "conclusion": "bird", "group": "high"}
+{"idx": 1431, "premise": ["pigeon", "turkey"], "conclusion": "bird", "group": "high"}
+{"idx": 1432, "premise": ["canary", "vulture"], "conclusion": "bird", "group": "high"}
+{"idx": 1433, "premise": ["pelican", "parakeet"], "conclusion": "bird", "group": "high"}
+{"idx": 1434, "premise": ["seagull", "penguin"], "conclusion": "bird", "group": "high"}
+{"idx": 1435, "premise": ["stork", "parrot"], "conclusion": "bird", "group": "high"}
+{"idx": 1436, "premise": ["swan", "owl"], "conclusion": "bird", "group": "high"}
+{"idx": 1437, "premise": ["penguin", "eagle"], "conclusion": "bird", "group": "high"}
+{"idx": 1438, "premise": ["parakeet", "swan"], "conclusion": "bird", "group": "high"}
+{"idx": 1439, "premise": ["canary", "swan"], "conclusion": "bird", "group": "high"}
+{"idx": 1440, "premise": ["seagull", "chicken"], "conclusion": "bird", "group": "high"}
+{"idx": 1441, "premise": ["pelican", "crow"], "conclusion": "bird", "group": "high"}
+{"idx": 1442, "premise": ["crow", "swan"], "conclusion": "bird", "group": "high"}
+{"idx": 1443, "premise": ["peacock", "sparrow"], "conclusion": "bird", "group": "high"}
+{"idx": 1444, "premise": ["owl", "parakeet"], "conclusion": "bird", "group": "high"}
+{"idx": 1445, "premise": ["eagle", "canary"], "conclusion": "bird", "group": "high"}
+{"idx": 1446, "premise": ["dove", "turkey"], "conclusion": "bird", "group": "high"}
+{"idx": 1447, "premise": ["peacock", "crow"], "conclusion": "bird", "group": "high"}
+{"idx": 1448, "premise": ["sparrow", "turkey"], "conclusion": "bird", "group": "high"}
+{"idx": 1449, "premise": ["penguin", "turkey"], "conclusion": "bird", "group": "high"}
+{"idx": 1450, "premise": ["penguin", "chicken"], "conclusion": "bird", "group": "high"}
+{"idx": 1451, "premise": ["owl", "dove"], "conclusion": "bird", "group": "high"}
+{"idx": 1452, "premise": ["penguin", "woodpecker"], "conclusion": "bird", "group": "high"}
+{"idx": 1453, "premise": ["falcon", "ostrich"], "conclusion": "bird", "group": "high"}
+{"idx": 1454, "premise": ["turkey", "blackbird"], "conclusion": "bird", "group": "high"}
+{"idx": 1455, "premise": ["peacock", "woodpecker"], "conclusion": "bird", "group": "high"}
+{"idx": 1456, "premise": ["swan", "falcon"], "conclusion": "bird", "group": "high"}
+{"idx": 1457, "premise": ["swan", "parrot"], "conclusion": "bird", "group": "high"}
+{"idx": 1458, "premise": ["ostrich", "dove"], "conclusion": "bird", "group": "high"}
+{"idx": 1459, "premise": ["falcon", "parakeet"], "conclusion": "bird", "group": "high"}
+{"idx": 1460, "premise": ["stork", "chicken"], "conclusion": "bird", "group": "high"}
+{"idx": 1461, "premise": ["owl", "ostrich"], "conclusion": "bird", "group": "high"}
+{"idx": 1462, "premise": ["pigeon", "vulture"], "conclusion": "bird", "group": "high"}
+{"idx": 1463, "premise": ["parakeet", "turkey"], "conclusion": "bird", "group": "high"}
+{"idx": 1464, "premise": ["ostrich", "eagle"], "conclusion": "bird", "group": "high"}
+{"idx": 1465, "premise": ["owl", "pheasant"], "conclusion": "bird", "group": "high"}
+{"idx": 1466, "premise": ["duck", "eagle"], "conclusion": "bird", "group": "high"}
+{"idx": 1467, "premise": ["dove", "vulture"], "conclusion": "bird", "group": "high"}
+{"idx": 1468, "premise": ["turkey", "woodpecker"], "conclusion": "bird", "group": "high"}
+{"idx": 1469, "premise": ["parakeet", "eagle"], "conclusion": "bird", "group": "high"}
+{"idx": 1470, "premise": ["canary", "penguin"], "conclusion": "bird", "group": "high"}
+{"idx": 1471, "premise": ["duck", "ostrich"], "conclusion": "bird", "group": "high"}
+{"idx": 1472, "premise": ["blackbird", "ostrich"], "conclusion": "bird", "group": "high"}
+{"idx": 1473, "premise": ["turkey", "robin"], "conclusion": "bird", "group": "high"}
+{"idx": 1474, "premise": ["ostrich", "crow"], "conclusion": "bird", "group": "high"}
+{"idx": 1475, "premise": ["pigeon", "ostrich"], "conclusion": "bird", "group": "high"}
+{"idx": 1476, "premise": ["vulture", "chicken"], "conclusion": "bird", "group": "high"}
+{"idx": 1477, "premise": ["turkey", "parrot"], "conclusion": "bird", "group": "high"}
+{"idx": 1478, "premise": ["ostrich", "canary"], "conclusion": "bird", "group": "high"}
+{"idx": 1479, "premise": ["canary", "turkey"], "conclusion": "bird", "group": "high"}
+{"idx": 1480, "premise": ["turkey", "seagull"], "conclusion": "bird", "group": "high"}
+{"idx": 1481, "premise": ["parrot", "penguin"], "conclusion": "bird", "group": "high"}
+{"idx": 1482, "premise": ["peacock", "canary"], "conclusion": "bird", "group": "high"}
+{"idx": 1483, "premise": ["owl", "penguin"], "conclusion": "bird", "group": "high"}
+{"idx": 1484, "premise": ["penguin", "blackbird"], "conclusion": "bird", "group": "high"}
+{"idx": 1485, "premise": ["ostrich", "sparrow"], "conclusion": "bird", "group": "high"}
+{"idx": 1486, "premise": ["parakeet", "ostrich"], "conclusion": "bird", "group": "high"}
+{"idx": 1487, "premise": ["pigeon", "penguin"], "conclusion": "bird", "group": "high"}
+{"idx": 1488, "premise": ["penguin", "parakeet"], "conclusion": "bird", "group": "high"}
+{"idx": 1489, "premise": ["robin", "ostrich"], "conclusion": "bird", "group": "high"}
+{"idx": 1490, "premise": ["ostrich", "seagull"], "conclusion": "bird", "group": "high"}
+{"idx": 1491, "premise": ["penguin", "swallow"], "conclusion": "bird", "group": "high"}
+{"idx": 1492, "premise": ["parrot", "ostrich"], "conclusion": "bird", "group": "high"}
+{"idx": 1493, "premise": ["penguin", "vulture"], "conclusion": "bird", "group": "high"}
+{"idx": 1494, "premise": ["falcon", "penguin"], "conclusion": "bird", "group": "high"}
+{"idx": 1495, "premise": ["ostrich", "swallow"], "conclusion": "bird", "group": "high"}
+{"idx": 1496, "premise": ["penguin", "dove"], "conclusion": "bird", "group": "high"}
+{"idx": 1497, "premise": ["owl", "peacock"], "conclusion": "bird", "group": "high"}
+{"idx": 1498, "premise": ["pheasant", "penguin"], "conclusion": "bird", "group": "high"}
+{"idx": 1499, "premise": ["ostrich", "woodpecker"], "conclusion": "bird", "group": "high"}
+{"idx": 1500, "premise": ["robin", "penguin"], "conclusion": "bird", "group": "high"}
+{"idx": 1501, "premise": ["pelican", "chicken"], "conclusion": "bird", "group": "high"}
+{"idx": 1502, "premise": ["sparrow", "penguin"], "conclusion": "bird", "group": "high"}
+{"idx": 1503, "premise": ["crow", "penguin"], "conclusion": "bird", "group": "high"}
+{"idx": 1504, "premise": ["gloves", "mittens"], "conclusion": "clothing", "group": "high"}
+{"idx": 1505, "premise": ["coat", "jacket"], "conclusion": "clothing", "group": "high"}
+{"idx": 1506, "premise": ["sweater", "sweatshirt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1507, "premise": ["suit", "tuxedo"], "conclusion": "clothing", "group": "high"}
+{"idx": 1508, "premise": ["sweater", "coat"], "conclusion": "clothing", "group": "high"}
+{"idx": 1509, "premise": ["panties", "bra"], "conclusion": "clothing", "group": "high"}
+{"idx": 1510, "premise": ["dress", "skirt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1511, "premise": ["jacket", "sweatshirt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1512, "premise": ["jacket", "sweater"], "conclusion": "clothing", "group": "high"}
+{"idx": 1513, "premise": ["sweatshirt", "coat"], "conclusion": "clothing", "group": "high"}
+{"idx": 1514, "premise": ["tie", "scarf"], "conclusion": "clothing", "group": "high"}
+{"idx": 1515, "premise": ["dress", "tuxedo"], "conclusion": "clothing", "group": "high"}
+{"idx": 1516, "premise": ["jacket", "suit"], "conclusion": "clothing", "group": "high"}
+{"idx": 1517, "premise": ["suit", "tie"], "conclusion": "clothing", "group": "high"}
+{"idx": 1518, "premise": ["sweater", "blouse"], "conclusion": "clothing", "group": "high"}
+{"idx": 1519, "premise": ["dress", "suit"], "conclusion": "clothing", "group": "high"}
+{"idx": 1520, "premise": ["jacket", "tuxedo"], "conclusion": "clothing", "group": "high"}
+{"idx": 1521, "premise": ["suit", "coat"], "conclusion": "clothing", "group": "high"}
+{"idx": 1522, "premise": ["tuxedo", "tie"], "conclusion": "clothing", "group": "high"}
+{"idx": 1523, "premise": ["boots", "socks"], "conclusion": "clothing", "group": "high"}
+{"idx": 1524, "premise": ["blouse", "dress"], "conclusion": "clothing", "group": "high"}
+{"idx": 1525, "premise": ["gloves", "scarf"], "conclusion": "clothing", "group": "high"}
+{"idx": 1526, "premise": ["tuxedo", "coat"], "conclusion": "clothing", "group": "high"}
+{"idx": 1527, "premise": ["hat", "mittens"], "conclusion": "clothing", "group": "high"}
+{"idx": 1528, "premise": ["blouse", "jacket"], "conclusion": "clothing", "group": "high"}
+{"idx": 1529, "premise": ["scarf", "mittens"], "conclusion": "clothing", "group": "high"}
+{"idx": 1530, "premise": ["skirt", "pants"], "conclusion": "clothing", "group": "high"}
+{"idx": 1531, "premise": ["pants", "suit"], "conclusion": "clothing", "group": "high"}
+{"idx": 1532, "premise": ["hat", "scarf"], "conclusion": "clothing", "group": "high"}
+{"idx": 1533, "premise": ["skirt", "blouse"], "conclusion": "clothing", "group": "high"}
+{"idx": 1534, "premise": ["belt", "tie"], "conclusion": "clothing", "group": "high"}
+{"idx": 1535, "premise": ["panties", "pants"], "conclusion": "clothing", "group": "high"}
+{"idx": 1536, "premise": ["gloves", "hat"], "conclusion": "clothing", "group": "high"}
+{"idx": 1537, "premise": ["blouse", "bra"], "conclusion": "clothing", "group": "high"}
+{"idx": 1538, "premise": ["mittens", "socks"], "conclusion": "clothing", "group": "high"}
+{"idx": 1539, "premise": ["coat", "gloves"], "conclusion": "clothing", "group": "high"}
+{"idx": 1540, "premise": ["coat", "mittens"], "conclusion": "clothing", "group": "high"}
+{"idx": 1541, "premise": ["sweater", "scarf"], "conclusion": "clothing", "group": "high"}
+{"idx": 1542, "premise": ["panties", "socks"], "conclusion": "clothing", "group": "high"}
+{"idx": 1543, "premise": ["sweatshirt", "blouse"], "conclusion": "clothing", "group": "high"}
+{"idx": 1544, "premise": ["socks", "gloves"], "conclusion": "clothing", "group": "high"}
+{"idx": 1545, "premise": ["suit", "blouse"], "conclusion": "clothing", "group": "high"}
+{"idx": 1546, "premise": ["scarf", "jacket"], "conclusion": "clothing", "group": "high"}
+{"idx": 1547, "premise": ["bra", "socks"], "conclusion": "clothing", "group": "high"}
+{"idx": 1548, "premise": ["pants", "tuxedo"], "conclusion": "clothing", "group": "high"}
+{"idx": 1549, "premise": ["belt", "scarf"], "conclusion": "clothing", "group": "high"}
+{"idx": 1550, "premise": ["belt", "pants"], "conclusion": "clothing", "group": "high"}
+{"idx": 1551, "premise": ["scarf", "coat"], "conclusion": "clothing", "group": "high"}
+{"idx": 1552, "premise": ["pants", "pajamas"], "conclusion": "clothing", "group": "high"}
+{"idx": 1553, "premise": ["sweater", "hat"], "conclusion": "clothing", "group": "high"}
+{"idx": 1554, "premise": ["mittens", "sweater"], "conclusion": "clothing", "group": "high"}
+{"idx": 1555, "premise": ["jacket", "tie"], "conclusion": "clothing", "group": "high"}
+{"idx": 1556, "premise": ["coat", "hat"], "conclusion": "clothing", "group": "high"}
+{"idx": 1557, "premise": ["panties", "pajamas"], "conclusion": "clothing", "group": "high"}
+{"idx": 1558, "premise": ["pants", "dress"], "conclusion": "clothing", "group": "high"}
+{"idx": 1559, "premise": ["pajamas", "sweatshirt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1560, "premise": ["panties", "skirt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1561, "premise": ["blouse", "coat"], "conclusion": "clothing", "group": "high"}
+{"idx": 1562, "premise": ["gloves", "boots"], "conclusion": "clothing", "group": "high"}
+{"idx": 1563, "premise": ["dress", "bra"], "conclusion": "clothing", "group": "high"}
+{"idx": 1564, "premise": ["belt", "suit"], "conclusion": "clothing", "group": "high"}
+{"idx": 1565, "premise": ["mittens", "boots"], "conclusion": "clothing", "group": "high"}
+{"idx": 1566, "premise": ["hat", "belt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1567, "premise": ["scarf", "socks"], "conclusion": "clothing", "group": "high"}
+{"idx": 1568, "premise": ["gloves", "jacket"], "conclusion": "clothing", "group": "high"}
+{"idx": 1569, "premise": ["blouse", "pajamas"], "conclusion": "clothing", "group": "high"}
+{"idx": 1570, "premise": ["boots", "pants"], "conclusion": "clothing", "group": "high"}
+{"idx": 1571, "premise": ["tuxedo", "blouse"], "conclusion": "clothing", "group": "high"}
+{"idx": 1572, "premise": ["hat", "jacket"], "conclusion": "clothing", "group": "high"}
+{"idx": 1573, "premise": ["skirt", "suit"], "conclusion": "clothing", "group": "high"}
+{"idx": 1574, "premise": ["pajamas", "sweater"], "conclusion": "clothing", "group": "high"}
+{"idx": 1575, "premise": ["tie", "socks"], "conclusion": "clothing", "group": "high"}
+{"idx": 1576, "premise": ["sweatshirt", "scarf"], "conclusion": "clothing", "group": "high"}
+{"idx": 1577, "premise": ["sweatshirt", "gloves"], "conclusion": "clothing", "group": "high"}
+{"idx": 1578, "premise": ["tie", "coat"], "conclusion": "clothing", "group": "high"}
+{"idx": 1579, "premise": ["pants", "jacket"], "conclusion": "clothing", "group": "high"}
+{"idx": 1580, "premise": ["boots", "scarf"], "conclusion": "clothing", "group": "high"}
+{"idx": 1581, "premise": ["hat", "boots"], "conclusion": "clothing", "group": "high"}
+{"idx": 1582, "premise": ["pants", "blouse"], "conclusion": "clothing", "group": "high"}
+{"idx": 1583, "premise": ["bra", "skirt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1584, "premise": ["socks", "pants"], "conclusion": "clothing", "group": "high"}
+{"idx": 1585, "premise": ["mittens", "jacket"], "conclusion": "clothing", "group": "high"}
+{"idx": 1586, "premise": ["tie", "gloves"], "conclusion": "clothing", "group": "high"}
+{"idx": 1587, "premise": ["boots", "belt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1588, "premise": ["pajamas", "bra"], "conclusion": "clothing", "group": "high"}
+{"idx": 1589, "premise": ["coat", "dress"], "conclusion": "clothing", "group": "high"}
+{"idx": 1590, "premise": ["tie", "hat"], "conclusion": "clothing", "group": "high"}
+{"idx": 1591, "premise": ["pants", "sweater"], "conclusion": "clothing", "group": "high"}
+{"idx": 1592, "premise": ["sweater", "gloves"], "conclusion": "clothing", "group": "high"}
+{"idx": 1593, "premise": ["jacket", "dress"], "conclusion": "clothing", "group": "high"}
+{"idx": 1594, "premise": ["socks", "hat"], "conclusion": "clothing", "group": "high"}
+{"idx": 1595, "premise": ["jacket", "boots"], "conclusion": "clothing", "group": "high"}
+{"idx": 1596, "premise": ["sweatshirt", "skirt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1597, "premise": ["coat", "boots"], "conclusion": "clothing", "group": "high"}
+{"idx": 1598, "premise": ["sweater", "suit"], "conclusion": "clothing", "group": "high"}
+{"idx": 1599, "premise": ["dress", "tie"], "conclusion": "clothing", "group": "high"}
+{"idx": 1600, "premise": ["pajamas", "suit"], "conclusion": "clothing", "group": "high"}
+{"idx": 1601, "premise": ["mittens", "sweatshirt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1602, "premise": ["panties", "dress"], "conclusion": "clothing", "group": "high"}
+{"idx": 1603, "premise": ["bra", "sweatshirt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1604, "premise": ["belt", "socks"], "conclusion": "clothing", "group": "high"}
+{"idx": 1605, "premise": ["pants", "sweatshirt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1606, "premise": ["coat", "pants"], "conclusion": "clothing", "group": "high"}
+{"idx": 1607, "premise": ["dress", "sweater"], "conclusion": "clothing", "group": "high"}
+{"idx": 1608, "premise": ["socks", "sweater"], "conclusion": "clothing", "group": "high"}
+{"idx": 1609, "premise": ["sweatshirt", "suit"], "conclusion": "clothing", "group": "high"}
+{"idx": 1610, "premise": ["tuxedo", "skirt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1611, "premise": ["skirt", "sweater"], "conclusion": "clothing", "group": "high"}
+{"idx": 1612, "premise": ["jacket", "skirt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1613, "premise": ["bra", "sweater"], "conclusion": "clothing", "group": "high"}
+{"idx": 1614, "premise": ["dress", "belt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1615, "premise": ["belt", "tuxedo"], "conclusion": "clothing", "group": "high"}
+{"idx": 1616, "premise": ["scarf", "blouse"], "conclusion": "clothing", "group": "high"}
+{"idx": 1617, "premise": ["sweatshirt", "hat"], "conclusion": "clothing", "group": "high"}
+{"idx": 1618, "premise": ["tie", "blouse"], "conclusion": "clothing", "group": "high"}
+{"idx": 1619, "premise": ["bra", "belt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1620, "premise": ["gloves", "belt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1621, "premise": ["dress", "sweatshirt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1622, "premise": ["socks", "sweatshirt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1623, "premise": ["suit", "gloves"], "conclusion": "clothing", "group": "high"}
+{"idx": 1624, "premise": ["mittens", "belt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1625, "premise": ["pajamas", "socks"], "conclusion": "clothing", "group": "high"}
+{"idx": 1626, "premise": ["mittens", "tie"], "conclusion": "clothing", "group": "high"}
+{"idx": 1627, "premise": ["tuxedo", "gloves"], "conclusion": "clothing", "group": "high"}
+{"idx": 1628, "premise": ["tuxedo", "sweater"], "conclusion": "clothing", "group": "high"}
+{"idx": 1629, "premise": ["jacket", "belt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1630, "premise": ["panties", "blouse"], "conclusion": "clothing", "group": "high"}
+{"idx": 1631, "premise": ["socks", "coat"], "conclusion": "clothing", "group": "high"}
+{"idx": 1632, "premise": ["coat", "belt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1633, "premise": ["pajamas", "tuxedo"], "conclusion": "clothing", "group": "high"}
+{"idx": 1634, "premise": ["belt", "skirt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1635, "premise": ["jacket", "socks"], "conclusion": "clothing", "group": "high"}
+{"idx": 1636, "premise": ["scarf", "skirt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1637, "premise": ["tuxedo", "socks"], "conclusion": "clothing", "group": "high"}
+{"idx": 1638, "premise": ["suit", "panties"], "conclusion": "clothing", "group": "high"}
+{"idx": 1639, "premise": ["blouse", "belt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1640, "premise": ["bra", "pants"], "conclusion": "clothing", "group": "high"}
+{"idx": 1641, "premise": ["sweatshirt", "tuxedo"], "conclusion": "clothing", "group": "high"}
+{"idx": 1642, "premise": ["tuxedo", "hat"], "conclusion": "clothing", "group": "high"}
+{"idx": 1643, "premise": ["hat", "pants"], "conclusion": "clothing", "group": "high"}
+{"idx": 1644, "premise": ["hat", "dress"], "conclusion": "clothing", "group": "high"}
+{"idx": 1645, "premise": ["boots", "skirt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1646, "premise": ["socks", "blouse"], "conclusion": "clothing", "group": "high"}
+{"idx": 1647, "premise": ["pajamas", "dress"], "conclusion": "clothing", "group": "high"}
+{"idx": 1648, "premise": ["coat", "bra"], "conclusion": "clothing", "group": "high"}
+{"idx": 1649, "premise": ["hat", "panties"], "conclusion": "clothing", "group": "high"}
+{"idx": 1650, "premise": ["scarf", "pants"], "conclusion": "clothing", "group": "high"}
+{"idx": 1651, "premise": ["dress", "scarf"], "conclusion": "clothing", "group": "high"}
+{"idx": 1652, "premise": ["pants", "mittens"], "conclusion": "clothing", "group": "high"}
+{"idx": 1653, "premise": ["skirt", "coat"], "conclusion": "clothing", "group": "high"}
+{"idx": 1654, "premise": ["belt", "panties"], "conclusion": "clothing", "group": "high"}
+{"idx": 1655, "premise": ["bra", "tie"], "conclusion": "clothing", "group": "high"}
+{"idx": 1656, "premise": ["tie", "panties"], "conclusion": "clothing", "group": "high"}
+{"idx": 1657, "premise": ["tie", "skirt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1658, "premise": ["sweater", "tie"], "conclusion": "clothing", "group": "high"}
+{"idx": 1659, "premise": ["coat", "pajamas"], "conclusion": "clothing", "group": "high"}
+{"idx": 1660, "premise": ["gloves", "bra"], "conclusion": "clothing", "group": "high"}
+{"idx": 1661, "premise": ["bra", "scarf"], "conclusion": "clothing", "group": "high"}
+{"idx": 1662, "premise": ["hat", "bra"], "conclusion": "clothing", "group": "high"}
+{"idx": 1663, "premise": ["skirt", "pajamas"], "conclusion": "clothing", "group": "high"}
+{"idx": 1664, "premise": ["scarf", "suit"], "conclusion": "clothing", "group": "high"}
+{"idx": 1665, "premise": ["pants", "tie"], "conclusion": "clothing", "group": "high"}
+{"idx": 1666, "premise": ["panties", "mittens"], "conclusion": "clothing", "group": "high"}
+{"idx": 1667, "premise": ["mittens", "bra"], "conclusion": "clothing", "group": "high"}
+{"idx": 1668, "premise": ["belt", "sweatshirt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1669, "premise": ["boots", "sweater"], "conclusion": "clothing", "group": "high"}
+{"idx": 1670, "premise": ["blouse", "hat"], "conclusion": "clothing", "group": "high"}
+{"idx": 1671, "premise": ["pajamas", "jacket"], "conclusion": "clothing", "group": "high"}
+{"idx": 1672, "premise": ["tuxedo", "scarf"], "conclusion": "clothing", "group": "high"}
+{"idx": 1673, "premise": ["skirt", "socks"], "conclusion": "clothing", "group": "high"}
+{"idx": 1674, "premise": ["pajamas", "tie"], "conclusion": "clothing", "group": "high"}
+{"idx": 1675, "premise": ["sweatshirt", "panties"], "conclusion": "clothing", "group": "high"}
+{"idx": 1676, "premise": ["jacket", "bra"], "conclusion": "clothing", "group": "high"}
+{"idx": 1677, "premise": ["panties", "scarf"], "conclusion": "clothing", "group": "high"}
+{"idx": 1678, "premise": ["sweater", "panties"], "conclusion": "clothing", "group": "high"}
+{"idx": 1679, "premise": ["mittens", "dress"], "conclusion": "clothing", "group": "high"}
+{"idx": 1680, "premise": ["boots", "tuxedo"], "conclusion": "clothing", "group": "high"}
+{"idx": 1681, "premise": ["skirt", "hat"], "conclusion": "clothing", "group": "high"}
+{"idx": 1682, "premise": ["boots", "sweatshirt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1683, "premise": ["blouse", "gloves"], "conclusion": "clothing", "group": "high"}
+{"idx": 1684, "premise": ["skirt", "mittens"], "conclusion": "clothing", "group": "high"}
+{"idx": 1685, "premise": ["dress", "socks"], "conclusion": "clothing", "group": "high"}
+{"idx": 1686, "premise": ["belt", "pajamas"], "conclusion": "clothing", "group": "high"}
+{"idx": 1687, "premise": ["blouse", "mittens"], "conclusion": "clothing", "group": "high"}
+{"idx": 1688, "premise": ["socks", "suit"], "conclusion": "clothing", "group": "high"}
+{"idx": 1689, "premise": ["pajamas", "mittens"], "conclusion": "clothing", "group": "high"}
+{"idx": 1690, "premise": ["suit", "hat"], "conclusion": "clothing", "group": "high"}
+{"idx": 1691, "premise": ["gloves", "panties"], "conclusion": "clothing", "group": "high"}
+{"idx": 1692, "premise": ["bra", "tuxedo"], "conclusion": "clothing", "group": "high"}
+{"idx": 1693, "premise": ["boots", "suit"], "conclusion": "clothing", "group": "high"}
+{"idx": 1694, "premise": ["belt", "sweater"], "conclusion": "clothing", "group": "high"}
+{"idx": 1695, "premise": ["bra", "boots"], "conclusion": "clothing", "group": "high"}
+{"idx": 1696, "premise": ["tie", "sweatshirt"], "conclusion": "clothing", "group": "high"}
+{"idx": 1697, "premise": ["skirt", "gloves"], "conclusion": "clothing", "group": "high"}
+{"idx": 1698, "premise": ["mittens", "suit"], "conclusion": "clothing", "group": "high"}
+{"idx": 1699, "premise": ["bra", "suit"], "conclusion": "clothing", "group": "high"}
+{"idx": 1700, "premise": ["blouse", "boots"], "conclusion": "clothing", "group": "high"}
+{"idx": 1701, "premise": ["gloves", "dress"], "conclusion": "clothing", "group": "high"}
+{"idx": 1702, "premise": ["boots", "tie"], "conclusion": "clothing", "group": "high"}
+{"idx": 1703, "premise": ["tuxedo", "panties"], "conclusion": "clothing", "group": "high"}
+{"idx": 1704, "premise": ["gloves", "pants"], "conclusion": "clothing", "group": "high"}
+{"idx": 1705, "premise": ["boots", "panties"], "conclusion": "clothing", "group": "high"}
+{"idx": 1706, "premise": ["coat", "panties"], "conclusion": "clothing", "group": "high"}
+{"idx": 1707, "premise": ["gloves", "pajamas"], "conclusion": "clothing", "group": "high"}
+{"idx": 1708, "premise": ["scarf", "pajamas"], "conclusion": "clothing", "group": "high"}
+{"idx": 1709, "premise": ["panties", "jacket"], "conclusion": "clothing", "group": "high"}
+{"idx": 1710, "premise": ["pajamas", "boots"], "conclusion": "clothing", "group": "high"}
+{"idx": 1711, "premise": ["dress", "boots"], "conclusion": "clothing", "group": "high"}
+{"idx": 1712, "premise": ["hat", "pajamas"], "conclusion": "clothing", "group": "high"}
+{"idx": 1713, "premise": ["mittens", "tuxedo"], "conclusion": "clothing", "group": "high"}
+{"idx": 1714, "premise": ["melon", "watermelon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1715, "premise": ["melon", "honeydew"], "conclusion": "fruit", "group": "high"}
+{"idx": 1716, "premise": ["honeydew", "watermelon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1717, "premise": ["apricot", "peach"], "conclusion": "fruit", "group": "high"}
+{"idx": 1718, "premise": ["lemon", "grapefruit"], "conclusion": "fruit", "group": "high"}
+{"idx": 1719, "premise": ["pear", "apple"], "conclusion": "fruit", "group": "high"}
+{"idx": 1720, "premise": ["grapefruit", "tangerine"], "conclusion": "fruit", "group": "high"}
+{"idx": 1721, "premise": ["cherry", "blueberry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1722, "premise": ["blueberry", "strawberry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1723, "premise": ["tangerine", "lemon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1724, "premise": ["pear", "peach"], "conclusion": "fruit", "group": "high"}
+{"idx": 1725, "premise": ["cherry", "grapes"], "conclusion": "fruit", "group": "high"}
+{"idx": 1726, "premise": ["plum", "peach"], "conclusion": "fruit", "group": "high"}
+{"idx": 1727, "premise": ["grapes", "blueberry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1728, "premise": ["apricot", "pear"], "conclusion": "fruit", "group": "high"}
+{"idx": 1729, "premise": ["peach", "tangerine"], "conclusion": "fruit", "group": "high"}
+{"idx": 1730, "premise": ["strawberry", "cherry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1731, "premise": ["plum", "date"], "conclusion": "fruit", "group": "high"}
+{"idx": 1732, "premise": ["pear", "plum"], "conclusion": "fruit", "group": "high"}
+{"idx": 1733, "premise": ["apricot", "plum"], "conclusion": "fruit", "group": "high"}
+{"idx": 1734, "premise": ["apricot", "tangerine"], "conclusion": "fruit", "group": "high"}
+{"idx": 1735, "premise": ["apple", "apricot"], "conclusion": "fruit", "group": "high"}
+{"idx": 1736, "premise": ["plum", "apple"], "conclusion": "fruit", "group": "high"}
+{"idx": 1737, "premise": ["melon", "grapefruit"], "conclusion": "fruit", "group": "high"}
+{"idx": 1738, "premise": ["honeydew", "grapefruit"], "conclusion": "fruit", "group": "high"}
+{"idx": 1739, "premise": ["plum", "cherry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1740, "premise": ["peach", "apple"], "conclusion": "fruit", "group": "high"}
+{"idx": 1741, "premise": ["blueberry", "plum"], "conclusion": "fruit", "group": "high"}
+{"idx": 1742, "premise": ["plum", "grapes"], "conclusion": "fruit", "group": "high"}
+{"idx": 1743, "premise": ["pomegranate", "cherry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1744, "premise": ["plum", "pomegranate"], "conclusion": "fruit", "group": "high"}
+{"idx": 1745, "premise": ["strawberry", "grapes"], "conclusion": "fruit", "group": "high"}
+{"idx": 1746, "premise": ["date", "grapes"], "conclusion": "fruit", "group": "high"}
+{"idx": 1747, "premise": ["cherry", "date"], "conclusion": "fruit", "group": "high"}
+{"idx": 1748, "premise": ["pomegranate", "apple"], "conclusion": "fruit", "group": "high"}
+{"idx": 1749, "premise": ["coconut", "pineapple"], "conclusion": "fruit", "group": "high"}
+{"idx": 1750, "premise": ["pomegranate", "tangerine"], "conclusion": "fruit", "group": "high"}
+{"idx": 1751, "premise": ["grapefruit", "pomegranate"], "conclusion": "fruit", "group": "high"}
+{"idx": 1752, "premise": ["grapefruit", "watermelon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1753, "premise": ["tangerine", "pear"], "conclusion": "fruit", "group": "high"}
+{"idx": 1754, "premise": ["strawberry", "pomegranate"], "conclusion": "fruit", "group": "high"}
+{"idx": 1755, "premise": ["pineapple", "watermelon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1756, "premise": ["date", "apricot"], "conclusion": "fruit", "group": "high"}
+{"idx": 1757, "premise": ["tangerine", "plum"], "conclusion": "fruit", "group": "high"}
+{"idx": 1758, "premise": ["grapefruit", "pineapple"], "conclusion": "fruit", "group": "high"}
+{"idx": 1759, "premise": ["pineapple", "melon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1760, "premise": ["peach", "grapefruit"], "conclusion": "fruit", "group": "high"}
+{"idx": 1761, "premise": ["lemon", "peach"], "conclusion": "fruit", "group": "high"}
+{"idx": 1762, "premise": ["lemon", "apricot"], "conclusion": "fruit", "group": "high"}
+{"idx": 1763, "premise": ["apricot", "pomegranate"], "conclusion": "fruit", "group": "high"}
+{"idx": 1764, "premise": ["tangerine", "apple"], "conclusion": "fruit", "group": "high"}
+{"idx": 1765, "premise": ["honeydew", "pineapple"], "conclusion": "fruit", "group": "high"}
+{"idx": 1766, "premise": ["peach", "melon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1767, "premise": ["pineapple", "tangerine"], "conclusion": "fruit", "group": "high"}
+{"idx": 1768, "premise": ["grapes", "olive"], "conclusion": "fruit", "group": "high"}
+{"idx": 1769, "premise": ["grapefruit", "apricot"], "conclusion": "fruit", "group": "high"}
+{"idx": 1770, "premise": ["pomegranate", "grapes"], "conclusion": "fruit", "group": "high"}
+{"idx": 1771, "premise": ["plum", "strawberry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1772, "premise": ["melon", "pomegranate"], "conclusion": "fruit", "group": "high"}
+{"idx": 1773, "premise": ["pomegranate", "pineapple"], "conclusion": "fruit", "group": "high"}
+{"idx": 1774, "premise": ["grapes", "grapefruit"], "conclusion": "fruit", "group": "high"}
+{"idx": 1775, "premise": ["peach", "pomegranate"], "conclusion": "fruit", "group": "high"}
+{"idx": 1776, "premise": ["plum", "lemon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1777, "premise": ["cherry", "apricot"], "conclusion": "fruit", "group": "high"}
+{"idx": 1778, "premise": ["cherry", "olive"], "conclusion": "fruit", "group": "high"}
+{"idx": 1779, "premise": ["date", "olive"], "conclusion": "fruit", "group": "high"}
+{"idx": 1780, "premise": ["honeydew", "pomegranate"], "conclusion": "fruit", "group": "high"}
+{"idx": 1781, "premise": ["melon", "coconut"], "conclusion": "fruit", "group": "high"}
+{"idx": 1782, "premise": ["apricot", "strawberry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1783, "premise": ["pineapple", "apple"], "conclusion": "fruit", "group": "high"}
+{"idx": 1784, "premise": ["melon", "tangerine"], "conclusion": "fruit", "group": "high"}
+{"idx": 1785, "premise": ["apple", "grapes"], "conclusion": "fruit", "group": "high"}
+{"idx": 1786, "premise": ["apple", "cherry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1787, "premise": ["lemon", "pineapple"], "conclusion": "fruit", "group": "high"}
+{"idx": 1788, "premise": ["lemon", "pear"], "conclusion": "fruit", "group": "high"}
+{"idx": 1789, "premise": ["honeydew", "tangerine"], "conclusion": "fruit", "group": "high"}
+{"idx": 1790, "premise": ["watermelon", "strawberry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1791, "premise": ["pear", "honeydew"], "conclusion": "fruit", "group": "high"}
+{"idx": 1792, "premise": ["pear", "cherry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1793, "premise": ["pear", "pomegranate"], "conclusion": "fruit", "group": "high"}
+{"idx": 1794, "premise": ["peach", "cherry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1795, "premise": ["apple", "blueberry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1796, "premise": ["peach", "strawberry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1797, "premise": ["pomegranate", "watermelon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1798, "premise": ["honeydew", "coconut"], "conclusion": "fruit", "group": "high"}
+{"idx": 1799, "premise": ["apple", "grapefruit"], "conclusion": "fruit", "group": "high"}
+{"idx": 1800, "premise": ["lemon", "honeydew"], "conclusion": "fruit", "group": "high"}
+{"idx": 1801, "premise": ["pomegranate", "lemon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1802, "premise": ["lemon", "melon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1803, "premise": ["tangerine", "cherry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1804, "premise": ["strawberry", "apple"], "conclusion": "fruit", "group": "high"}
+{"idx": 1805, "premise": ["grapes", "peach"], "conclusion": "fruit", "group": "high"}
+{"idx": 1806, "premise": ["strawberry", "lemon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1807, "premise": ["melon", "apple"], "conclusion": "fruit", "group": "high"}
+{"idx": 1808, "premise": ["coconut", "watermelon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1809, "premise": ["pomegranate", "date"], "conclusion": "fruit", "group": "high"}
+{"idx": 1810, "premise": ["blueberry", "pomegranate"], "conclusion": "fruit", "group": "high"}
+{"idx": 1811, "premise": ["grapes", "apricot"], "conclusion": "fruit", "group": "high"}
+{"idx": 1812, "premise": ["melon", "plum"], "conclusion": "fruit", "group": "high"}
+{"idx": 1813, "premise": ["pear", "melon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1814, "premise": ["watermelon", "pear"], "conclusion": "fruit", "group": "high"}
+{"idx": 1815, "premise": ["apricot", "melon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1816, "premise": ["apple", "honeydew"], "conclusion": "fruit", "group": "high"}
+{"idx": 1817, "premise": ["grapefruit", "pear"], "conclusion": "fruit", "group": "high"}
+{"idx": 1818, "premise": ["peach", "honeydew"], "conclusion": "fruit", "group": "high"}
+{"idx": 1819, "premise": ["coconut", "pomegranate"], "conclusion": "fruit", "group": "high"}
+{"idx": 1820, "premise": ["blueberry", "peach"], "conclusion": "fruit", "group": "high"}
+{"idx": 1821, "premise": ["pineapple", "peach"], "conclusion": "fruit", "group": "high"}
+{"idx": 1822, "premise": ["watermelon", "apple"], "conclusion": "fruit", "group": "high"}
+{"idx": 1823, "premise": ["grapes", "pear"], "conclusion": "fruit", "group": "high"}
+{"idx": 1824, "premise": ["apple", "banana"], "conclusion": "fruit", "group": "high"}
+{"idx": 1825, "premise": ["grapefruit", "plum"], "conclusion": "fruit", "group": "high"}
+{"idx": 1826, "premise": ["date", "blueberry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1827, "premise": ["pineapple", "banana"], "conclusion": "fruit", "group": "high"}
+{"idx": 1828, "premise": ["grapes", "melon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1829, "premise": ["honeydew", "apricot"], "conclusion": "fruit", "group": "high"}
+{"idx": 1830, "premise": ["apple", "lemon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1831, "premise": ["pineapple", "strawberry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1832, "premise": ["date", "peach"], "conclusion": "fruit", "group": "high"}
+{"idx": 1833, "premise": ["strawberry", "pear"], "conclusion": "fruit", "group": "high"}
+{"idx": 1834, "premise": ["banana", "apricot"], "conclusion": "fruit", "group": "high"}
+{"idx": 1835, "premise": ["strawberry", "tangerine"], "conclusion": "fruit", "group": "high"}
+{"idx": 1836, "premise": ["blueberry", "apricot"], "conclusion": "fruit", "group": "high"}
+{"idx": 1837, "premise": ["lemon", "blueberry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1838, "premise": ["pineapple", "grapes"], "conclusion": "fruit", "group": "high"}
+{"idx": 1839, "premise": ["blueberry", "pear"], "conclusion": "fruit", "group": "high"}
+{"idx": 1840, "premise": ["cherry", "lemon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1841, "premise": ["grapefruit", "coconut"], "conclusion": "fruit", "group": "high"}
+{"idx": 1842, "premise": ["pear", "date"], "conclusion": "fruit", "group": "high"}
+{"idx": 1843, "premise": ["apricot", "pineapple"], "conclusion": "fruit", "group": "high"}
+{"idx": 1844, "premise": ["watermelon", "lemon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1845, "premise": ["peach", "banana"], "conclusion": "fruit", "group": "high"}
+{"idx": 1846, "premise": ["cherry", "grapefruit"], "conclusion": "fruit", "group": "high"}
+{"idx": 1847, "premise": ["strawberry", "banana"], "conclusion": "fruit", "group": "high"}
+{"idx": 1848, "premise": ["tangerine", "watermelon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1849, "premise": ["grapefruit", "strawberry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1850, "premise": ["apricot", "watermelon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1851, "premise": ["tangerine", "grapes"], "conclusion": "fruit", "group": "high"}
+{"idx": 1852, "premise": ["banana", "date"], "conclusion": "fruit", "group": "high"}
+{"idx": 1853, "premise": ["banana", "lemon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1854, "premise": ["cherry", "honeydew"], "conclusion": "fruit", "group": "high"}
+{"idx": 1855, "premise": ["honeydew", "plum"], "conclusion": "fruit", "group": "high"}
+{"idx": 1856, "premise": ["melon", "blueberry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1857, "premise": ["blueberry", "tangerine"], "conclusion": "fruit", "group": "high"}
+{"idx": 1858, "premise": ["strawberry", "date"], "conclusion": "fruit", "group": "high"}
+{"idx": 1859, "premise": ["honeydew", "strawberry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1860, "premise": ["grapefruit", "blueberry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1861, "premise": ["grapes", "honeydew"], "conclusion": "fruit", "group": "high"}
+{"idx": 1862, "premise": ["cherry", "melon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1863, "premise": ["pear", "pineapple"], "conclusion": "fruit", "group": "high"}
+{"idx": 1864, "premise": ["banana", "grapefruit"], "conclusion": "fruit", "group": "high"}
+{"idx": 1865, "premise": ["pear", "banana"], "conclusion": "fruit", "group": "high"}
+{"idx": 1866, "premise": ["date", "grapefruit"], "conclusion": "fruit", "group": "high"}
+{"idx": 1867, "premise": ["melon", "strawberry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1868, "premise": ["apple", "coconut"], "conclusion": "fruit", "group": "high"}
+{"idx": 1869, "premise": ["banana", "melon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1870, "premise": ["banana", "coconut"], "conclusion": "fruit", "group": "high"}
+{"idx": 1871, "premise": ["grapes", "lemon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1872, "premise": ["coconut", "tangerine"], "conclusion": "fruit", "group": "high"}
+{"idx": 1873, "premise": ["plum", "pineapple"], "conclusion": "fruit", "group": "high"}
+{"idx": 1874, "premise": ["blueberry", "olive"], "conclusion": "fruit", "group": "high"}
+{"idx": 1875, "premise": ["apple", "date"], "conclusion": "fruit", "group": "high"}
+{"idx": 1876, "premise": ["watermelon", "grapes"], "conclusion": "fruit", "group": "high"}
+{"idx": 1877, "premise": ["banana", "honeydew"], "conclusion": "fruit", "group": "high"}
+{"idx": 1878, "premise": ["watermelon", "cherry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1879, "premise": ["olive", "plum"], "conclusion": "fruit", "group": "high"}
+{"idx": 1880, "premise": ["pineapple", "cherry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1881, "premise": ["coconut", "apricot"], "conclusion": "fruit", "group": "high"}
+{"idx": 1882, "premise": ["coconut", "pear"], "conclusion": "fruit", "group": "high"}
+{"idx": 1883, "premise": ["plum", "banana"], "conclusion": "fruit", "group": "high"}
+{"idx": 1884, "premise": ["pomegranate", "banana"], "conclusion": "fruit", "group": "high"}
+{"idx": 1885, "premise": ["tangerine", "banana"], "conclusion": "fruit", "group": "high"}
+{"idx": 1886, "premise": ["peach", "watermelon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1887, "premise": ["banana", "blueberry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1888, "premise": ["coconut", "peach"], "conclusion": "fruit", "group": "high"}
+{"idx": 1889, "premise": ["date", "lemon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1890, "premise": ["blueberry", "pineapple"], "conclusion": "fruit", "group": "high"}
+{"idx": 1891, "premise": ["blueberry", "watermelon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1892, "premise": ["date", "coconut"], "conclusion": "fruit", "group": "high"}
+{"idx": 1893, "premise": ["date", "honeydew"], "conclusion": "fruit", "group": "high"}
+{"idx": 1894, "premise": ["watermelon", "plum"], "conclusion": "fruit", "group": "high"}
+{"idx": 1895, "premise": ["cherry", "coconut"], "conclusion": "fruit", "group": "high"}
+{"idx": 1896, "premise": ["coconut", "plum"], "conclusion": "fruit", "group": "high"}
+{"idx": 1897, "premise": ["honeydew", "blueberry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1898, "premise": ["banana", "cherry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1899, "premise": ["banana", "grapes"], "conclusion": "fruit", "group": "high"}
+{"idx": 1900, "premise": ["lemon", "coconut"], "conclusion": "fruit", "group": "high"}
+{"idx": 1901, "premise": ["strawberry", "olive"], "conclusion": "fruit", "group": "high"}
+{"idx": 1902, "premise": ["olive", "melon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1903, "premise": ["pineapple", "date"], "conclusion": "fruit", "group": "high"}
+{"idx": 1904, "premise": ["watermelon", "banana"], "conclusion": "fruit", "group": "high"}
+{"idx": 1905, "premise": ["tangerine", "olive"], "conclusion": "fruit", "group": "high"}
+{"idx": 1906, "premise": ["apricot", "olive"], "conclusion": "fruit", "group": "high"}
+{"idx": 1907, "premise": ["grapes", "coconut"], "conclusion": "fruit", "group": "high"}
+{"idx": 1908, "premise": ["coconut", "strawberry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1909, "premise": ["tangerine", "date"], "conclusion": "fruit", "group": "high"}
+{"idx": 1910, "premise": ["olive", "coconut"], "conclusion": "fruit", "group": "high"}
+{"idx": 1911, "premise": ["lemon", "olive"], "conclusion": "fruit", "group": "high"}
+{"idx": 1912, "premise": ["coconut", "blueberry"], "conclusion": "fruit", "group": "high"}
+{"idx": 1913, "premise": ["date", "melon"], "conclusion": "fruit", "group": "high"}
+{"idx": 1914, "premise": ["olive", "peach"], "conclusion": "fruit", "group": "high"}
+{"idx": 1915, "premise": ["olive", "honeydew"], "conclusion": "fruit", "group": "high"}
+{"idx": 1916, "premise": ["olive", "pear"], "conclusion": "fruit", "group": "high"}
+{"idx": 1917, "premise": ["watermelon", "date"], "conclusion": "fruit", "group": "high"}
+{"idx": 1918, "premise": ["olive", "apple"], "conclusion": "fruit", "group": "high"}
+{"idx": 1919, "premise": ["olive", "pineapple"], "conclusion": "fruit", "group": "high"}
+{"idx": 1920, "premise": ["pomegranate", "olive"], "conclusion": "fruit", "group": "high"}
+{"idx": 1921, "premise": ["olive", "grapefruit"], "conclusion": "fruit", "group": "high"}
+{"idx": 1922, "premise": ["watermelon", "olive"], "conclusion": "fruit", "group": "high"}
+{"idx": 1923, "premise": ["olive", "banana"], "conclusion": "fruit", "group": "high"}
+{"idx": 1924, "premise": ["sofa", "chair"], "conclusion": "furniture", "group": "high"}
+{"idx": 1925, "premise": ["desk", "table"], "conclusion": "furniture", "group": "high"}
+{"idx": 1926, "premise": ["chair", "bench"], "conclusion": "furniture", "group": "high"}
+{"idx": 1927, "premise": ["sofa", "bed"], "conclusion": "furniture", "group": "high"}
+{"idx": 1928, "premise": ["bench", "sofa"], "conclusion": "furniture", "group": "high"}
+{"idx": 1929, "premise": ["bookcase", "cabinet"], "conclusion": "furniture", "group": "high"}
+{"idx": 1930, "premise": ["dresser", "cabinet"], "conclusion": "furniture", "group": "high"}
+{"idx": 1931, "premise": ["sofa", "cushion"], "conclusion": "furniture", "group": "high"}
+{"idx": 1932, "premise": ["bed", "cushion"], "conclusion": "furniture", "group": "high"}
+{"idx": 1933, "premise": ["chair", "footstool"], "conclusion": "furniture", "group": "high"}
+{"idx": 1934, "premise": ["bench", "table"], "conclusion": "furniture", "group": "high"}
+{"idx": 1935, "premise": ["table", "chair"], "conclusion": "furniture", "group": "high"}
+{"idx": 1936, "premise": ["chair", "cushion"], "conclusion": "furniture", "group": "high"}
+{"idx": 1937, "premise": ["footstool", "bench"], "conclusion": "furniture", "group": "high"}
+{"idx": 1938, "premise": ["bookcase", "dresser"], "conclusion": "furniture", "group": "high"}
+{"idx": 1939, "premise": ["table", "dresser"], "conclusion": "furniture", "group": "high"}
+{"idx": 1940, "premise": ["dresser", "desk"], "conclusion": "furniture", "group": "high"}
+{"idx": 1941, "premise": ["bed", "chair"], "conclusion": "furniture", "group": "high"}
+{"idx": 1942, "premise": ["desk", "cabinet"], "conclusion": "furniture", "group": "high"}
+{"idx": 1943, "premise": ["bed", "bench"], "conclusion": "furniture", "group": "high"}
+{"idx": 1944, "premise": ["clock", "radio"], "conclusion": "furniture", "group": "high"}
+{"idx": 1945, "premise": ["radio", "telephone"], "conclusion": "furniture", "group": "high"}
+{"idx": 1946, "premise": ["footstool", "sofa"], "conclusion": "furniture", "group": "high"}
+{"idx": 1947, "premise": ["clock", "telephone"], "conclusion": "furniture", "group": "high"}
+{"idx": 1948, "premise": ["cabinet", "table"], "conclusion": "furniture", "group": "high"}
+{"idx": 1949, "premise": ["cushion", "bench"], "conclusion": "furniture", "group": "high"}
+{"idx": 1950, "premise": ["chair", "desk"], "conclusion": "furniture", "group": "high"}
+{"idx": 1951, "premise": ["table", "bookcase"], "conclusion": "furniture", "group": "high"}
+{"idx": 1952, "premise": ["desk", "bench"], "conclusion": "furniture", "group": "high"}
+{"idx": 1953, "premise": ["lamp", "clock"], "conclusion": "furniture", "group": "high"}
+{"idx": 1954, "premise": ["bookcase", "desk"], "conclusion": "furniture", "group": "high"}
+{"idx": 1955, "premise": ["rug", "cushion"], "conclusion": "furniture", "group": "high"}
+{"idx": 1956, "premise": ["bench", "piano"], "conclusion": "furniture", "group": "high"}
+{"idx": 1957, "premise": ["footstool", "table"], "conclusion": "furniture", "group": "high"}
+{"idx": 1958, "premise": ["dresser", "bench"], "conclusion": "furniture", "group": "high"}
+{"idx": 1959, "premise": ["footstool", "desk"], "conclusion": "furniture", "group": "high"}
+{"idx": 1960, "premise": ["table", "sofa"], "conclusion": "furniture", "group": "high"}
+{"idx": 1961, "premise": ["piano", "radio"], "conclusion": "furniture", "group": "high"}
+{"idx": 1962, "premise": ["piano", "desk"], "conclusion": "furniture", "group": "high"}
+{"idx": 1963, "premise": ["bed", "desk"], "conclusion": "furniture", "group": "high"}
+{"idx": 1964, "premise": ["cushion", "footstool"], "conclusion": "furniture", "group": "high"}
+{"idx": 1965, "premise": ["cabinet", "bench"], "conclusion": "furniture", "group": "high"}
+{"idx": 1966, "premise": ["desk", "sofa"], "conclusion": "furniture", "group": "high"}
+{"idx": 1967, "premise": ["bed", "dresser"], "conclusion": "furniture", "group": "high"}
+{"idx": 1968, "premise": ["chair", "dresser"], "conclusion": "furniture", "group": "high"}
+{"idx": 1969, "premise": ["table", "bed"], "conclusion": "furniture", "group": "high"}
+{"idx": 1970, "premise": ["lamp", "mirror"], "conclusion": "furniture", "group": "high"}
+{"idx": 1971, "premise": ["lamp", "radio"], "conclusion": "furniture", "group": "high"}
+{"idx": 1972, "premise": ["table", "piano"], "conclusion": "furniture", "group": "high"}
+{"idx": 1973, "premise": ["telephone", "lamp"], "conclusion": "furniture", "group": "high"}
+{"idx": 1974, "premise": ["bookcase", "chair"], "conclusion": "furniture", "group": "high"}
+{"idx": 1975, "premise": ["bookcase", "bench"], "conclusion": "furniture", "group": "high"}
+{"idx": 1976, "premise": ["rug", "footstool"], "conclusion": "furniture", "group": "high"}
+{"idx": 1977, "premise": ["table", "lamp"], "conclusion": "furniture", "group": "high"}
+{"idx": 1978, "premise": ["chair", "cabinet"], "conclusion": "furniture", "group": "high"}
+{"idx": 1979, "premise": ["bed", "footstool"], "conclusion": "furniture", "group": "high"}
+{"idx": 1980, "premise": ["footstool", "cabinet"], "conclusion": "furniture", "group": "high"}
+{"idx": 1981, "premise": ["piano", "chair"], "conclusion": "furniture", "group": "high"}
+{"idx": 1982, "premise": ["bed", "bookcase"], "conclusion": "furniture", "group": "high"}
+{"idx": 1983, "premise": ["sofa", "bookcase"], "conclusion": "furniture", "group": "high"}
+{"idx": 1984, "premise": ["cabinet", "stove"], "conclusion": "furniture", "group": "high"}
+{"idx": 1985, "premise": ["cushion", "desk"], "conclusion": "furniture", "group": "high"}
+{"idx": 1986, "premise": ["sofa", "dresser"], "conclusion": "furniture", "group": "high"}
+{"idx": 1987, "premise": ["bed", "cabinet"], "conclusion": "furniture", "group": "high"}
+{"idx": 1988, "premise": ["dresser", "mirror"], "conclusion": "furniture", "group": "high"}
+{"idx": 1989, "premise": ["bookcase", "footstool"], "conclusion": "furniture", "group": "high"}
+{"idx": 1990, "premise": ["dresser", "footstool"], "conclusion": "furniture", "group": "high"}
+{"idx": 1991, "premise": ["piano", "footstool"], "conclusion": "furniture", "group": "high"}
+{"idx": 1992, "premise": ["table", "rug"], "conclusion": "furniture", "group": "high"}
+{"idx": 1993, "premise": ["mirror", "clock"], "conclusion": "furniture", "group": "high"}
+{"idx": 1994, "premise": ["dresser", "lamp"], "conclusion": "furniture", "group": "high"}
+{"idx": 1995, "premise": ["desk", "telephone"], "conclusion": "furniture", "group": "high"}
+{"idx": 1996, "premise": ["lamp", "desk"], "conclusion": "furniture", "group": "high"}
+{"idx": 1997, "premise": ["stove", "table"], "conclusion": "furniture", "group": "high"}
+{"idx": 1998, "premise": ["desk", "rug"], "conclusion": "furniture", "group": "high"}
+{"idx": 1999, "premise": ["mirror", "cabinet"], "conclusion": "furniture", "group": "high"}
+{"idx": 2000, "premise": ["lamp", "bed"], "conclusion": "furniture", "group": "high"}
+{"idx": 2001, "premise": ["rug", "sofa"], "conclusion": "furniture", "group": "high"}
+{"idx": 2002, "premise": ["clock", "table"], "conclusion": "furniture", "group": "high"}
+{"idx": 2003, "premise": ["piano", "clock"], "conclusion": "furniture", "group": "high"}
+{"idx": 2004, "premise": ["cabinet", "sofa"], "conclusion": "furniture", "group": "high"}
+{"idx": 2005, "premise": ["lamp", "rug"], "conclusion": "furniture", "group": "high"}
+{"idx": 2006, "premise": ["dresser", "piano"], "conclusion": "furniture", "group": "high"}
+{"idx": 2007, "premise": ["desk", "clock"], "conclusion": "furniture", "group": "high"}
+{"idx": 2008, "premise": ["rug", "chair"], "conclusion": "furniture", "group": "high"}
+{"idx": 2009, "premise": ["sofa", "lamp"], "conclusion": "furniture", "group": "high"}
+{"idx": 2010, "premise": ["bed", "clock"], "conclusion": "furniture", "group": "high"}
+{"idx": 2011, "premise": ["radio", "table"], "conclusion": "furniture", "group": "high"}
+{"idx": 2012, "premise": ["cushion", "lamp"], "conclusion": "furniture", "group": "high"}
+{"idx": 2013, "premise": ["radio", "desk"], "conclusion": "furniture", "group": "high"}
+{"idx": 2014, "premise": ["mirror", "telephone"], "conclusion": "furniture", "group": "high"}
+{"idx": 2015, "premise": ["piano", "bed"], "conclusion": "furniture", "group": "high"}
+{"idx": 2016, "premise": ["table", "cushion"], "conclusion": "furniture", "group": "high"}
+{"idx": 2017, "premise": ["piano", "sofa"], "conclusion": "furniture", "group": "high"}
+{"idx": 2018, "premise": ["stove", "lamp"], "conclusion": "furniture", "group": "high"}
+{"idx": 2019, "premise": ["stove", "radio"], "conclusion": "furniture", "group": "high"}
+{"idx": 2020, "premise": ["cabinet", "piano"], "conclusion": "furniture", "group": "high"}
+{"idx": 2021, "premise": ["piano", "bookcase"], "conclusion": "furniture", "group": "high"}
+{"idx": 2022, "premise": ["telephone", "piano"], "conclusion": "furniture", "group": "high"}
+{"idx": 2023, "premise": ["rug", "mirror"], "conclusion": "furniture", "group": "high"}
+{"idx": 2024, "premise": ["telephone", "table"], "conclusion": "furniture", "group": "high"}
+{"idx": 2025, "premise": ["desk", "stove"], "conclusion": "furniture", "group": "high"}
+{"idx": 2026, "premise": ["telephone", "bed"], "conclusion": "furniture", "group": "high"}
+{"idx": 2027, "premise": ["rug", "bed"], "conclusion": "furniture", "group": "high"}
+{"idx": 2028, "premise": ["dresser", "clock"], "conclusion": "furniture", "group": "high"}
+{"idx": 2029, "premise": ["bench", "mirror"], "conclusion": "furniture", "group": "high"}
+{"idx": 2030, "premise": ["bookcase", "lamp"], "conclusion": "furniture", "group": "high"}
+{"idx": 2031, "premise": ["bench", "stove"], "conclusion": "furniture", "group": "high"}
+{"idx": 2032, "premise": ["mirror", "bookcase"], "conclusion": "furniture", "group": "high"}
+{"idx": 2033, "premise": ["stove", "sofa"], "conclusion": "furniture", "group": "high"}
+{"idx": 2034, "premise": ["mirror", "desk"], "conclusion": "furniture", "group": "high"}
+{"idx": 2035, "premise": ["radio", "bookcase"], "conclusion": "furniture", "group": "high"}
+{"idx": 2036, "premise": ["rug", "bookcase"], "conclusion": "furniture", "group": "high"}
+{"idx": 2037, "premise": ["lamp", "footstool"], "conclusion": "furniture", "group": "high"}
+{"idx": 2038, "premise": ["lamp", "bench"], "conclusion": "furniture", "group": "high"}
+{"idx": 2039, "premise": ["cushion", "dresser"], "conclusion": "furniture", "group": "high"}
+{"idx": 2040, "premise": ["piano", "mirror"], "conclusion": "furniture", "group": "high"}
+{"idx": 2041, "premise": ["stove", "bookcase"], "conclusion": "furniture", "group": "high"}
+{"idx": 2042, "premise": ["radio", "mirror"], "conclusion": "furniture", "group": "high"}
+{"idx": 2043, "premise": ["mirror", "table"], "conclusion": "furniture", "group": "high"}
+{"idx": 2044, "premise": ["chair", "lamp"], "conclusion": "furniture", "group": "high"}
+{"idx": 2045, "premise": ["lamp", "cabinet"], "conclusion": "furniture", "group": "high"}
+{"idx": 2046, "premise": ["bookcase", "clock"], "conclusion": "furniture", "group": "high"}
+{"idx": 2047, "premise": ["rug", "radio"], "conclusion": "furniture", "group": "high"}
+{"idx": 2048, "premise": ["footstool", "telephone"], "conclusion": "furniture", "group": "high"}
+{"idx": 2049, "premise": ["cabinet", "telephone"], "conclusion": "furniture", "group": "high"}
+{"idx": 2050, "premise": ["cushion", "piano"], "conclusion": "furniture", "group": "high"}
+{"idx": 2051, "premise": ["cushion", "cabinet"], "conclusion": "furniture", "group": "high"}
+{"idx": 2052, "premise": ["sofa", "mirror"], "conclusion": "furniture", "group": "high"}
+{"idx": 2053, "premise": ["bookcase", "cushion"], "conclusion": "furniture", "group": "high"}
+{"idx": 2054, "premise": ["bench", "rug"], "conclusion": "furniture", "group": "high"}
+{"idx": 2055, "premise": ["stove", "piano"], "conclusion": "furniture", "group": "high"}
+{"idx": 2056, "premise": ["clock", "cabinet"], "conclusion": "furniture", "group": "high"}
+{"idx": 2057, "premise": ["mirror", "footstool"], "conclusion": "furniture", "group": "high"}
+{"idx": 2058, "premise": ["telephone", "bookcase"], "conclusion": "furniture", "group": "high"}
+{"idx": 2059, "premise": ["bench", "telephone"], "conclusion": "furniture", "group": "high"}
+{"idx": 2060, "premise": ["mirror", "bed"], "conclusion": "furniture", "group": "high"}
+{"idx": 2061, "premise": ["radio", "chair"], "conclusion": "furniture", "group": "high"}
+{"idx": 2062, "premise": ["footstool", "stove"], "conclusion": "furniture", "group": "high"}
+{"idx": 2063, "premise": ["dresser", "radio"], "conclusion": "furniture", "group": "high"}
+{"idx": 2064, "premise": ["stove", "dresser"], "conclusion": "furniture", "group": "high"}
+{"idx": 2065, "premise": ["cushion", "mirror"], "conclusion": "furniture", "group": "high"}
+{"idx": 2066, "premise": ["clock", "sofa"], "conclusion": "furniture", "group": "high"}
+{"idx": 2067, "premise": ["clock", "stove"], "conclusion": "furniture", "group": "high"}
+{"idx": 2068, "premise": ["lamp", "piano"], "conclusion": "furniture", "group": "high"}
+{"idx": 2069, "premise": ["rug", "dresser"], "conclusion": "furniture", "group": "high"}
+{"idx": 2070, "premise": ["stove", "chair"], "conclusion": "furniture", "group": "high"}
+{"idx": 2071, "premise": ["sofa", "telephone"], "conclusion": "furniture", "group": "high"}
+{"idx": 2072, "premise": ["cushion", "clock"], "conclusion": "furniture", "group": "high"}
+{"idx": 2073, "premise": ["chair", "mirror"], "conclusion": "furniture", "group": "high"}
+{"idx": 2074, "premise": ["footstool", "clock"], "conclusion": "furniture", "group": "high"}
+{"idx": 2075, "premise": ["cabinet", "rug"], "conclusion": "furniture", "group": "high"}
+{"idx": 2076, "premise": ["radio", "cushion"], "conclusion": "furniture", "group": "high"}
+{"idx": 2077, "premise": ["piano", "rug"], "conclusion": "furniture", "group": "high"}
+{"idx": 2078, "premise": ["stove", "bed"], "conclusion": "furniture", "group": "high"}
+{"idx": 2079, "premise": ["telephone", "stove"], "conclusion": "furniture", "group": "high"}
+{"idx": 2080, "premise": ["clock", "bench"], "conclusion": "furniture", "group": "high"}
+{"idx": 2081, "premise": ["radio", "bed"], "conclusion": "furniture", "group": "high"}
+{"idx": 2082, "premise": ["chair", "clock"], "conclusion": "furniture", "group": "high"}
+{"idx": 2083, "premise": ["telephone", "cushion"], "conclusion": "furniture", "group": "high"}
+{"idx": 2084, "premise": ["stove", "cushion"], "conclusion": "furniture", "group": "high"}
+{"idx": 2085, "premise": ["cabinet", "radio"], "conclusion": "furniture", "group": "high"}
+{"idx": 2086, "premise": ["sofa", "radio"], "conclusion": "furniture", "group": "high"}
+{"idx": 2087, "premise": ["rug", "stove"], "conclusion": "furniture", "group": "high"}
+{"idx": 2088, "premise": ["bench", "radio"], "conclusion": "furniture", "group": "high"}
+{"idx": 2089, "premise": ["telephone", "rug"], "conclusion": "furniture", "group": "high"}
+{"idx": 2090, "premise": ["telephone", "chair"], "conclusion": "furniture", "group": "high"}
+{"idx": 2091, "premise": ["clock", "rug"], "conclusion": "furniture", "group": "high"}
+{"idx": 2092, "premise": ["mirror", "stove"], "conclusion": "furniture", "group": "high"}
+{"idx": 2093, "premise": ["telephone", "dresser"], "conclusion": "furniture", "group": "high"}
+{"idx": 2094, "premise": ["radio", "footstool"], "conclusion": "furniture", "group": "high"}
+{"idx": 2095, "premise": ["spinach", "lettuce"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2096, "premise": ["broccoli", "cauliflower"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2097, "premise": ["eggplant", "squash"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2098, "premise": ["turnip", "carrot"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2099, "premise": ["broccoli", "asparagus"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2100, "premise": ["celery", "cucumber"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2101, "premise": ["celery", "lettuce"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2102, "premise": ["turnip", "potato"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2103, "premise": ["squash", "cucumber"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2104, "premise": ["broccoli", "celery"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2105, "premise": ["squash", "potato"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2106, "premise": ["cucumber", "eggplant"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2107, "premise": ["lettuce", "cauliflower"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2108, "premise": ["spinach", "celery"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2109, "premise": ["lettuce", "broccoli"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2110, "premise": ["cucumber", "lettuce"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2111, "premise": ["carrot", "cucumber"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2112, "premise": ["carrot", "celery"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2113, "premise": ["eggplant", "turnip"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2114, "premise": ["asparagus", "spinach"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2115, "premise": ["potato", "carrot"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2116, "premise": ["spinach", "broccoli"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2117, "premise": ["cucumber", "asparagus"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2118, "premise": ["squash", "turnip"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2119, "premise": ["celery", "asparagus"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2120, "premise": ["broccoli", "cucumber"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2121, "premise": ["cauliflower", "asparagus"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2122, "premise": ["squash", "carrot"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2123, "premise": ["eggplant", "cauliflower"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2124, "premise": ["asparagus", "lettuce"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2125, "premise": ["spinach", "cucumber"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2126, "premise": ["celery", "cauliflower"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2127, "premise": ["cauliflower", "spinach"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2128, "premise": ["cauliflower", "turnip"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2129, "premise": ["tomato", "squash"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2130, "premise": ["carrot", "eggplant"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2131, "premise": ["broccoli", "eggplant"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2132, "premise": ["asparagus", "eggplant"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2133, "premise": ["eggplant", "tomato"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2134, "premise": ["tomato", "cucumber"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2135, "premise": ["carrot", "cauliflower"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2136, "premise": ["asparagus", "squash"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2137, "premise": ["asparagus", "turnip"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2138, "premise": ["potato", "eggplant"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2139, "premise": ["cauliflower", "squash"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2140, "premise": ["turnip", "broccoli"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2141, "premise": ["squash", "broccoli"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2142, "premise": ["broccoli", "carrot"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2143, "premise": ["squash", "lettuce"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2144, "premise": ["tomato", "lettuce"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2145, "premise": ["carrot", "corn"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2146, "premise": ["corn", "squash"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2147, "premise": ["turnip", "tomato"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2148, "premise": ["carrot", "asparagus"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2149, "premise": ["turnip", "lettuce"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2150, "premise": ["squash", "celery"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2151, "premise": ["tomato", "carrot"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2152, "premise": ["cauliflower", "potato"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2153, "premise": ["tomato", "potato"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2154, "premise": ["celery", "eggplant"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2155, "premise": ["potato", "corn"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2156, "premise": ["carrot", "lettuce"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2157, "premise": ["celery", "corn"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2158, "premise": ["cucumber", "cauliflower"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2159, "premise": ["turnip", "cucumber"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2160, "premise": ["spinach", "squash"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2161, "premise": ["cucumber", "corn"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2162, "premise": ["eggplant", "spinach"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2163, "premise": ["potato", "celery"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2164, "premise": ["tomato", "broccoli"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2165, "premise": ["turnip", "celery"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2166, "premise": ["asparagus", "tomato"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2167, "premise": ["lettuce", "eggplant"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2168, "premise": ["broccoli", "corn"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2169, "premise": ["cucumber", "potato"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2170, "premise": ["tomato", "celery"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2171, "premise": ["turnip", "spinach"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2172, "premise": ["tomato", "spinach"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2173, "premise": ["eggplant", "corn"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2174, "premise": ["corn", "cauliflower"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2175, "premise": ["corn", "tomato"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2176, "premise": ["lettuce", "corn"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2177, "premise": ["corn", "asparagus"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2178, "premise": ["spinach", "carrot"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2179, "premise": ["cauliflower", "tomato"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2180, "premise": ["corn", "turnip"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2181, "premise": ["potato", "broccoli"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2182, "premise": ["corn", "spinach"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2183, "premise": ["asparagus", "potato"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2184, "premise": ["potato", "spinach"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2185, "premise": ["lettuce", "potato"], "conclusion": "vegetable", "group": "high"}
+{"idx": 2186, "premise": ["van", "car"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2187, "premise": ["truck", "car"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2188, "premise": ["car", "jeep"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2189, "premise": ["jeep", "truck"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2190, "premise": ["van", "truck"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2191, "premise": ["submarine", "boat"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2192, "premise": ["jeep", "van"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2193, "premise": ["bus", "van"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2194, "premise": ["motorcycle", "bicycle"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2195, "premise": ["bicycle", "scooter"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2196, "premise": ["scooter", "skateboard"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2197, "premise": ["motorcycle", "scooter"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2198, "premise": ["bus", "train"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2199, "premise": ["bus", "truck"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2200, "premise": ["rocket", "airplane"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2201, "premise": ["car", "bus"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2202, "premise": ["cart", "carriage"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2203, "premise": ["trailer", "cart"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2204, "premise": ["car", "motorcycle"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2205, "premise": ["bicycle", "skateboard"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2206, "premise": ["carriage", "bus"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2207, "premise": ["truck", "tractor"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2208, "premise": ["trailer", "truck"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2209, "premise": ["carriage", "trailer"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2210, "premise": ["tractor", "trailer"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2211, "premise": ["motorcycle", "jeep"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2212, "premise": ["sled", "skateboard"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2213, "premise": ["jeep", "tractor"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2214, "premise": ["carriage", "train"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2215, "premise": ["jeep", "bus"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2216, "premise": ["sled", "cart"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2217, "premise": ["tractor", "car"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2218, "premise": ["carriage", "sled"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2219, "premise": ["trailer", "car"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2220, "premise": ["train", "car"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2221, "premise": ["carriage", "van"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2222, "premise": ["cart", "scooter"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2223, "premise": ["car", "carriage"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2224, "premise": ["train", "airplane"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2225, "premise": ["truck", "train"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2226, "premise": ["bus", "trailer"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2227, "premise": ["car", "bicycle"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2228, "premise": ["truck", "motorcycle"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2229, "premise": ["carriage", "truck"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2230, "premise": ["van", "tractor"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2231, "premise": ["scooter", "sled"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2232, "premise": ["cart", "bicycle"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2233, "premise": ["van", "motorcycle"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2234, "premise": ["trailer", "van"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2235, "premise": ["cart", "skateboard"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2236, "premise": ["airplane", "bus"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2237, "premise": ["carriage", "bicycle"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2238, "premise": ["van", "train"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2239, "premise": ["truck", "cart"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2240, "premise": ["train", "cart"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2241, "premise": ["tractor", "cart"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2242, "premise": ["bus", "tractor"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2243, "premise": ["jeep", "carriage"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2244, "premise": ["van", "cart"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2245, "premise": ["car", "scooter"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2246, "premise": ["motorcycle", "bus"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2247, "premise": ["motorcycle", "skateboard"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2248, "premise": ["sled", "trailer"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2249, "premise": ["car", "cart"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2250, "premise": ["train", "trailer"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2251, "premise": ["bicycle", "sled"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2252, "premise": ["carriage", "tractor"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2253, "premise": ["jeep", "trailer"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2254, "premise": ["tractor", "train"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2255, "premise": ["submarine", "rocket"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2256, "premise": ["boat", "bus"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2257, "premise": ["cart", "bus"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2258, "premise": ["truck", "boat"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2259, "premise": ["van", "boat"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2260, "premise": ["trailer", "motorcycle"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2261, "premise": ["airplane", "boat"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2262, "premise": ["train", "boat"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2263, "premise": ["submarine", "airplane"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2264, "premise": ["cart", "motorcycle"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2265, "premise": ["cart", "jeep"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2266, "premise": ["motorcycle", "carriage"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2267, "premise": ["airplane", "car"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2268, "premise": ["tractor", "motorcycle"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2269, "premise": ["boat", "car"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2270, "premise": ["bus", "bicycle"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2271, "premise": ["jeep", "train"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2272, "premise": ["bicycle", "van"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2273, "premise": ["jeep", "bicycle"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2274, "premise": ["scooter", "jeep"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2275, "premise": ["skateboard", "car"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2276, "premise": ["truck", "scooter"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2277, "premise": ["train", "motorcycle"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2278, "premise": ["motorcycle", "sled"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2279, "premise": ["scooter", "carriage"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2280, "premise": ["van", "scooter"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2281, "premise": ["scooter", "bus"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2282, "premise": ["airplane", "jeep"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2283, "premise": ["boat", "carriage"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2284, "premise": ["airplane", "carriage"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2285, "premise": ["trailer", "boat"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2286, "premise": ["sled", "boat"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2287, "premise": ["boat", "cart"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2288, "premise": ["bicycle", "trailer"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2289, "premise": ["tractor", "airplane"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2290, "premise": ["bicycle", "truck"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2291, "premise": ["trailer", "scooter"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2292, "premise": ["bicycle", "train"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2293, "premise": ["tractor", "boat"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2294, "premise": ["sled", "car"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2295, "premise": ["scooter", "tractor"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2296, "premise": ["train", "submarine"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2297, "premise": ["skateboard", "jeep"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2298, "premise": ["boat", "jeep"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2299, "premise": ["skateboard", "carriage"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2300, "premise": ["rocket", "train"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2301, "premise": ["trailer", "skateboard"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2302, "premise": ["train", "sled"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2303, "premise": ["truck", "airplane"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2304, "premise": ["submarine", "car"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2305, "premise": ["bus", "skateboard"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2306, "premise": ["motorcycle", "rocket"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2307, "premise": ["train", "scooter"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2308, "premise": ["van", "sled"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2309, "premise": ["trailer", "airplane"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2310, "premise": ["boat", "motorcycle"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2311, "premise": ["bus", "submarine"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2312, "premise": ["airplane", "motorcycle"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2313, "premise": ["van", "airplane"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2314, "premise": ["skateboard", "train"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2315, "premise": ["truck", "sled"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2316, "premise": ["submarine", "truck"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2317, "premise": ["boat", "rocket"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2318, "premise": ["sled", "rocket"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2319, "premise": ["sled", "tractor"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2320, "premise": ["tractor", "skateboard"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2321, "premise": ["rocket", "bus"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2322, "premise": ["submarine", "jeep"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2323, "premise": ["submarine", "van"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2324, "premise": ["skateboard", "van"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2325, "premise": ["bicycle", "tractor"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2326, "premise": ["bus", "sled"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2327, "premise": ["skateboard", "truck"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2328, "premise": ["car", "rocket"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2329, "premise": ["trailer", "submarine"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2330, "premise": ["cart", "rocket"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2331, "premise": ["motorcycle", "submarine"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2332, "premise": ["boat", "bicycle"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2333, "premise": ["scooter", "boat"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2334, "premise": ["airplane", "bicycle"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2335, "premise": ["scooter", "rocket"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2336, "premise": ["rocket", "carriage"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2337, "premise": ["submarine", "skateboard"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2338, "premise": ["carriage", "submarine"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2339, "premise": ["rocket", "jeep"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2340, "premise": ["sled", "submarine"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2341, "premise": ["scooter", "airplane"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2342, "premise": ["airplane", "cart"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2343, "premise": ["rocket", "truck"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2344, "premise": ["rocket", "trailer"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2345, "premise": ["tractor", "submarine"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2346, "premise": ["bicycle", "submarine"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2347, "premise": ["rocket", "bicycle"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2348, "premise": ["tractor", "rocket"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2349, "premise": ["sled", "jeep"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2350, "premise": ["rocket", "van"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2351, "premise": ["submarine", "cart"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2352, "premise": ["scooter", "submarine"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2353, "premise": ["skateboard", "airplane"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2354, "premise": ["skateboard", "boat"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2355, "premise": ["skateboard", "rocket"], "conclusion": "vehicle", "group": "high"}
+{"idx": 2356, "premise": ["sled", "airplane"], "conclusion": "vehicle", "group": "high"}
