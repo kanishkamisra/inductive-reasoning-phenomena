@@ -1,227 +1,163 @@
-horse
-cow
-mouse
-mammal
-seal
-rhino
-chimp
-squirrel
-gorilla
-dolphin
-elephant
-bear
-whale
-tuna
-bat
-sparrow
-lizard
-snake
-worm
-trout
-shark
-wolf
-robin
-hawk
-tiger 
-grasshopper
-mosquito
-vampire bat
-ant
-bee
-hummingbird
-rabbit
-giraffe
-turtle
-goldfish
+rooster
 chicken
-ladybug
-praying mantis
 falcon
-bird
+eagle
 blackbird
+crow
 parakeet
+canary
 turkey
 parrot
 swan
+duck
+robin
+sparrow
 dove
 stork
-crow
+pigeon
+magpie
+heron
 pelican
-eagle
+seagull
 vulture
 pheasant
-canary
+owl
 woodpecker
-seagull
 swallow
+cuckoo
 peacock
 ostrich
-duck
-owl
-pigeon
 penguin
 gloves
-clothing
-coat
-sweater
-suit
-panties
-dress
-jacket
-sweatshirt
-tie
-tuxedo
-boots
-blouse
-hat
-scarf
-skirt
-pants
-belt
 mittens
-socks
+beanie
+hat
+coat
+jacket
+jeans
+pants
+sweater
+sweatshirt
+suit
+tuxedo
+boxers
+panties
+gown
+dress
 bra
+boots
+sneakers
+skirt
+shorts
+tie
+scarf
+overalls
+socks
+blouse
 pajamas
+tracksuit
+belt
 melon
-fruit
+watermelon
 honeydew
 apricot
+peach
 lemon
-pear
 grapefruit
+pear
+apple
+tangerine
 cherry
 blueberry
-tangerine
-plum
-grapes
-peach
 strawberry
-apple
-pomegranate
+grapes
+plum
 date
+pomegranate
 coconut
 pineapple
-watermelon
-banana
 olive
+banana
 sofa
-furniture
-desk
 chair
-bench
-bookcase
-dresser
-bed
+desk
 table
+bench
+bed
+bookcase
+cabinet
+dresser
+cushion
 footstool
 clock
 radio
-cabinet
-cushion
+telephone
 lamp
+vase
 rug
 piano
-telephone
 mirror
 stove
-spinach
-vegetable
-broccoli
-eggplant
-turnip
-celery
-squash
-cucumber
 lettuce
+cabbage
+radish
+turnip
+spinach
+beet
+broccoli
+cauliflower
+eggplant
+squash
 carrot
 asparagus
+celery
+cucumber
+artichoke
+onion
 potato
-cauliflower
-tomato
+beans
 corn
+tomato
 van
-vehicle
-truck
 car
+truck
 jeep
+airplane
+helicopter
 submarine
+boat
 bus
 motorcycle
 bicycle
 scooter
+trolley
+skateboard
+train
 rocket
 cart
-trailer
 carriage
+trailer
+hovercraft
 tractor
 sled
-train
-airplane
-boat
-skateboard
-orange
-blue jay
-shirt
-taxi
-rocking chair
-plant
-flower
-moss
-metal
-iron
-platinum
-body of water
-lake
-reservoir
-carpentry tool
-hammer
-awl
-electronic
-audio equipment
-kitchen appliance
-musical instrument
-flute
-cymbal
-white collar worker
-bank manager
-air traffic controller
-entertainer
-nightclub singer
-mime
-blue collar worker
-construction worker
-bicycle mechanic
-mcintosh
-rose
-body of salt water
-gulf
-brass instrument
-french horn
-wind instrument
-stereo
-electronic equipment
-cutting instrument
-knife
-tool
-hard laborer
-worker
-emergency worker
-fireman
-government employee
-singer
-alto
 skunk
 deer
 animal
 kangaroo
+elephant
 polar bear
 antelope
 camel
+rhino
+mammal
 chimpanzee
+cow
 pig
+whale
 cobra
 toucan
 frog
+giraffe
 marketing major
 english major
 poison ivy
@@ -244,6 +180,7 @@ german shepherd
 poodle
 stink bug
 desert rat
+dolphin
 finance major 
 management major
 poison oak 
@@ -262,29 +199,205 @@ double-bass player
 cellist
 doberman
 rottweiler
+orange
+doll
+gun
+bird
+oriole
+wren
+finch
+starling
+hummingbird
+hawk
+raven
+crane
+albatross
+buzzard
+flamingo
+emu
+bat
+clothing
+shirt
+parka
+shoes
+stockings
+cape
+sandals
+slippers
+apron
+earmuffs
+ring
+watch
+necklace
+bracelet
+fruit
+nectarine
+raspberry
+lime
+papaya
+mango
+guava
+raisin
+avocado
+pumpkin
+nut
+furniture
+rocking chair
+chest of drawers
+stool
+cupboard
+stereo
+television
+pillow
+toy
+yo-yo
+rattle
+ball
+kite
+tricycle
+balloon
+baseball
+drum
+football
+swing
+rope
+horse
+vegetable
+bean
+leek
+sweet potato
+parsley
+mushroom
+rhubarb
+seaweed
+garlic
+peanut
+rice
+vehicle
+taxi
+ambulance
+ship
+wheelchair
+yacht
+tank
+canoe
+raft
+skis
+wheelbarrow
+surfboard
+weapon
+pistol
+revolver
+rifle
+knife
+dagger
+shotgun
+sword
+bomb
+bayonet
+spear
+cannon
+club
+bullet
+arrow
+whip
+hatchet
+axe
+bow
+razor
+judo
+stick
+rock
+stone
+chain
+scissors
+hammer
+pipe
+foot
+screwdriver
+plant
+flower
+moss
+metal
+iron
+platinum
+body of water
+lake
+reservoir
+carpentry tool
+awl
+electronics
+audio equipment
+kitchen appliance
+musical instrument
+flute
+cymbal
+white collar worker
+bank manager
+air traffic controller
+entertainer
+nightclub singer
+mime
+blue collar worker
+construction worker
+bicycle mechanic
+mcintosh
+rose
+body of salt water
+gulf
+brass instrument
+french horn
+wind instrument
+electronic equipment
+cutting instrument
+tool
+hard laborer
+worker
+emergency worker
+fireman
+government employee
+singer
+alto
+goose
+lion
+dog
+mouse
 hippopotamus
 hamster
 rhinoceros
-goose
-lion
+blue jay
+rabbit
 tiger
 fox
+wolf
+gorilla
 fly
+bee
 orangutan
+bear
+tuna
+lizard
+snake
+worm
+trout
+shark
+tiger 
+grasshopper
+mosquito
+vampire bat
+ant
+turtle
+goldfish
+ladybug
+praying mantis
+chimp
+squirrel
+seal
 budgie
-buzzard
 cockerel
-crane
-emu
-flamingo
-heron
 kingfisher
-magpie
 nightingale
 partridge
-raven
-starling
-wren
 carp
 fish
 cod
@@ -319,116 +432,3 @@ stick insect
 tarantula
 termite
 wasp
-oriole
-finch
-albatross
-parka
-shoes
-stockings
-cape
-sandals
-slippers
-apron
-earmuffs
-ring
-watch
-necklace
-bracelet
-nectarine
-raspberry
-lime
-papaya
-mango
-guava
-raisin
-avocado
-pumpkin
-nut
-chest of drawers
-stool
-cupboard
-television
-pillow
-doll
-toy
-yo-yo
-rattle
-ball
-kite
-tricycle
-balloon
-baseball
-drum
-football
-swing
-rope
-gun
-bean
-leek
-sweet potato
-parsley
-mushroom
-rhubarb
-seaweed
-garlic
-peanut
-rice
-ambulance
-ship
-wheelchair
-yacht
-tank
-canoe
-raft
-skis
-wheelbarrow
-surfboard
-weapon
-pistol
-revolver
-rifle
-dagger
-shotgun
-sword
-bomb
-bayonet
-spear
-cannon
-club
-bullet
-arrow
-whip
-hatchet
-axe
-bow
-razor
-judo
-stick
-rock
-stone
-chain
-scissors
-pipe
-foot
-screwdriver
-rooster
-cuckoo
-beanie
-jeans
-boxers
-gown
-sneakers
-shorts
-overalls
-tracksuit
-vase
-cabbage
-radish
-beet
-artichoke
-onion
-beans
-helicopter
-trolley
-hovercraft
-dog

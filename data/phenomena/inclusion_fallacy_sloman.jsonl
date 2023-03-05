@@ -6,8 +6,8 @@
 {"idx": 6, "premise": ["body of water"], "conclusion": "reservoir", "property": "have a high number of seiches", "strength": 0.83, "group": "low"}
 {"idx": 7, "premise": ["carpentry tool"], "conclusion": "hammer", "property": "are subject to a special tariff", "strength": 0.92, "group": "high"}
 {"idx": 8, "premise": ["carpentry tool"], "conclusion": "awl", "property": "are subject to a special tariff", "strength": 0.84, "group": "low"}
-{"idx": 9, "premise": ["electronic"], "conclusion": "audio equipment", "property": "come with dual code serial numbers", "strength": 0.92, "group": "high"}
-{"idx": 10, "premise": ["electronic"], "conclusion": "kitchen appliance", "property": "come with dual code serial numbers", "strength": 0.84, "group": "low"}
+{"idx": 9, "premise": ["electronics"], "conclusion": "audio equipment", "property": "come with dual code serial numbers", "strength": 0.92, "group": "high"}
+{"idx": 10, "premise": ["electronics"], "conclusion": "kitchen appliance", "property": "come with dual code serial numbers", "strength": 0.84, "group": "low"}
 {"idx": 11, "premise": ["musical instrument"], "conclusion": "flute", "property": "can be designed with a diapason", "strength": 0.92, "group": "high"}
 {"idx": 12, "premise": ["musical instrument"], "conclusion": "cymbal", "property": "can be designed with a diapason", "strength": 0.84, "group": "low"}
 {"idx": 13, "premise": ["white collar worker"], "conclusion": "bank manager", "property": "are more prone to cholelithiasis", "strength": 0.92, "group": "high"}
