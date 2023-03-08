@@ -13,8 +13,9 @@ for file in PHENOMENA_FILES:
     with open(f"{PHENOMENA_PATH}/{file}", "r") as f:
         for line in f:
             entry = json.loads(line)
-            concepts.update(entry["premise"])
-            concepts.add(entry["conclusion"])
+            for premise in entry["premise"]:
+                concepts.add(premise.strip())
+            concepts.add(entry["conclusion"].strip())
 
 concepts = list(concepts)
 

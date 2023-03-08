@@ -181,14 +181,12 @@ poodle
 stink bug
 desert rat
 dolphin
-finance major 
+finance major
 management major
-poison oak 
+poison oak
 poison
 sumac
-polar bear 
 grizzly bear
-ghost gum 
 blue gum
 flooded gum
 malaysian
@@ -381,7 +379,6 @@ snake
 worm
 trout
 shark
-tiger 
 grasshopper
 mosquito
 vampire bat
