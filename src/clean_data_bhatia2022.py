@@ -17,10 +17,10 @@ def get_induction_data(df):
 
         for k, v in mapping.items():
             if "PREMISE" in k and v != -99.0:
-                obj["premise"].append(v.lower())
+                obj["premise"].append(v.lower().strip())
             elif v != -99.0:
                 if isinstance(v, str):
-                    obj[config.col2field[k]] = v.lower()
+                    obj[config.col2field[k]] = v.lower().strip()
                 else:
                     obj[config.col2field[k]] = v
 

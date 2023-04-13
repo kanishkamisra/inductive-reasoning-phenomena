@@ -23,12 +23,12 @@
 {"idx": 23, "premise": ["pig", "chicken"], "conclusion": "cobra", "strength": 3.36, "group": "low"}
 {"idx": 24, "premise": ["camel", "desert rat"], "conclusion": "toucan", "strength": 2.94, "group": "low"}
 {"idx": 25, "premise": ["penguin", "polar bear"], "conclusion": "giraffe", "strength": 2.83, "group": "low"}
-{"idx": 26, "premise": ["marketing major", "finance major ", "management major"], "conclusion": "english major", "strength": 5.03, "group": "high"}
-{"idx": 27, "premise": ["poison ivy", "poison oak ", "poison", "sumac"], "conclusion": "dandelion", "strength": 4.23, "group": "low"}
-{"idx": 28, "premise": ["brown bear", "polar bear ", "grizzly bear"], "conclusion": "buffalo", "strength": 4.83, "group": "high"}
-{"idx": 29, "premise": ["red gum tree", "ghost gum ", "blue gum", "flooded gum"], "conclusion": "maple tree", "strength": 3.76, "group": "low"}
+{"idx": 26, "premise": ["marketing major", "finance major", "management major"], "conclusion": "english major", "strength": 5.03, "group": "high"}
+{"idx": 27, "premise": ["poison ivy", "poison oak", "poison", "sumac"], "conclusion": "dandelion", "strength": 4.23, "group": "low"}
+{"idx": 28, "premise": ["brown bear", "polar bear", "grizzly bear"], "conclusion": "buffalo", "strength": 4.83, "group": "high"}
+{"idx": 29, "premise": ["red gum tree", "ghost gum", "blue gum", "flooded gum"], "conclusion": "maple tree", "strength": 3.76, "group": "low"}
 {"idx": 30, "premise": ["indonesian", "vietnamese", "malaysian", "cambodian"], "conclusion": "norwegian", "strength": 2.82, "group": "low"}
-{"idx": 31, "premise": ["brown bear", "polar bear ", "black bear", "grizzly bear"], "conclusion": "goat", "strength": 1.88, "group": "low"}
+{"idx": 31, "premise": ["brown bear", "polar bear", "black bear", "grizzly bear"], "conclusion": "goat", "strength": 1.88, "group": "low"}
 {"idx": 32, "premise": ["swede", "finn", "dane", "norwegian"], "conclusion": "italian", "strength": 5.53, "group": "high"}
 {"idx": 33, "premise": ["violinist", "double-bass player", "cellist"], "conclusion": "drummer", "strength": 6.12, "group": "high"}
 {"idx": 34, "premise": ["german shepherd", "doberman", "rottweiler"], "conclusion": "poodle", "strength": 3.41, "group": "low"}
