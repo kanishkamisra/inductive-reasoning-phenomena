@@ -1,0 +1,22 @@
+premise,conclusion,match
+bear,whale,anatomical
+tuna,whale,behavioral
+mouse,bat,anatomical
+sparrow,bat,behavioral
+lizard,snake,anatomical
+worm,snake,behavioral
+trout,shark,anatomical
+wolf,shark,behavioral
+robin,hawk,anatomical
+tiger,hawk,behavioral
+grasshopper,mosquito,anatomical
+vampire bat,mosquito,behavioral
+ant,bee,anatomical
+hummingbird,bee,behavioral
+rabbit,whale,anatomical
+giraffe,bat,anatomical
+turtle,snake,anatomical
+goldfish,shark,anatomical
+chicken,hawk,anatomical
+ladybug,mosquito,anatomical
+praying mantis,bee,anatomical
