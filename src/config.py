@@ -8,6 +8,16 @@ useful_cols = premise_cols + [
     "NAME",
 ]
 
+useful_pred_cols = useful_cols + [
+    "Feature Overlap",
+    "DeBERTa - MNLI",
+    "GPT3 - DaVinci",
+    "Feature Overlap - Logit",
+    "BART - MNLI",
+    "RoBERTa - MNLI",
+    "GPT3 - Babbage",
+]
+
 col2field = {
     "CONCLUSION CATEGORY": "conclusion",
     "SUPERORDINATE CATEGORY": "superordinate",
@@ -15,6 +25,13 @@ col2field = {
     "GROUP": "group",
     "NAME": "phenomena_name",
     "PROPERTY": "property",
+    "Feature Overlap": "feature_overlap",
+    "DeBERTa - MNLI": "deberta-mnli",
+    "GPT3 - DaVinci": "gpt3_davinci",
+    "Feature Overlap - Logit": "feature_overlap_logit",
+    "BART - MNLI": "bart-mnli",
+    "RoBERTa - MNLI": "roberta-mnli",
+    "GPT3 - Babbage": "gpt3_babbage",
 }
 
 exp_dict = {
