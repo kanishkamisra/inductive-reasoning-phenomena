@@ -5,6 +5,7 @@ import pandas as pd
 
 import config
 
+
 def get_induction_data(df):
     relevant_idx = df.columns.intersection(config.useful_pred_cols)
     df_dict = df[relevant_idx].to_dict("index")
@@ -28,6 +29,7 @@ def get_induction_data(df):
 
     return phenomena
 
+
 raw_stimuli_other = pd.read_excel(
     "data/raw/data - predictive accuracy.xlsx", sheet_name=None
 )
@@ -41,3 +43,18 @@ for k, v in raw_stimuli_other.items():
     with open(f"data/phenomena/{phenomena_name}_predictions.jsonl", "w") as f:
         for entry in phenomena_data:
             f.write(json.dumps(entry) + "\n")
+
+raw_stimuli_empirical = pd.read_excel(
+    "data/raw/data - empirical regularities.xlsx", sheet_name=None
+)
+
+for k, v in raw_stimuli_empirical.items():
+    try:
+        phenomena_name = config.exp_dict[k]
+        phenomena_data = get_induction_data(v)
+
+        with open(f"data/phenomena/{phenomena_name}_predictions.jsonl", "w") as f:
+            for entry in phenomena_data:
+                f.write(json.dumps(entry) + "\n")
+    except:
+        pass

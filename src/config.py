@@ -42,4 +42,5 @@ exp_dict = {
     "New - Exp 2": "bhatia_e2",
     "New - Exp 3": "bhatia_e3",
     "New - Exp 4": "bhatia_e4",
+    "Property Type": "property_type"
 }
